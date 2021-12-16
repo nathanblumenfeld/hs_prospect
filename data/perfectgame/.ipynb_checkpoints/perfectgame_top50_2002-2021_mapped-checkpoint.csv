@@ -1,0 +1,933 @@
+,player_name,college,rank,height,weight,bats/throws,hometown,drafted,debuted,travel_team,notes,class_year,school,school_id
+0,Scott Kazmir,Texas,1,6-0,175,L/L,"Houston, TX",Rd 1 by Mets (2002),Rays (2004),ildcats,,2002,Texas,703.0
+1,BJ (Melvin) Upton,Florida St.,2,6-3,175,R/R,"Chesapeake, VA",Rd 1 by Rays (2002),Rays (2004),None,,2002,Florida St.,234.0
+3,Christopher Gruler,Arizona St.,4,6-3,195,R/R,"Brentwood, CA",Rd 1 by Reds (2002),None,Nor Cal,,2002,Arizona St.,28.0
+4,Zack Greinke,Clemson,5,6-2,185,R/R,"Apopka, FL",Rd 1 by Royals (2002),Royals (2004),None,,2002,Clemson,147.0
+5,Jason Neighborgall,Georgia Tech,6,6-5,190,R/R,"Hillsborough, NC",Rd 3 by Diamondbacks (2005),None,None,,2002,Georgia Tech,255.0
+6,Mark McCormick,Baylor,7,6-2,195,R/R,"Clear Lake Shore, TX",Rd 1 by Cardinals (2005),None,None,,2002,Baylor,51.0
+7,Jeff Francoeur,Clemson,8,6-4,200,R/R,"Lilburn, GA",Rd 1 by Braves (2002),Braves (2005),None,,2002,Clemson,147.0
+9,Sergio Santos,Southern California,10,6-3,190,R/R,"Hacienda Heights, CA",Rd 1 by Diamondbacks (2002),White Sox (2010),Connie Mack Giants,,2002,Southern California,657.0
+10,Jon Lester,Arizona St.,11,6-2,190,L/L,"Puyallup, WA",Rd 2 by Red Sox (2002),Red Sox (2006),None,,2002,Arizona St.,28.0
+11,Jeff Clement,Southern California,12,6-1,200,L/R,"Marshalltown, IA",Rd 1 by Mariners (2005),Mariners (2007),HS Team,,2002,Southern California,657.0
+12,Scott Moore,Cal St. Fullerton,13,6-2,180,None,"Long Beach, CA",Rd 1 by Tigers (2002),Cubs (2006),Connie Mack,,2002,Cal St. Fullerton,97.0
+13,James Loney,Baylor,14,6-2,180,L/L,"Missouri City, TX",Rd 1 by Dodgers (2002),Dodgers (2006),None,,2002,Baylor,51.0
+14,Matt Whitney,Clemson,15,6-4,190,R/R,"Palm Beach Gardens, FL",Rd 1 by Indians (2002),None,None,,2002,Clemson,147.0
+15,Micah Owings,Tulane,16,6-3,205,R/R,"Gainesville, GA",Rd 2 by Rockies (2002),Diamondbacks (2007),None,,2002,Tulane,718.0
+16,Zach Hammes,Iowa,17,6-5,205,R/R,"Iowa City, IA",Rd 2 by Dodgers (2002),None,None,,2002,Iowa,312.0
+17,Mike Pelfrey,Wichita St.,18,6-6,190,R/R,"Wichita, KS",Rd 1 by Mets (2005),Mets (2006),None,,2002,Wichita St.,782.0
+19,Micah Schilling,LSU,20,5-11,185,L/R,"Clinton, LA",Rd 1 by Indians (2002),None,Bill Hood's All Stars,,2002,LSU,365.0
+20,Christian Madson,Florida,22,6-8,220,R/R,"Valrico, FL",Rd 14 by White Sox (2002),None,None,,2002,Florida,235.0
+21,John Jr. Mayberry,Stanford,23,6-4,200,R/R,"Overland Park, KS",Rd 1 by Rangers (2005),Phillies (2009),KC Tigers,,2002,Stanford,674.0
+22,Brian McCann,Alabama,24,6-2,190,L/R,"Duluth, GA",Rd 2 by Braves (2002),Braves (2005),None,,2002,Alabama,8.0
+24,Jason Pridie,Vanderbilt,26,0-0,0,None,"Prescott, AZ",None,None,None,,2002,Vanderbilt,736.0
+25,Brent Clevlen,Texas,27,0-0,0,None,"Cedar Park, TX",None,None,None,,2002,Texas,703.0
+26,Jake Blalock,Arizona St.,28,0-0,0,None,"San Diego, CA",None,None,None,,2002,Arizona St.,28.0
+27,Ryan Doherty,Notre Dame,29,7-2,225,R/R,"Toms River, NJ",None,None,None,,2002,Notre Dame,513.0
+28,Clinton Everts,Baylor,31,6-1,175,B/R,"Cypress, TX",Rd 1 by Nationals (2002),None,Angels 18 yr. Elite,,2002,Baylor,51.0
+29,Thomas Wilhelmsen,Arizona St.,32,6-6,190,R/R,"Tucson, AZ",Rd 7 by Brewers (2002),Mariners (2011),Legion Post 7,,2002,Arizona St.,28.0
+30,Adam Donachie,UCF,33,6-2,175,R/R,"Orlando, FL",Rd 2 by Royals (2002),None,None,,2002,UCF,128.0
+31,Jonathan Broxton,Ga. Southern,34,None,None,None,"Augusta, GA",Rd 2 by Dodgers (2002),Dodgers (2005),None,,2002,Ga. Southern,253.0
+32,Mark Rosen,Miami (FL),35,5-11,200,L/L,"Randolph, MA",Rd 5 by Diamondbacks (2002),None,None,,2002,Miami (FL),415.0
+33,Mark Romanczuk,Stanford,36,0-0,0,None,"Newark, DE",None,None,None,,2002,Stanford,674.0
+34,Alex Merricks,Arizona St.,37,0-0,0,None,"Oxnard, CA",None,None,None,,2002,Arizona St.,28.0
+36,Hayden Penn,San Diego St.,39,0-0,0,None,"Santee, CA",None,None,None,,2002,San Diego St.,626.0
+38,Blair Johnson,Nebraska,42,0-0,0,None,"Topeka, KS",None,None,None,,2002,Nebraska,463.0
+40,Josh Johnson,Oklahoma,44,0-0,0,None,"Tulsa, OK",None,None,None,,2002,Oklahoma,522.0
+41,Jarrad Page,UCLA,45,0-0,0,None,"San Leandro, CA",None,None,None,,2002,UCLA,110.0
+43,Prince Fielder,Arizona St.,47,6-1,240,L/R,"Melbourne, FL",Rd 1 by Brewers (2002),Brewers (2005),None,,2002,Arizona St.,28.0
+45,James Guerrero,San Diego St.,49,5-9,165,None,"Fontana, CA",None,None,None,,2002,San Diego St.,626.0
+46,Conor Lalor,South Carolina,50,0-0,0,None,"Germantown, TN",None,None,None,,2002,South Carolina,648.0
+48,Clay Dirks,LSU,52,0-0,0,None,"Hernando, MS",None,None,None,,2002,LSU,365.0
+50,Ryan Harvey,Florida,1,6-5,192,R/R,"Palm Harbor, FL",Rd 1 by Cubs (2003),None,None,,2003,Florida,235.0
+52,Delmon Young,Arizona,3,6-3,195,R/R,"Camarillo, CA",Rd 1 by Rays (2003),Rays (2006),None,,2003,Arizona,29.0
+53,Jeff Allison,Arizona,4,6-2,195,R/R,"Peabody, MA",Rd 1 by Marlins (2003),None,Team America,,2003,Arizona,29.0
+54,Andrew Miller,North Carolina,5,6-6,185,L/L,"Gainesville, FL",Rd 1 by Tigers (2006),Tigers (2006),None,,2003,North Carolina,457.0
+55,Chris Lubanski,Florida St.,6,6-3,180,L/L,"Schwenksville, PA",Rd 1 by Royals (2003),None,None,,2003,Florida St.,234.0
+56,Jared Hughes,Santa Clara,7,6-6,220,R/R,"Laguna Niguel, CA",Rd 4 by Pirates (2006),Pirates (2011),None,,2003,Santa Clara,631.0
+57,Ryan Sweeney,San Diego St.,8,6-4,205,L/L,"Cedar Rapids, IA",Rd 2 by White Sox (2003),White Sox (2006),None,,2003,San Diego St.,626.0
+58,Craig Whitaker,Texas A&M,9,6-4,180,R/R,"Lufkin, TX",None,None,None,,2003,Texas A&M,697.0
+59,John Danks,Texas,10,6-2,175,L/L,"Round Rock, TX",Rd 1 by Rangers (2003),White Sox (2007),None,,2003,Texas,703.0
+61,Jay Sborz,Arizona St.,12,6-4,220,R/R,"Great Falls, VA",None,Tigers (2010),None,,2003,Arizona St.,28.0
+62,Adam Jones,San Diego St.,13,6-1,180,S/R,"Spring Valley, CA",Rd 1 Comp by Mariners (2003),Mariners (2006),None,,2003,San Diego St.,626.0
+64,Matt Moses,Clemson,15,6-0,210,L/R,"Richmond, VA",Rd 1 by Twins (2003),None,None,,2003,Clemson,147.0
+65,Chad Billingsley,South Carolina,16,6-2,200,S/R,"Defiance, OH",Rd 1 by Dodgers (2003),Dodgers (2006),None,,2003,South Carolina,648.0
+66,Sean Rodriguez,FIU,17,6-0,175,R/R,"Miami, FL",Rd 3 by Angels (2003),Angels (2008),None,,2003,FIU,231.0
+67,Ian Stewart,Southern California,18,6-3,195,L/R,"Garden Grove, CA",Rd 1 by Rockies (2003),Rockies (2007),None,,2003,Southern California,657.0
+68,Jarrod Saltalamacchia,Florida St.,19,6-4,190,S/R,"West Palm Beach, FL",Rd 1 by Braves (2003),Braves (2007),None,,2003,Florida St.,234.0
+69,Scott Maine,Miami (FL),20,6-3,170,L/L,"Palm Beach Gardens, FL",Rd 6 by Diamondbacks (2007),Cubs (2010),None,,2003,Miami (FL),415.0
+71,Jeff Manship,Notre Dame,22,6-0,170,R/R,"San Antonio, TX",Rd 14 by Twins (2006),None,None,,2003,Notre Dame,513.0
+72,Anthony Whittington,Oklahoma St.,23,6-5,220,R/L,"Buffalo, WV",Rd 2 by Angels (2003),None,None,,2003,Oklahoma St.,521.0
+73,James Houser,Florida,24,6-4,180,L/L,"Sarasota, FL",Rd 2 by Rays (2003),Marlins (2010),None,,2003,Florida,235.0
+74,Jonathan Fulton,Virginia Tech,25,6-4,210,R/R,"Danville, VA",Rd 3 by Marlins (2003),None,Legion,,2003,Virginia Tech,742.0
+75,C.J. Bressoud,Alabama,26,6-1,185,R/R,"Kennesaw, GA",Rd 26 by Braves (2003),None,None,,2003,Alabama,8.0
+76,Colin Curtis,Arizona St.,27,6-0,195,L/L,"Sammamish, WA",Rd 4 by Yankees (2006),Yankees (2010),None,,2003,Arizona St.,28.0
+78,Daniel Bard,North Carolina,29,6-4,185,R/R,"Charlotte, NC",Rd 1 by Red Sox (2006),Red Sox (2009),None,,2003,North Carolina,457.0
+81,Drew Stubbs,Texas,32,6-3,185,R/R,"Atlanta, TX",Rd 1 by Reds (2006),None,None,,2003,Texas,703.0
+83,Charles Benoit,Oklahoma,34,6-2,224,L/L,"Southlake, TX",Rd 10 by Pirates (2006),None,Dallas Mustangs,,2003,Oklahoma,522.0
+85,Adam Hale,Rice,36,6-3,196,L/R,"Houston, TX",Rd 32 by Astros (2006),None,None,,2003,Rice,574.0
+86,Chuck Tiffany,Cal St. Fullerton,37,6-1,190,L/L,"Covina, CA",Rd 2 by Dodgers (2003),None,None,,2003,Cal St. Fullerton,97.0
+87,Xavier Paul,Tulane,38,5-11,195,S/R,"Slidell, LA",Rd 4 by Dodgers (2003),Dodgers (2009),None,,2003,Tulane,718.0
+88,Michael Rogers,Texas,39,6-0,170,L/L,"Del City, OK",Rd 16 by Twins (2003),None,None,,2003,Texas,703.0
+90,Jacob Stevens,Miami (FL),41,6-3,204,L/L,"Cape Coral, FL",Rd 3 by Braves (2003),None,None,,2003,Miami (FL),415.0
+91,Robert Valido,FIU,42,6-1,175,R/R,"Miami, FL",Rd 4 by White Sox (2003),None,None,,2003,FIU,231.0
+93,Eric Duncan,LSU,44,6-2,200,L/R,"Florham Park, NJ",Rd 1 by Yankees (2003),None,None,,2003,LSU,365.0
+94,Justin Brashear,Ole Miss,45,6-3,200,L/R,"Lake Charles, LA",Rd 25 by Angels (2003),None,None,,2003,Ole Miss,433.0
+96,Derik Olvey,Notre Dame,47,6-4,210,R/R,"Hueytown, AL",Rd 13 by Dodgers (2003),None,Bama Bombers,,2003,Notre Dame,513.0
+97,Doug Frame,Texas A&M,48,6-1,210,L/L,"Tomball, TX",Rd 22 by Dodgers (2003),None,Heat,,2003,Texas A&M,697.0
+99,Brennan Boesch,California,50,6-4,195,L/L,"Los Angeles, CA",Rd 3 by Tigers (2006),Tigers (2010),None,,2003,California,107.0
+101,Christopher Nelson,Georgia,2,5-11,175,R/R,"Decatur, GA",Rd 1 by Rockies (2004),Rockies (2009),None,,2004,Georgia,257.0
+102,Matt Bush,San Diego St.,3,6-0,170,R/R,"San Diego, CA",Rd 1 by Padres (2004),Rangers (2016),None,,2004,San Diego St.,626.0
+103,Scott Elbert,Missouri,4,6-2,195,L/L,"Seneca, MO",None,Dodgers (2009),None,,2004,Missouri,434.0
+104,Giovanny Gonzalez,Miami (FL),5,6-0,185,L/L,"Hialeah, FL",Rd 1 Comp by White Sox (2004),Athletics (2008),Miami Thunderstorms,,2004,Miami (FL),415.0
+105,Phillip Hughes,Santa Clara,6,6-4,215,R/R,"Santa Ana, CA",Rd 1 by Yankees (2004),Yankees (2007),None,,2004,Santa Clara,631.0
+106,Jay Rainville,Tennessee,7,6-3,220,R/R,"Pawtucket, RI",Rd 1 by Twins (2004),None,None,,2004,Tennessee,694.0
+107,Gregory Golson,Texas,8,6-1,190,R/R,"Austin, TX",Rd 1 by Phillies (2004),Phillies (2008),Austin Slam,,2004,Texas,703.0
+108,Eric Hurley,Florida,9,6-4,192,R/R,"Jacksonville, FL",Rd 1 by Rangers (2004),Rangers (2008),None,,2004,Florida,235.0
+109,Mark Rogers,Miami (FL),10,6-2,200,R/R,"Orr's Island, ME",Rd 1 by Brewers (2004),Brewers (2010),None,,2004,Miami (FL),415.0
+110,Neil Walker,Clemson,11,6-2,205,S/R,"Gibsonia, PA",Rd 1 by Pirates (2004),Pirates (2009),None,,2004,Clemson,147.0
+111,Dexter Fowler,Miami (FL),12,6-5,188,R/R,"Alpharetta, GA",Rd 14 by Rockies (2004),Rockies (2008),None,,2004,Miami (FL),415.0
+112,Chuck Lofgren,Santa Clara,13,6-3,190,L/L,"Burlingame, CA",Rd 4 by Indians (2004),None,None,,2004,Santa Clara,631.0
+113,Yovani Gallardo,TCU,14,6-2,180,R/R,"Ft. Worth, TX",Rd 2 by Brewers (2004),Brewers (2007),None,,2004,TCU,698.0
+114,Trevor Plouffe,Southern California,15,6-1,170,R/R,"Northridge, CA",Rd 1 by Twins (2004),Twins (2010),None,,2004,Southern California,657.0
+115,Troy Patton,Texas,16,6-1,170,L/L,"Magnolia, TX",Rd 9 by Astros (2004),Astros (2007),None,,2004,Texas,703.0
+116,Brad Bergesen,San Diego,17,6-2,215,L/R,"Pleasanton, CA",Rd 4 by Orioles (2004),Orioles (2009),NorCal,,2004,San Diego,627.0
+117,Matt Walker,Southeastern La.,18,6-3,190,R/R,"Grennwell Springs, LA",Rd 10 by Rays (2004),None,HS team,,2004,Southeastern La.,655.0
+118,Michael Taylor,Stanford,19,6-5,235,R/R,"Apopka, FL",Rd 5 by Phillies (2007),None,None,,2004,Stanford,674.0
+119,Matt Wieters,Georgia Tech,20,6-4,200,S/R,"Goose Creek, SC",Rd 1 by Orioles (2007),Orioles (2009),South Carolina Diamond Devils,,2004,Georgia Tech,255.0
+120,Erik Davis,Stanford,21,6-3,180,R/R,"Mountain View, CA",Rd 13 by Padres (2008),Nationals (2013),West Bay Titans,,2004,Stanford,674.0
+121,Stephen Chapman,Auburn,22,5-11,185,L/L,"Marianna, FL",Rd 6 by Brewers (2004),None,TM FL USA,,2004,Auburn,37.0
+122,Michael Schlact,South Carolina,23,6-7,205,R/R,"Marietta, GA",Rd 3 by Rangers (2004),None,None,,2004,South Carolina,648.0
+123,Mark Trumbo,Southern California,24,6-5,220,R/R,"Orange, CA",Rd 18 by Angels (2004),None,Yankee Scout Team,,2004,Southern California,657.0
+124,Christian Garcia,South Carolina,25,6-4,190,S/R,"Miami, FL",Rd 3 by Yankees (2004),Nationals (2012),CABA-hs team,,2004,South Carolina,648.0
+125,Erik Cordier,NC State,26,6-3,195,R/R,"Sturgeon Bay, WI",Rd 2 by Royals (2004),Giants (2014),OH Warhawks,,2004,NC State,490.0
+126,Michael Rozier,North Carolina,27,6-5,210,L/L,"Stockbridge, GA",Rd 12 by Red Sox (2004),None,Ohio Warhawks,,2004,North Carolina,457.0
+127,Josh Copeland,Alabama,28,6-3,200,R/R,"Palmetto, GA",Rd 47 by Angels (2008),None,Ohio Warhawks,,2004,Alabama,8.0
+128,Eric Ridener,New Mexico,29,6-4,220,R/R,"Coral Springs, FL",Rd 8 by Pirates (2004),None,Central FL Renegades,,2004,New Mexico,473.0
+129,Javier Guerra,Arizona,30,6-2,185,R/R,"Denton, TX",Rd 4 by Dodgers (2004),Dodgers (2011),None,,2004,Arizona,29.0
+130,Warren McFadden,Tulane,31,6-1,190,R/R,"Plantation, FL",Rd 28 by Tigers (2007),None,None,,2004,Tulane,718.0
+131,Andrew Gale,North Carolina,32,6-6,230,R/R,"Durham, NH",Rd 43 by Nationals (2004),None,Midland Redskins,,2004,North Carolina,457.0
+132,Sean Morgan,Tulane,33,6-3,218,R/R,"Sugarland, TX",Rd 4 by Diamondbacks (2007),None,None,,2004,Tulane,718.0
+133,Billy Butler,Florida,34,6-2,232,R/R,"Jacksonville, FL",Rd 1 by Royals (2004),Royals (2007),None,,2004,Florida,235.0
+134,Sam Demel,TCU,35,6-0,185,R/R,"Spring, TX",Rd 3 by Athletics (2007),Diamondbacks (2010),None,,2004,TCU,698.0
+135,Alex Garabedian,Col. of Charleston,36,6-2,215,R/R,"Miami, FL",Rd 7 by Yankees (2004),None,"HS team, Team One",,2004,Col. of Charleston,1014.0
+136,Preston Clark,Texas,37,5-10,178,R/R,"Rockwall, TX",Rd 33 by Cubs (2007),None,Dallas Tigers,,2004,Texas,703.0
+137,Seth Garrison,Arizona St.,38,6-4,200,S/R,"Coppell, TX",Rd 23 by Red Sox (2008),None,Dallas Tigers,,2004,Arizona St.,28.0
+138,Joshua Johnson,Texas,39,5-11,170,S/R,"Tampa, FL",None,None,HS Team,,2004,Texas,703.0
+139,Kenn Kasparek,Texas,40,6-9,197,R/R,"Weimar, TX",Rd 12 by Mariners (2008),None,None,,2004,Texas,703.0
+140,Steve Marquardt,Washington,41,6-2,195,R/R,"Kennewick, WA",Rd 37 by Phillies (2004),None,Baseball Northwest,,2004,Washington,756.0
+142,Joseph Bauserman,Ohio St.,43,6-2,220,R/R,"Tallahassee, FL",Rd 4 by Pirates (2004),None,None,,2004,Ohio St.,518.0
+143,David Kopp,Clemson,44,6-3,190,R/R,"Coral Springs, FL",Rd 2 by Cardinals (2007),None,Pokers,,2004,Clemson,147.0
+144,Gaby Hernandez,FIU,45,6-4,220,R/R,"Miami, FL",Rd 3 by Mets (2004),None,None,,2004,FIU,231.0
+145,Raudel Alfonso,Miami (FL),46,6-3,205,L/R,"Hialeah, FL",Rd 50 by Red Sox (2004),None,FL Bombers,,2004,Miami (FL),415.0
+146,Matt Tuiasosopo,Washington,47,6-2,200,R/R,"Woodinville, WA",Rd 3 by Mariners (2004),None,None,,2004,Washington,756.0
+147,Anthony Swarzak,LSU,48,6-3,190,R/R,"Ft. Lauderdale, FL",Rd 2 by Twins (2004),Twins (2010),None,,2004,LSU,365.0
+148,Jacob McGee,UNLV,49,6-2,190,L/L,"Sparks, NV",Rd 5 by Rays (2004),Rays (2010),Reno Aces,,2004,UNLV,465.0
+149,David Price,Vanderbilt,51,6-4,195,L/L,"Murfreesboro, TN",Rd 1 by Rays (2007),Rays (2008),None,,2004,Vanderbilt,736.0
+150,Justin Upton,NC State,1,6-2,187,R/R,"Chesapeake, VA",Rd 1 by Diamondbacks (2005),Diamondbacks (2007),AAU,,2005,NC State,490.0
+151,Cameron Maybin,Southern U.,2,6-3,195,S/R,"Arden, NC",Rd 1 by Tigers (2005),Tigers (2007),Midland Redskins,,2005,Southern U.,665.0
+152,Zach Putnam,Michigan,3,6-2,210,R/R,"Ann Arbor, MI",Rd 5 by Indians (2008),Indians (2011),Ann Arbor Braves,,2005,Michigan,418.0
+153,Justin Bristow,Auburn,4,6-4,205,R/R,"Richmond, VA",Rd 5 by Cubs (2008),None,None,,2005,Auburn,37.0
+154,Sean O'Sullivan,San Diego St.,5,6-2,195,R/R,"El Cajon, CA",Rd 3 by Angels (2005),Angels (2009),None,,2005,San Diego St.,626.0
+155,Andrew McCutchen,Florida,6,5-11,170,R/R,"Fort Meade, FL",Rd 1 by Pirates (2005),Pirates (2009),Team Florida USA,,2005,Florida,235.0
+156,Jordan Danks,Texas,7,6-5,200,L/R,"Round Rock, TX",Rd 7 by White Sox (2008),White Sox (2012),Austin BB Club,,2005,Texas,703.0
+157,Chris Volstad,Miami (FL),8,6-7,195,R/R,"Palm Beach Gardens, FL",Rd 1 by Marlins (2005),Marlins (2008),Yellowjackets,,2005,Miami (FL),415.0
+158,Craig Italiano,TCU,9,6-3,195,R/R,"Flower Mound, TX",None,None,Dallas Mustangs,,2005,TCU,698.0
+160,Ryan Tucker,Cal St. Fullerton,11,6-2,190,R/R,"Temple City, CA",Rd 1 by Marlins (2005),Marlins (2008),None,,2005,Cal St. Fullerton,97.0
+161,John Drennen,UCLA,12,6-0,180,L/L,"San Diego, CA",Rd 1 Comp by Indians (2005),None,OC Dawgs/Encinatas Reds,,2005,UCLA,110.0
+162,Josh Wall,LSU,13,6-6,190,R/R,"Walker, LA",Rd 2 by Dodgers (2005),Dodgers (2012),LA All Star BB,,2005,LSU,365.0
+163,Colby Rasmus,Auburn,14,6-2,183,L/L,"Phenix City, AL",Rd 1 by Cardinals (2005),Cardinals (2009),OH Warhawks,,2005,Auburn,37.0
+164,Mark Pawelek,Arizona St.,15,6-2,180,L/L,"Springville, UT",Rd 1 by Cubs (2005),None,Utah Stars,,2005,Arizona St.,28.0
+165,Kyle Hancock,Arkansas,16,6-3,185,R/R,"Rowlett, TX",Rd 3 by Rockies (2005),None,Dallas Tigers 17U,,2005,Arkansas,31.0
+166,Jeremy Hellickson,LSU,17,6-1,185,R/R,"Des Moines, IA",Rd 4 by Rays (2005),Rays (2010),HS team/FL Bombers,,2005,LSU,365.0
+167,David Adams,Virginia,18,6-1,185,R/R,"Margate, FL",Rd 3 by Yankees (2008),Yankees (2013),S.F. Bandits,,2005,Virginia,746.0
+169,Ike Davis,Arizona St.,20,6-5,205,L/L,"Scottsdale, AZ",Rd 1 by Mets (2008),Mets (2010),None,,2005,Arizona St.,28.0
+170,Matthew Olson,East Carolina,21,6-4,185,R/R,"Chesapeake, VA",Rd 13 by Phillies (2005),None,None,,2005,East Carolina,196.0
+171,Jeff Lyman,Arizona St.,22,6-3,215,R/R,"Alamo, CA",Rd 2 by Braves (2005),None,NorCal,,2005,Arizona St.,28.0
+172,Chris Dominguez,Louisville,23,6-5,220,R/R,"Miami, FL",Rd 3 by Giants (2009),Giants (2014),Team Florida USA,,2005,Louisville,367.0
+173,Tony Delmonico,Florida St.,23,5-11,185,S/R,"Knoxville, TN",Rd 6 by Dodgers (2008),None,Knoxville Thunder 17,,2005,Florida St.,234.0
+174,Austin Jackson,Georgia Tech,24,6-2,180,R/R,"Denton, TX",Rd 8 by Yankees (2005),Tigers (2010),Dallas Panthers,,2005,Georgia Tech,255.0
+175,Miers Quigley,Alabama,25,6-3,190,L/L,"Roswell, GA",Rd 19 by Cardinals (2005),None,None,,2005,Alabama,8.0
+177,Henry Sanchez,San Diego St.,27,6-3,260,R/R,"San Diego, CA",Rd 1 by Twins (2005),None,Bucs,,2005,San Diego St.,626.0
+178,Cody Satterwhite,Ole Miss,28,6-3,185,R/R,"Byram, MS",Rd 2 by Tigers (2008),None,None,,2005,Ole Miss,433.0
+179,Eric Massingham,Cal Poly,29,6-2,205,R/R,"Benicia, CA",Rd 25 by Phillies (2009),None,NorCal,,2005,Cal Poly,90.0
+180,Josh Zeid,Tulane,30,6-4,214,R/R,"New Haven, CT",Rd 10 by Phillies (2009),Astros (2013),LI Titans,,2005,Tulane,718.0
+181,Buster Posey,Florida St.,32,6-1,180,R/R,"Leesburg, GA",Rd 1 by Giants (2008),Giants (2009),HS team,,2005,Florida St.,234.0
+182,Beau Jones,LSU,33,6-0,180,L/L,"Destrehan, LA",Rd 1 Comp by Braves (2005),None,None,,2005,LSU,365.0
+183,Mike Bowden,Arizona St.,34,6-3,210,R/R,"Aurora, IL",Rd 1 Comp by Red Sox (2005),Red Sox (2008),None,,2005,Arizona St.,28.0
+184,Brandon Snyder,LSU,35,6-2,190,R/R,"Centreville, VA",Rd 1 by Orioles (2005),Orioles (2010),None,,2005,LSU,365.0
+185,Preston Paramore,Arizona St.,36,6-3,210,S/R,"Allen, TX",Rd 3 by Athletics (2008),None,Dallas Tigers,,2005,Arizona St.,28.0
+186,Joshua Bell,Fla. Atlantic,37,6-3,205,S/R,"Lantana, FL",Rd 4 by Dodgers (2005),Orioles (2010),"Bombers, Santa Fe Reds",,2005,Fla. Atlantic,229.0
+187,Brian Kirwan,UCLA,38,6-4,195,R/R,"Del Mar, CA",Rd 11 by Twins (2005),None,None,,2005,UCLA,110.0
+188,Aaron Thompson,Texas A&M,39,6-2,190,L/L,"Houston, TX",Rd 1 by Marlins (2005),Pirates (2011),Houston Kyle Chapman,,2005,Texas A&M,697.0
+190,Brett Jacobson,Vanderbilt,41,6-6,194,R/R,"Carefree, AZ",Rd 4 by Tigers (2008),None,None,,2005,Vanderbilt,736.0
+192,Thomas Mendoza,Miami (FL),43,6-3,195,L/R,"Hialeah, FL",None,None,Florida Bombers,,2005,Miami (FL),415.0
+193,Brandon Erbe,Miami (FL),44,6-4,195,R/R,"Baltimore, MD",Rd 3 by Orioles (2005),None,None,,2005,Miami (FL),415.0
+194,Dennis Raben,Miami (FL),45,6-3,185,L/L,"Hollywood, FL",Rd 2 by Mariners (2008),None,None,,2005,Miami (FL),415.0
+195,Matthew Hall,Arizona St.,46,6-2,180,R/R,"Scottsdale, AZ",Rd 8 by Angels (2005),None,HS team,,2005,Arizona St.,28.0
+196,Jonathan Egan,Georgia,47,6-4,210,R/R,"Hephzibah, GA",Rd 2 by Red Sox (2005),None,East Cobb Braves,,2005,Georgia,257.0
+197,Nick Romero,San Diego St.,48,6-0,180,S/R,"Chula Vista, CA",Rd 5 by Twins (2008),None,San Diego Show,,2005,San Diego St.,626.0
+198,Chaz Roe,Kentucky,49,6-5,170,R/R,"Lexington, KY",Rd 1 by Rockies (2005),None,None,,2005,Kentucky,334.0
+199,Jarred Bogany,LSU,50,6-3,199,R/R,"Houston, TX",Rd 15 by Pirates (2005),None,Kyle Chapman,,2005,LSU,365.0
+201,Brett Anderson,Oklahoma St.,2,6-4,210,L/L,"Stillwater, OK",Rd 2 by Diamondbacks (2006),Athletics (2009),Midland Redskins,,2006,Oklahoma St.,521.0
+202,Clayton Kershaw,Texas A&M,3,6-3,210,L/L,"Dallas, TX",Rd 1 by Dodgers (2006),Dodgers (2008),DBAT,,2006,Texas A&M,697.0
+203,Hank Conger,Southern California,4,6-1,205,S/R,"Huntington Beach, CA",Rd 1 by Angels (2006),Angels (2010),Trombly Baseball,,2006,Southern California,657.0
+204,Chris Marrero,Miami (FL),5,6-3,200,R/R,"Hialeah Garden, FL",Rd 1 by Nationals (2006),Nationals (2011),Team Florida/All American Prospect,,2006,Miami (FL),415.0
+205,Jordan Walden,Texas,6,6-4,185,R/R,"Mansfield, TX",Rd 12 by Angels (2006),Angels (2010),None,,2006,Texas,703.0
+206,Chris Parmelee,Cal St. Fullerton,7,6-1,195,L/L,"Chino Hills, CA",Rd 1 by Twins (2006),Twins (2011),ABD Bulldogs,,2006,Cal St. Fullerton,97.0
+207,Cody Johnson,Florida St.,8,6-4,195,L/R,"Panama City, FL",Rd 1 by Braves (2006),None,East Cobb Astros,,2006,Florida St.,234.0
+208,Chris Tillman,Cal St. Fullerton,9,6-5,185,R/R,"Fountain Valley, CA",Rd 2 by Mariners (2006),Orioles (2009),None,,2006,Cal St. Fullerton,97.0
+209,Jason Place,South Carolina,10,6-3,205,R/R,"Easley, SC",Rd 1 by Red Sox (2006),None,FL Bombers,,2006,South Carolina,648.0
+211,Kasey Kiker,South Alabama,12,5-11,185,L/L,"Phenix City, AL",Rd 1 by Rangers (2006),None,OH Warhawks,,2006,South Alabama,646.0
+212,Travis Snider,Arizona St.,13,6-2,220,L/L,"Everett, WA",Rd 1 by Blue Jays (2006),None,None,,2006,Arizona St.,28.0
+214,Jeremy Jeffress,Longwood,15,6-1,180,R/R,"South Boston, VA",Rd 1 by Brewers (2006),Brewers (2010),Dixie Pre-majors,,2006,Longwood,363.0
+215,Max Sapp,Florida St.,16,6-2,210,L/R,"Orlando, FL",Rd 1 by Astros (2006),None,Orlando Scorpions,,2006,Florida St.,234.0
+216,Billy Rowell,Alabama,17,6-4,198,L/R,"Sewell, NJ",Rd 1 by Orioles (2006),None,Diamondjacks,,2006,Alabama,8.0
+217,Adrian Cardenas,Florida,18,6-1,180,L/R,"Miami Lakes, FL",Rd 1 by Phillies (2006),Cubs (2012),All American Prospect,,2006,Florida,235.0
+218,Jake Locker,Washington,19,6-3,210,R/R,"Ferndale, WA",Rd 10 by Angels (2009),None,Baseball Washington West,,2006,Washington,756.0
+219,Colton Willems,Florida,20,6-4,185,R/R,"Fort Pierce, FL",Rd 1 by Nationals (2006),None,All American Prospects,,2006,Florida,235.0
+220,Derrick Robinson,Florida,21,6-1,175,S/L,"Archer, FL",Rd 4 by Royals (2006),Reds (2013),HS Team,,2006,Florida,235.0
+221,Ryan Adams,LSU,22,6-1,180,R/R,"Mandeville, LA",Rd 2 by Orioles (2006),Orioles (2011),Billhood,,2006,LSU,365.0
+222,Cory Rasmus,Auburn,23,6-1,198,R/R,"Phenix City, AL",Rd 1 by Braves (2006),Braves (2013),OH Warhawks,,2006,Auburn,37.0
+225,Kyler Burke,Vanderbilt,26,6-3,197,L/L,"Chattanooga, TN",Rd 1 Comp by Padres (2006),None,Chattanooga Cyclones,,2006,Vanderbilt,736.0
+226,Stephen King,LSU,27,6-2,175,R/R,"Orlando, FL",Rd 3 by Nationals (2006),None,None,,2006,LSU,365.0
+227,David Christensen,Miami (FL),28,6-1,202,R/R,"Parkland, FL",Rd 2 by Rockies (2006),None,Georgia Stars,,2006,Miami (FL),415.0
+228,Devin Shepherd,Oklahoma,29,6-4,221,R/R,"Oxnard, CA",Rd 5 by Twins (2006),None,None,,2006,Oklahoma,522.0
+229,Stephen Englund,Washington St.,30,6-2,185,R/R,"Bellevue, WA",Rd 2 by Nationals (2006),None,Chaffey BBC,,2006,Washington St.,754.0
+230,Sean Black,Seton Hall,31,6-4,190,R/R,"Mt. Laurel, NJ",Rd 2 by Nationals (2006),None,Tri-State Arsenal,,2006,Seton Hall,635.0
+232,Sam Dyson,South Carolina,33,6-1,170,R/R,"Tampa, FL",Rd 4 by Blue Jays (2010),Blue Jays (2012),Hitmaster,,2006,South Carolina,648.0
+233,Aaron Miller,Baylor,34,6-3,190,L/L,"Channelview, TX",Rd 1 by Dodgers (2009),None,None,,2006,Baylor,51.0
+234,Ryan Morris,Clemson,35,6-3,185,L/L,"Charlotte, NC",None,None,Impact Baseball,,2006,Clemson,147.0
+235,Dustin Dickerson,Baylor,36,6-4,190,L/R,"McGregor, TX",Rd 6 by Marlins (2009),None,TX Blackhawks,,2006,Baylor,51.0
+236,Grant Green,Southern California,37,6-3,170,R/R,"Anaheim, CA",Rd 1 by Athletics (2009),Athletics (2013),Saddleback Valley Devils,,2006,Southern California,657.0
+237,Riley Cooper,Florida,38,6-3,200,R/R,"Seminole, FL",Rd 15 by Phillies (2006),None,Bombers,,2006,Florida,235.0
+238,Carmine Giardina,Texas,39,6-3,210,R/L,"Valrico, FL",Rd 15 by Angels (2010),None,Chet Lemon's Juice,,2006,Texas,703.0
+240,Ryan Kalish,Virginia,41,6-1,190,L/L,"Shrewsbury, NJ",Rd 9 by Red Sox (2006),Red Sox (2010),HS team,,2006,Virginia,746.0
+241,Andrew Oliver,Oklahoma St.,42,6-3,200,L/L,"Vermillion, OH",Rd 2 by Tigers (2009),Tigers (2010),Midland Redskins,,2006,Oklahoma St.,521.0
+242,Nathan Karns,Texas,43,6-4,225,R/R,"Arlington, TX",Rd 10 by Astros (2006),Nationals (2013),Midland Redskins,,2006,Texas,703.0
+243,Caleb Clay,Auburn,44,6-2,185,R/R,"Cullman, AL",None,None,Bama Bombers,,2006,Auburn,37.0
+244,Nathan Bridges,Cal St. Fullerton,45,6-1,170,R/R,"Yorba Linda, CA",None,None,None,,2006,Cal St. Fullerton,97.0
+247,Zach Britton,Texas A&M,48,6-2,175,L/L,"Weatherford, TX",Rd 3 by Orioles (2006),Orioles (2011),None,,2006,Texas A&M,697.0
+248,Chris Archer,Miami (FL),49,6-3,180,R/R,"Clayton, NC",Rd 5 by Indians (2006),Rays (2012),Carolina Cubs,,2006,Miami (FL),415.0
+249,Torre Langley,Georgia Tech,50,5-9,175,R/R,"Winston, GA",Rd 3 by Marlins (2006),None,EC Yankees,,2006,Georgia Tech,255.0
+250,Rick Porcello,North Carolina,1,6-5,195,R/R,"Chester, NJ",Rd 1 by Tigers (2007),Tigers (2009),Farrah's Builders,,2007,North Carolina,457.0
+251,Jason Heyward,UCLA,2,6-4,220,L/L,"McDonough, GA",Rd 1 by Braves (2007),Braves (2010),East Cobb Astros,,2007,UCLA,110.0
+252,Josh Vitters,Arizona St.,3,6-3,190,R/R,"Anaheim, CA",Rd 1 by Cubs (2007),Cubs (2012),USA,,2007,Arizona St.,28.0
+253,Matt Harvey,North Carolina,4,6-4,195,R/R,"Mystic, CT",Rd 1 by Mets (2010),Mets (2012),Legion,,2007,North Carolina,457.0
+254,Madison Bumgarner,North Carolina,5,6-5,220,R/L,"Lenoir, NC",Rd 1 by Giants (2007),Giants (2009),Legion,,2007,North Carolina,457.0
+255,Josh Smoker,Clemson,6,6-2,190,L/L,"Sugar Valley, GA",Rd 1 Comp by Nationals (2007),Mets (2016),East Cobb Braves,,2007,Clemson,147.0
+256,Blake Beavan,Oklahoma,7,6-7,210,R/R,"Irving, TX",Rd 1 by Rangers (2007),Mariners (2011),Dallas Tigers,,2007,Oklahoma,522.0
+257,Jarrod Parker,Georgia Tech,8,6-1,175,R/R,"Bluffton, IN",Rd 1 by Diamondbacks (2007),Diamondbacks (2011),None,,2007,Georgia Tech,255.0
+258,Justin Jackson,Arizona St.,9,6-2,175,R/R,"Asheville, NC",Rd 1 by Blue Jays (2007),None,Midland Redskins,,2007,Arizona St.,28.0
+259,Michael Main,Florida St.,10,6-2,180,R/R,"Deltona, FL",Rd 1 by Rangers (2007),None,Central FL Renegades,,2007,Florida St.,234.0
+261,Mike Moustakas,Southern California,12,6-0,185,L/R,"Northridge, CA",Rd 1 by Royals (2007),None,None,,2007,Southern California,657.0
+262,Tim Alderson,Oregon St.,13,6-7,208,R/R,"Phoenix, AZ",Rd 1 by Giants (2007),None,Arizona Smoke,,2007,Oregon St.,528.0
+263,Michael Burgess,Arizona St.,14,5-11,190,L/L,"Tampa, FL",Rd 1 by Nationals (2010),None,Florida Bombers,,2007,Arizona St.,28.0
+264,Chris Withrow,Baylor,15,6-3,185,R/R,"Odessa, TX",Rd 1 by Dodgers (2007),Dodgers (2013),Bandits,,2007,Baylor,51.0
+265,Matthew Dominguez,Cal St. Fullerton,16,6-2,180,R/R,"Lake Balboa, CA",Rd 1 by Marlins (2007),None,None,,2007,Cal St. Fullerton,97.0
+266,Neil Ramirez,Georgia Tech,17,6-3,190,R/R,"Virginia Beach, VA",Rd 1 by Rangers (2007),Cubs (2014),MD Orioles,,2007,Georgia Tech,255.0
+267,Nick Noonan,Clemson,18,6-1,175,L/R,"San Diego, CA",Rd 1 by Giants (2007),Giants (2013),ABD Bulldogs,,2007,Clemson,147.0
+268,Julian Sampson,Washington,19,6-5,190,R/R,"Sammamish, WA",Rd 12 by Phillies (2007),None,None,,2007,Washington,756.0
+269,Peter Kozma,Wichita St.,20,6-0,170,R/R,"Owasso, OK",Rd 1 by Cardinals (2007),Cardinals (2011),HS team,,2007,Wichita St.,782.0
+270,Nevin Griffith,FIU,21,6-2,185,R/R,"Brandon, FL",Rd 2 by White Sox (2007),None,Middleton,,2007,FIU,231.0
+271,Tanner Robles,Oregon St.,22,6-4,190,L/L,"Murray, UT",Rd 9 by Reds (2010),None,None,,2007,Oregon St.,528.0
+272,Jack McGeary,Stanford,23,6-4,215,L/L,"Newton, MA",Rd 6 by Nationals (2007),None,East Cobb Braves,,2007,Stanford,674.0
+273,Kevin Ahrens,Texas A&M,24,6-1,187,S/R,"Houston, TX",Rd 1 by Blue Jays (2007),None,Houston Heat,,2007,Texas A&M,697.0
+274,Ryan Dent,UCLA,25,6-0,185,R/R,"Long Beach, CA",Rd 1 Comp by Red Sox (2007),None,Midland Redskins,,2007,UCLA,110.0
+275,Casey Crosby,Illinois,26,6-4,190,R/L,"Elburn, IL",Rd 5 by Tigers (2007),Tigers (2012),Top Tier-Orioles,,2007,Illinois,301.0
+277,Justin Grimm,Georgia,28,6-4,175,R/R,"Bristol, VA",Rd 5 by Rangers (2010),Rangers (2012),Virginia,,2007,Georgia,257.0
+278,Kentrail Davis,Tennessee,29,5-9,195,L/R,"Theodore, AL",Rd 1 by Brewers (2009),None,Bama Bombers,,2007,Tennessee,694.0
+279,John Tolisano,Florida,30,6-0,190,S/R,"Sanibel, FL",Rd 2 by Blue Jays (2007),None,All American Prospects,,2007,Florida,235.0
+280,Greg Peavey,Oregon St.,31,6-2,185,R/R,"Vancouver, WA",Rd 6 by Mets (2010),None,Seattle Stars Baseball,,2007,Oregon St.,528.0
+281,Devin Mesoraco,Virginia,32,6-0,200,R/R,"Punxsutawney, PA",Rd 1 by Reds (2007),Reds (2011),None,,2007,Virginia,746.0
+282,Wendell Fairley,Southern Miss.,33,6-2,175,L/L,"Lucedale, MS",Rd 1 by Giants (2007),None,None,,2007,Southern Miss.,664.0
+283,Kyle Blair,San Diego,34,6-4,200,R/R,"Monte Sereno, CA",Rd 4 by Indians (2010),None,NorCal,,2007,San Diego,627.0
+284,Jon Gilmore,Wichita St.,35,6-3,190,R/R,"Iowa City, IA",Rd 1 by Braves (2007),None,HS team,,2007,Wichita St.,782.0
+285,Derek Dietrich,Georgia Tech,36,6-2,185,L/R,"Parma, OH",Rd 2 by Rays (2010),Marlins (2013),None,,2007,Georgia Tech,255.0
+287,Yasmani Grandal,Miami (FL),38,6-2,205,S/R,"Hialeah, FL",Rd 1 by Reds (2010),Padres (2012),Bombers,,2007,Miami (FL),415.0
+288,Christian Colon,Cal St. Fullerton,39,5-11,175,S/R,"Anaheim Hills, CA",Rd 1 by Royals (2010),Royals (2014),None,,2007,Cal St. Fullerton,97.0
+289,Evan Danieli,Notre Dame,40,6-8,225,R/R,"East Hanover, NJ",Rd 24 by Braves (2010),None,NJ Twins,,2007,Notre Dame,513.0
+290,Will Middlebrooks,Texas A&M,41,6-4,215,R/R,"Wake Village, TX",Rd 5 by Red Sox (2007),Red Sox (2012),None,,2007,Texas A&M,697.0
+291,Dan Duffy,Cal Poly,42,6-3,190,L/L,"Lompoc, CA",Rd 3 by Royals (2007),Royals (2011),Wahoos,,2007,Cal Poly,90.0
+292,Hunter Morris,Auburn,43,6-4,200,L/R,"Huntsville, AL",Rd 2 by Red Sox (2007),None,East Cobb Braves,,2007,Auburn,37.0
+293,Scott Moviel,NC State,44,6-10,245,R/R,"Berea, OH",Rd 2 by Mets (2007),None,None,,2007,NC State,490.0
+294,Matt Presley,Arizona,45,6-2,197,R/R,"Colorado Springs, CO",Rd 24 by Red Sox (2007),None,None,,2007,Arizona,29.0
+295,Kevin Patterson,Auburn,46,6-4,215,L/R,"Birmingham, AL",Rd 23 by Rays (2010),None,Cahaba Mudcats,,2007,Auburn,37.0
+296,Kyle Lotzkar,Gonzaga,47,6-3,185,L/R,"Delta, BC",Rd 1 Comp by Reds (2007),None,None,,2007,Gonzaga,260.0
+297,Travis Mattair,Oregon St.,48,6-4,210,R/R,"Kennewick, WA",Rd 2 by Phillies (2007),None,None,,2007,Oregon St.,528.0
+298,Drew Cumberland,LSU,49,5-10,155,L/R,"Pace, FL",Rd 1 Comp by Padres (2007),None,Pensacola Angels,,2007,LSU,365.0
+300,Kyle Skipworth,Arizona St.,1,6-3,195,L/R,"Riverside, CA",Rd 1 by Marlins (2008),Marlins (2013),ABD Bulldogs,,2008,Arizona St.,28.0
+301,Gerrit Cole,UCLA,2,6-3,190,R/R,"Santa Ana, CA",Rd 1 by Pirates (2011),Pirates (2013),Orange County Dawgs,,2008,UCLA,110.0
+302,Tim Beckham,Southern California,3,6-2,191,R/R,"Griffin, GA",Rd 1 by Rays (2008),Rays (2013),Atlanta Blue Jays,,2008,Southern California,657.0
+303,Eric Hosmer,Arizona St.,4,6-4,210,L/L,"Cooper City, FL",Rd 1 by Royals (2008),Royals (2011),Midland Redskins,,2008,Arizona St.,28.0
+304,Ethan Martin,Clemson,5,6-3,200,R/R,"Toccoa, GA",Rd 1 by Dodgers (2008),Phillies (2013),East Cobb Braves,,2008,Clemson,147.0
+305,Aaron Hicks,Southern California,6,6-1,160,S/R,"Long Beach, CA",Rd 1 by Twins (2008),Twins (2013),SGV Arsenal,,2008,Southern California,657.0
+306,Tim Melville,North Carolina,7,6-5,205,R/R,"Wentzville, MO",Rd 4 by Royals (2008),Reds (2016),Richmond Braves,,2008,North Carolina,457.0
+307,Brett DeVall,Georgia,8,6-4,205,R/L,"Niceville, FL",Rd 1 by Braves (2008),None,East Cobb Astros,,2008,Georgia,257.0
+308,Casey Kelly,Tennessee,9,6-3,190,R/R,"Sarasota, FL",Rd 1 by Red Sox (2008),Padres (2012),None,,2008,Tennessee,694.0
+309,Harold Martinez,Miami (FL),10,6-3,185,R/R,"Miami, FL",Rd 2 by Phillies (2011),None,Miami Legends,,2008,Miami (FL),415.0
+310,Alex Meyer,Kentucky,11,6-7,200,R/R,"Greensburg, IN",Rd 1 by Nationals (2011),Twins (2015),Indiana Bulls,,2008,Kentucky,334.0
+312,Ezekiel Spruill,Georgia,13,6-3,185,R/R,"Marietta, GA",Rd 2 by Braves (2008),Diamondbacks (2013),ECB Braves,,2008,Georgia,257.0
+313,Sonny Gray,Vanderbilt,14,6-0,185,R/R,"Smyrna, TN",Rd 1 by Athletics (2011),Athletics (2013),Brentwood A's,,2008,Vanderbilt,736.0
+314,Jake Odorizzi,Louisville,15,6-2,175,R/R,"Highland, IL",Rd 1 by Brewers (2008),Royals (2012),St Louis Pirates,,2008,Louisville,367.0
+315,BJ Hermsen,Oregon St.,16,6-6,230,R/R,"Masonville, IA",Rd 6 by Twins (2008),None,HS team,,2008,Oregon St.,528.0
+316,Xavier Avery,Georgia,17,6-0,185,L/L,"Decatur, GA",Rd 2 by Orioles (2008),Orioles (2012),East Cobb Braves,,2008,Georgia,257.0
+317,Robbie Grossman,Texas,18,6-1,195,S/L,"Cypress, TX",Rd 6 by Pirates (2008),Astros (2013),Houston Kyle Chapman Blue,,2008,Texas,703.0
+318,Quinton Miller,North Carolina,19,6-2,178,R/R,"Medford, NJ",Rd 20 by Pirates (2008),None,Tri State Arsenal,,2008,North Carolina,457.0
+319,Robbie Ross,Kentucky,20,5-11,180,L/L,"Nicholasville, KY",Rd 2 by Rangers (2008),Rangers (2012),KY BB Club,,2008,Kentucky,334.0
+320,Rolando Gomez,Miami (FL),21,5-9,150,L/R,"Pembroke Pines, FL",Rd 11 by Angels (2008),None,All American Prospects,,2008,Miami (FL),415.0
+321,Anthony Gose,Arizona,22,6-0,170,L/L,"Bellflower, CA",Rd 2 by Phillies (2008),Blue Jays (2012),Bellflower Bandits,,2008,Arizona,29.0
+322,Isaac Galloway,San Diego St.,23,6-3,190,R/R,"Rancho Cucamonga, CA",Rd 8 by Marlins (2008),Marlins (2018),Legion,,2008,San Diego St.,626.0
+323,Joseph (Jay) Austin,Southern California,24,6-1,180,L/L,"Atlanta, GA",Rd 2 by Astros (2008),None,East Cobb Astros,,2008,Southern California,657.0
+324,Tyler Sample,Arkansas,25,6-7,220,L/R,"Elizabeth, CO",Rd 3 by Royals (2008),None,Slammers Blue,,2008,Arkansas,31.0
+325,Ross Seaton,Tulane,26,6-4,185,L/R,"Sugar Land, TX",Rd 3 by Astros (2008),None,Fort Bend Texans,,2008,Tulane,718.0
+326,Jason Knapp,North Carolina,27,6-5,225,R/R,"Annandale, NJ",Rd 2 by Phillies (2008),None,South FL Bandits/Diamondjacks,,2008,North Carolina,457.0
+327,Destin Hood,Alabama,28,6-2,185,R/R,"Eight Mile (Mobile), AL",Rd 2 by Nationals (2008),None,None,,2008,Alabama,8.0
+328,Anthony Hewitt,Vanderbilt,29,6-1,190,R/R,"Brooklyn, NY",Rd 1 by Phillies (2008),None,Bonnies Monarchs,,2008,Vanderbilt,736.0
+329,Brett Mooneyham,Stanford,30,6-4,215,L/L,"Merced, CA",Rd 3 by Nationals (2012),None,None,,2008,Stanford,674.0
+330,Michael Palazzone,Georgia,31,6-3,190,R/R,"Marietta, GA",Rd 18 by Braves (2008),None,East Cobb Braves,,2008,Georgia,257.0
+331,Ricky Oropesa,Southern California,32,6-2,215,L/R,"Rancho Cucamonga, CA",Rd 3 by Giants (2011),None,San Gabriel Valley Arsenal,,2008,Southern California,657.0
+332,Brett Lawrie,Arizona St.,33,6-0,190,R/R,"Langley, BC",Rd 1 by Brewers (2008),Blue Jays (2011),None,,2008,Arizona St.,28.0
+333,Michael Montgomery,Cal St. Fullerton,34,6-3,170,L/L,"Valencia, CA",Rd 36 by Royals (2008),None,None,,2008,Cal St. Fullerton,97.0
+334,Kyle Lobstein,Arizona,35,6-3,180,L/L,"Flagstaff, AZ",Rd 2 by Rays (2008),None,None,,2008,Arizona,29.0
+335,Tyler Stovall,Auburn,36,6-1,185,L/L,"Hokes Bluff, AL",Rd 2 by Braves (2008),None,None,,2008,Auburn,37.0
+336,Daniel Marrs,Wake Forest,37,6-3,200,R/R,"Midlothian, VA",Rd 40 by Phillies (2008),None,"NABF, VA Cardinals",,2008,Wake Forest,749.0
+337,Trey Haley,Rice,38,6-4,185,R/R,"San Augustine, TX",Rd 2 by Indians (2008),None,SE Texas Sun Devils,,2008,Rice,574.0
+338,J P Ramirez,Tulane,39,5-10,180,L/L,"New Braunfels, TX",Rd 15 by Nationals (2008),None,San Antonio Hackers/Florida Bombers,,2008,Tulane,718.0
+339,Kyle Long,Florida St.,40,6-7,280,L/L,"Ivy, VA",Rd 23 by White Sox (2008),None,None,,2008,Florida St.,234.0
+340,Tyler Chatwood,UCLA,41,6-0,185,R/R,"Yucaipa, CA",Rd 2 by Angels (2008),Angels (2011),ABD,,2008,UCLA,110.0
+341,Brad Hand,Arizona St.,42,6-2,205,L/L,"Chaska, MN",Rd 2 by Marlins (2008),Marlins (2011),Legion,,2008,Arizona St.,28.0
+342,Nick Maronde,Florida,43,6-3,195,S/L,"Lexington, KY",Rd 3 by Angels (2011),Angels (2012),Orlando Scorpions,,2008,Florida,235.0
+344,Danny Hultzen,Virginia,45,6-0,180,L/L,"Bethesda, MD",Rd 1 by Mariners (2011),Cubs (2019),Richmond Braves National '08,,2008,Virginia,746.0
+345,Matt Marquis,Vanderbilt,46,6-1,190,R/R,"Annandale, NJ",Rd 28 by Red Sox (2008),None,NJ Super 17's,,2008,Vanderbilt,736.0
+346,Zack Cox,Arkansas,47,6-0,205,L/R,"Louisville, KY",Rd 1 by Cardinals (2010),None,Louisville Lumberjaxx,,2008,Arkansas,31.0
+347,Wesley Freeman,UCF,48,6-4,210,R/R,"Lakeland, FL",Rd 16 by Pirates (2008),None,Team IBC,,2008,UCF,128.0
+348,Taylor Jungmann,Texas,49,6-5,180,R/R,"Geogetown, TX",Rd 1 by Brewers (2011),Brewers (2015),None,,2008,Texas,703.0
+349,Clark Murphy,UCLA,50,6-3,200,L/L,"Fallbrook, CA",Rd 5 by Rangers (2008),None,San Diego Show,,2008,UCLA,110.0
+350,Tyler Matzek,Oregon,1,6-3,185,L/L,"Mission Viejo, CA",Rd 1 by Rockies (2009),Rockies (2014),Trombly Braves,,2009,Oregon,529.0
+351,Matthew Purke,TCU,2,6-3,170,L/L,"Spring, TX",Rd 1 by Rangers (2009),Nationals (2016),Houston Heat,,2009,TCU,698.0
+352,Donavan Tate,North Carolina,3,6-3,200,R/R,"Cartersville, GA",Rd 1 by Padres (2009),None,East Cobb Braves 17U,,2009,North Carolina,457.0
+353,Zack Wheeler,Kennesaw St.,4,6-4,180,S/R,"Dallas, GA",Rd 1 by Giants (2009),Mets (2013),East Cobb Braves,,2009,Kennesaw St.,1157.0
+354,Jacob Turner,North Carolina,5,6-4,205,R/R,"St Charles, MO",Rd 1 by Tigers (2009),Tigers (2011),Rawlings Prospects,,2009,North Carolina,457.0
+355,Shelby Miller,Texas A&M,6,6-3,195,R/R,"Brownwood, TX",Rd 1 by Cardinals (2009),Cardinals (2012),Austin Slam,,2009,Texas A&M,697.0
+356,Matt Hobgood,Cal St. Fullerton,7,6-4,240,R/R,"Norco, CA",Rd 1 by Orioles (2009),None,Trombly Braves,,2009,Cal St. Fullerton,97.0
+357,Mike Trout,East Carolina,8,6-2,190,R/R,"Millville, NJ",Rd 1 by Angels (2009),Angels (2011),Tri-State Arsenal 15u,,2009,East Carolina,196.0
+358,Bobby Borchering,Florida,9,6-4,194,S/R,"Alva, FL",Rd 1 by Diamondbacks (2009),None,FL Raiders Scout Team,,2009,Florida,235.0
+359,Keyvius Sampson,Florida St.,10,6-1,185,R/R,"Ocala, FL",Rd 4 by Padres (2009),Reds (2015),Winning Silver,,2009,Florida St.,234.0
+360,Matt Davidson,Southern California,11,6-3,205,R/R,"Yucaipa, CA",Rd 1 by Diamondbacks (2009),Diamondbacks (2013),ABD Bulldogs,,2009,Southern California,657.0
+361,Max Stassi,UCLA,12,5-10,187,R/R,"Yuba City, CA",Rd 4 by Athletics (2009),Astros (2013),HS team,,2009,UCLA,110.0
+362,Jiovanni Mier,Southern California,13,6-2,170,R/R,"Pomona, CA",Rd 1 by Astros (2009),None,ABD Bulldogs,,2009,Southern California,657.0
+363,Nick Franklin,Auburn,14,6-1,180,S/R,"Longwood, FL",Rd 1 by Mariners (2009),Mariners (2013),Orlando Scorpions,,2009,Auburn,37.0
+364,Wil Myers,South Carolina,15,6-3,190,R/R,"Thomasville, NC",Rd 3 by Royals (2009),Rays (2013),Dirt Bags,,2009,South Carolina,648.0
+365,Chad James,Oklahoma St.,16,6-4,200,L/L,"Yukon, OK",Rd 1 by Marlins (2009),None,Midwest Wolverines,,2009,Oklahoma St.,521.0
+366,Slade Heathcott,LSU,17,6-1,196,L/L,"Texarkana, TX",Rd 1 by Yankees (2009),Yankees (2015),Dallas Bats,,2009,LSU,365.0
+367,Everett Williams,Texas,18,5-10,195,L/R,"Austin, TX",Rd 2 by Padres (2009),None,None,,2009,Texas,703.0
+368,David Renfroe,Ole Miss,19,6-3,200,R/R,"Batesville, MS",Rd 3 by Red Sox (2009),None,Dulins Dodgers,,2009,Ole Miss,433.0
+369,Brody Colvin,LSU,20,6-4,190,R/R,"Lafayette, LA",Rd 7 by Phillies (2009),None,None,,2009,LSU,365.0
+370,Luke Bailey,Auburn,21,6-0,195,R/R,"LaGrange, GA",Rd 4 by Rays (2009),None,Georgia Roadrunners,,2009,Auburn,37.0
+371,Mychal Givens,Oklahoma St.,22,6-2,185,S/R,"Tampa, FL",Rd 2 by Orioles (2009),Orioles (2015),None,,2009,Oklahoma St.,521.0
+372,Brooks Pounders,Southern California,23,6-5,220,R/R,"Temecula, CA",Rd 2 by Pirates (2009),Royals (2016),ABD Bulldogs/Trombly Braves,,2009,Southern California,657.0
+373,Tommy Joseph,Arizona,24,6-1,210,R/R,"Phoenix, AZ",Rd 2 by Giants (2009),Phillies (2016),Scottsdale Storm,,2009,Arizona,29.0
+374,Steven Matz,Coastal Carolina,25,6-2,185,R/L,"Stony Brook, NY",Rd 2 by Mets (2009),Mets (2015),Paveco Storm Black,,2009,Coastal Carolina,149.0
+375,Randal Grichuk,Arizona,26,6-0,190,R/R,"Rosenberg, TX",Rd 1 by Angels (2009),Cardinals (2014),Fort Bend Texans,,2009,Arizona,29.0
+376,Colton Cain,Texas,27,6-3,230,L/L,"Waxahachie, TX",Rd 8 by Pirates (2009),None,Dallas Tigers,,2009,Texas,703.0
+377,Andrew Susac,Oregon St.,28,6-1,190,R/R,"Roseville, CA",Rd 2 by Giants (2011),Giants (2014),EDH Vipers,,2009,Oregon St.,528.0
+378,Garrett Gould,Wichita St.,29,6-4,190,R/R,"Wichita, KS",Rd 2 by Dodgers (2009),None,Midwest Wolverines,,2009,Wichita St.,782.0
+379,Jake Barrett,Arizona St.,30,6-3,235,R/R,"Mesa, AZ",Rd 3 by Diamondbacks (2012),Diamondbacks (2016),ATB,,2009,Arizona St.,28.0
+380,Michael Heller,Florida,31,6-2,180,R/R,"Bradenton, FL",Rd 29 by Pirates (2009),None,FL Raiders,,2009,Florida,235.0
+381,JR Murphy,Miami (FL),32,6-0,180,R/R,"Bradenton, FL",Rd 2 by Yankees (2009),Yankees (2013),None,,2009,Miami (FL),415.0
+382,Austin Maddox,Florida,33,6-3,220,R/R,"Jacksonville, FL",Rd 3 by Red Sox (2012),Red Sox (2017),Team Mizuno,,2009,Florida,235.0
+383,Brian Goodwin,South Carolina,34,6-0,185,L/R,"Rocky Mount, NC",Rd 1 Comp by Nationals (2011),Nationals (2016),None,,2009,South Carolina,648.0
+385,Tyler Skaggs,Cal St. Fullerton,36,6-5,180,L/L,"Venice, CA",Rd 1 by Angels (2009),Diamondbacks (2012),None,,2009,Cal St. Fullerton,97.0
+386,Chris Owings,South Carolina,37,5-10,165,R/R,"Leesville, SC",Rd 1 by Diamondbacks (2009),None,Diamond Devils 16's,,2009,South Carolina,648.0
+387,LeVon Washington,Florida,38,5-10,170,L/R,"Gainesville, FL",Rd 1 by Rays (2009),None,FL Hardballers,,2009,Florida,235.0
+388,Jake Marisnick,Oregon,39,6-4,200,R/R,"Riverside, CA",Rd 3 by Blue Jays (2009),Marlins (2013),None,,2009,Oregon,529.0
+390,Scott Griggs,UCLA,41,6-2,185,R/R,"Alamo, CA",Rd 8 by Dodgers (2012),None,NorCal Baseball,,2009,UCLA,110.0
+391,Madison Younginer,Clemson,42,6-3,185,R/R,"Simpsonville, SC",Rd 7 by Red Sox (2009),Braves (2016),Upstate Mavericks,,2009,Clemson,147.0
+392,Daniel Fields,Michigan,43,6-1,190,L/R,"Detroit, MI",None,Tigers (2015),None,,2009,Michigan,418.0
+393,Dane Williams,NC State,44,6-6,205,L/R,"Ft Lauderdale, FL",Rd 15 by White Sox (2009),None,All American Prospects,,2009,NC State,490.0
+394,Daniel Tuttle,NC State,45,6-2,185,R/R,"Randleman, NC",Rd 5 by Reds (2009),None,Georgia Roadrunners,,2009,NC State,490.0
+395,"Ryan ""Scooter"" Gennett",Florida St.,46,5-10,170,L/R,"Sarasota, FL",Rd 16 by Brewers (2009),Brewers (2013),Midland,,2009,Florida St.,234.0
+396,Sam Selman,Vanderbilt,47,6-3,165,R/L,"Austin, TX",Rd 2 by Royals (2012),Giants (2019),ABC (Austin Baseball Club),,2009,Vanderbilt,736.0
+397,David Nick,UCLA,48,6-2,175,R/R,"Cypress, CA",Rd 4 by Diamondbacks (2009),None,ABD Bulldogs,,2009,UCLA,110.0
+398,Trayce Thompson,UCLA,49,6-5,195,R/R,"Ladera Ranch, CA",Rd 2 by White Sox (2009),White Sox (2015),ASD Bulldogs,,2009,UCLA,110.0
+399,Deven Marrero,Arizona St.,50,6-1,180,R/R,"Davie, FL",Rd 1 by Red Sox (2012),Red Sox (2015),Midland Redskins,,2009,Arizona St.,28.0
+400,Jameson Taillon,Rice,1,6-7,230,R/R,"The Woodlands, TX",Rd 1 by Pirates (2010),Pirates (2016),Kyle Chapman,,2010,Rice,574.0
+401,Kaleb Cowart,Florida St.,2,6-3,190,S/R,"Adel, GA",Rd 1 by Angels (2010),Angels (2015),East Cobb Astros,,2010,Florida St.,234.0
+402,Manny Machado,FIU,3,6-2,180,R/R,"Hialeah, FL",Rd 1 by Orioles (2010),Orioles (2012),Florida Legends,,2010,FIU,231.0
+403,Stetson Allie,North Carolina,4,6-4,225,R/R,"Olmsted Falls, OH",Rd 2 by Pirates (2010),None,East Cobb Braves,,2010,North Carolina,457.0
+404,Dylan Covey,San Diego,5,6-2,200,R/R,"Pasadena, CA",Rd 1 by Brewers (2010),White Sox (2017),SGV Arsenal,,2010,San Diego,627.0
+405,Justin O'Conner,Arkansas,6,6-1,190,R/R,"Muncie, IN",Rd 1 by Rays (2010),None,None,,2010,Arkansas,31.0
+406,AJ Cole,Miami (FL),7,6-5,190,R/R,"Winter Springs, FL",Rd 4 by Nationals (2010),Nationals (2015),Orlando Scorpions Black,,2010,Miami (FL),415.0
+407,Karsten Whitson,Florida,8,6-4,190,R/R,"Chipley, FL",Rd 1 by Padres (2010),None,East Cobb Braves,,2010,Florida,235.0
+408,Yordy Cabrera,Miami (FL),9,6-4,190,R/R,"Lakeland, FL",Rd 2 by Athletics (2010),None,All American Prospects,,2010,Miami (FL),415.0
+409,Josh Sale,Gonzaga,10,6-0,203,L/R,"Seattle, WA",Rd 1 by Rays (2010),None,WA Brewers,,2010,Gonzaga,260.0
+410,DeAndre Smelter,Georgia Tech,11,6-4,205,R/R,"Macon, GA",Rd 14 by Twins (2010),None,Tattnall,,2010,Georgia Tech,255.0
+411,Nick Castellanos,Miami (FL),12,6-3,180,R/R,"Davie, FL",Rd 1 Comp by Tigers (2010),Tigers (2013),All American Prospects,,2010,Miami (FL),415.0
+412,Peter Tago,Cal St. Fullerton,13,6-1,160,R/R,"Laguna Niguel, CA",Rd 1 Comp by Rockies (2010),None,Midland Braves,,2010,Cal St. Fullerton,97.0
+413,Aaron Sanchez,Oregon,14,6-3,170,R/R,"Barstow, CA",Rd 1 Comp by Blue Jays (2010),Blue Jays (2014),San Gabriel Valley Arsenal,,2010,Oregon,529.0
+414,Austin Wilson,Stanford,15,6-4,200,R/R,"Los Angeles, CA",Rd 2 by Mariners (2013),None,ABD Bulldogs,,2010,Stanford,674.0
+415,Tony Wolters,San Diego,16,5-10,165,L/R,"Vista, CA",Rd 3 by Indians (2010),Rockies (2016),ABD Bulldogs,,2010,San Diego,627.0
+416,Kevin Gausman,LSU,17,6-4,180,L/R,"Centennial, CO",Rd 1 by Orioles (2012),Orioles (2013),HS team,,2010,LSU,365.0
+417,Zach Lee,LSU,18,6-3,190,R/R,"McKinney, TX",Rd 1 by Dodgers (2010),None,Team Kelley,,2010,LSU,365.0
+418,Michael Foltynewicz,Texas,19,6-5,200,R/R,"Minooka, IL",Rd 1 by Astros (2010),Astros (2014),Illinois Sparks,,2010,Texas,703.0
+419,Ryne Stanek,Arkansas,20,6-4,180,R/R,"Overland Park, KS",Rd 1 by Rays (2013),Rays (2017),Mac N Seitz,,2010,Arkansas,31.0
+420,Robert Aviles,Florida,21,6-4,193,L/R,"Suffern, NY",Rd 7 by Indians (2010),None,Diesel,,2010,Florida,235.0
+421,Tyrell Jenkins,Baylor,22,6-4,180,R/R,"Henderson, TX",Rd 1 Comp by Cardinals (2010),Braves (2016),None,,2010,Baylor,51.0
+423,Albert (AJ) Vanegas,Stanford,24,6-3,205,R/R,"Alameda, CA",Rd 7 by Padres (2010),None,NorCal 2010 Baseball,,2010,Stanford,674.0
+424,Chevez Clarke,Georgia Tech,25,6-0,185,S/R,"Marietta, GA",Rd 1 by Angels (2010),None,East Cobb Braves,,2010,Georgia Tech,255.0
+425,Reginald Golden,Alabama,26,5-11,205,R/R,"Wetumpka, AL",Rd 2 by Cubs (2010),None,Metro League,,2010,Alabama,8.0
+426,Luke Jackson,Miami (FL),27,6-2,180,R/R,"SW Ranches, FL",Rd 1 Comp by Rangers (2010),Rangers (2015),None,,2010,Miami (FL),415.0
+427,Cameron Bedrosian,LSU,28,6-0,195,R/R,"Senoia, GA",Rd 1 by Angels (2010),Angels (2014),Homeplate Chilidawgs 16u,,2010,LSU,365.0
+428,Drew Cisco,Georgia,29,5-10,150,L/R,"Mt. Pleasant, SC",Rd 6 by Reds (2010),None,Diamond Devils 16's,,2010,Georgia,257.0
+429,Christian Yelich,Miami (FL),30,6-4,190,L/R,"Thousand Oaks, CA",Rd 1 by Marlins (2010),Marlins (2013),ABD Bulldogs,,2010,Miami (FL),415.0
+430,Matt Lipka,Alabama,31,6-1,192,R/R,"Frisco, TX",Rd 1 Comp by Braves (2010),None,Dallas Tigers,,2010,Alabama,8.0
+431,Robby Rowland,Oregon,32,6-6,205,R/R,"Cloverdale, CA",Rd 3 by Diamondbacks (2010),None,None,,2010,Oregon,529.0
+432,Delino DeShields,LSU,33,5-9,165,R/R,"Atlanta, GA",Rd 1 by Astros (2010),Rangers (2015),Atlanta Blue Jays,,2010,LSU,365.0
+434,Jake Skole,Georgia Tech,35,5-8,140,L/R,"Woodstock, GA",Rd 1 by Rangers (2010),None,East Cobb Yankees,,2010,Georgia Tech,255.0
+435,Garin Cecchini,LSU,36,6-2,200,L/R,"Lake Charles, LA",Rd 4 by Red Sox (2010),Red Sox (2014),SE TX Sundevils,,2010,LSU,365.0
+436,Sean Coyle,North Carolina,37,5-9,175,R/R,"Chalfont, PA",Rd 3 by Red Sox (2010),None,Philly Bandits,,2010,North Carolina,457.0
+437,Kellin Deglan,FIU,38,6-2,200,L/R,"Langley, BC",Rd 1 by Rangers (2010),None,None,,2010,FIU,231.0
+438,Kris Bryant,San Diego,39,6-5,205,R/R,"Las Vegas, NV",Rd 1 by Cubs (2013),Cubs (2015),Angels Elite,,2010,San Diego,627.0
+439,Brian Ragira,Stanford,40,6-2,175,R/R,"Arlington, TX",Rd 4 by Giants (2013),None,Dallas Tigers,,2010,Stanford,674.0
+440,Scott Frazier,Pepperdine,41,6-6,205,R/R,"Upland, CA",Rd 5 by Phillies (2010),None,OC Connie Mack-Giants,,2010,Pepperdine,541.0
+441,Zach Alvord,Auburn,42,6-0,180,R/R,"Alpharetta, GA",Rd 18 by Braves (2010),None,East Cobb Braves,,2010,Auburn,37.0
+442,Stefan Sabol,Oregon,43,6-2,205,R/R,"Aliso Viejo, CA",Rd 17 by Mets (2012),None,ABD Bulldogs,,2010,Oregon,529.0
+443,Ty Linton,North Carolina,44,6-3,210,R/R,"Matthews, NC",Rd 14 by Diamondbacks (2010),None,On Deck O's '09,,2010,North Carolina,457.0
+444,Jesse Biddle,Oregon,45,6-6,225,L/L,"Philadelphia, PA",Rd 1 by Phillies (2010),Braves (2018),Philadelphia Senators National,,2010,Oregon,529.0
+445,Kevin Ziomek,Vanderbilt,46,6-2,180,R/L,"Amherst, MA",Rd 2 by Tigers (2013),None,Amherst Amer. Legion,,2010,Vanderbilt,736.0
+446,Ryan Bolden,Ole Miss,47,6-3,190,R/L,"Madison, MS",Rd 1 Comp by Angels (2010),None,None,,2010,Ole Miss,433.0
+447,Mason Williams,South Carolina,48,6-0,148,L/R,"Winter Garden, FL",Rd 4 by Yankees (2010),Yankees (2015),Midland Redskins,,2010,South Carolina,648.0
+448,Marcus Littlewood,San Diego,49,6-3,190,S/R,"St George, UT",Rd 2 by Mariners (2010),None,Utah Marshalls,,2010,San Diego,627.0
+449,Drew Vettleson,Oregon St.,50,6-1,185,L/B,"Tracyton, WA",Rd 1 Comp by Rays (2010),None,NW Timberjacks,,2010,Oregon St.,528.0
+451,Dylan Bundy,Texas,2,6-1,200,S/R,"Sperry, OK",Rd 1 by Orioles (2011),Orioles (2012),DBAT,,2011,Texas,703.0
+452,Daniel Norris,Clemson,3,6-2,180,L/L,"Johnson City, TN",Rd 2 by Blue Jays (2011),Blue Jays (2014),East Cobb Yankees 18u,,2011,Clemson,147.0
+453,Francisco Lindor,Florida St.,4,5-11,170,S/R,"Clermont, FL",Rd 1 by Indians (2011),Indians (2015),Team Mizuno,,2011,Florida St.,234.0
+454,Archie Bradley,Oklahoma,5,6-4,210,R/R,"Muskogee, OK",Rd 1 by Diamondbacks (2011),Diamondbacks (2015),None,,2011,Oklahoma,522.0
+455,Derek (Bubba) Starling,Nebraska,6,6-4,180,R/R,"Gardner, KS",Rd 1 by Royals (2011),Royals (2019),None,,2011,Nebraska,463.0
+456,Jose Fernandez,South Fla.,7,6-3,215,R/R,"Tampa, FL",Rd 1 by Marlins (2011),Marlins (2013),None,,2011,South Fla.,651.0
+457,Josh Bell,Texas,8,6-3,205,S/R,"Irving, TX",Rd 2 by Pirates (2011),Pirates (2016),Dallas Patriots,,2011,Texas,703.0
+458,Javier Baez,Jacksonville,9,6-1,205,R/R,"Jacksonville, FL",Rd 1 by Cubs (2011),Cubs (2014),East Cobb Braves,,2011,Jacksonville,316.0
+459,Henry Owens,Miami (FL),10,6-6,195,L/L,"Huntington Beach, CA",Rd 1 Comp by Red Sox (2011),Red Sox (2015),ABD Bulldogs,,2011,Miami (FL),415.0
+460,Robert Stephenson,Washington,11,6-3,180,R/R,"Martinez, CA",Rd 1 by Reds (2011),Reds (2016),Norcal 2011,,2011,Washington,756.0
+461,Blake Swihart,Texas,12,6-1,175,S/R,"Rio Rancho, NM",Rd 1 by Red Sox (2011),Red Sox (2015),Albuquerque BB Academy,,2011,Texas,703.0
+462,Taylor Guerrieri,South Carolina,13,6-3,180,R/R,"N. Augusta, SC",Rd 1 by Rays (2011),Blue Jays (2018),Diamond Devils 16's Black,,2011,South Carolina,648.0
+463,Dillon Howard,Arkansas,14,6-2,200,R/R,"Searcy, AR",Rd 2 by Indians (2011),None,Midland Redskins,,2011,Arkansas,31.0
+464,Joe Ross,UCLA,15,6-2,180,R/R,"Oakland, CA",Rd 1 by Padres (2011),Nationals (2015),Norcal,,2011,UCLA,110.0
+465,Tyler Beede,Vanderbilt,16,6-4,200,R/R,"Auburn, MA",Rd 1 by Giants (2014),Giants (2018),VA Canes,,2011,Vanderbilt,736.0
+466,Derek Fisher,Virginia,17,6-3,205,L/R,"Rexmont, PA",Rd 1 Comp by Astros (2014),Astros (2017),Mid-Atlantic Rookies,,2011,Virginia,746.0
+467,Michael Kelly,Florida,18,6-5,195,R/R,"Boynton Beach, FL",Rd 1 Comp by Padres (2011),None,Orlando Scorpions,,2011,Florida,235.0
+468,Travis Harrison,Southern California,19,6-2,215,R/R,"Aliso Viejo, CA",Rd 1 Comp by Twins (2011),None,ABD Bulldogs,,2011,Southern California,657.0
+469,Billy Flamion,Oregon,20,6-1,192,L/L,"Modesto, CA",Rd 15 by Dodgers (2013),None,Norcal 2011,,2011,Oregon,529.0
+470,Hudson Boyd,Florida,21,6-2,235,R/R,"Fort Myers, FL",Rd 1 Comp by Twins (2011),None,Midland Redskins,,2011,Florida,235.0
+471,Austin Hedges,UCLA,22,6-1,185,R/R,"San Juan Capistrano, CA",Rd 2 by Padres (2011),Padres (2015),Elite Baseball,,2011,UCLA,110.0
+472,Dillon Maples,North Carolina,23,6-3,197,R/R,"West End, NC",Rd 14 by Cubs (2011),Cubs (2017),Canes North,,2011,North Carolina,457.0
+473,Phillip Evans,San Diego St.,24,5-10,180,R/R,"Carlsbad, CA",Rd 15 by Mets (2011),Mets (2017),San Diego Show,,2011,San Diego St.,626.0
+474,Jake Cave,LSU,25,6-1,180,L/L,"Hampton, VA",Rd 6 by Yankees (2011),Twins (2018),Canes Travel Team,,2011,LSU,365.0
+475,Julius Gaines,FIU,26,6-0,165,R/R,"Locust Grove, GA",Rd 32 by Red Sox (2011),None,Georgia Seminoles,,2011,FIU,231.0
+476,Tyler Marlette,UCF,27,5-11,195,R/R,"Oviedo, FL",Rd 5 by Mariners (2011),None,FTB Mizuno,,2011,UCF,128.0
+477,Trevor Story,LSU,28,6-0,170,R/R,"Irving, TX",Rd 1 Comp by Rockies (2011),Rockies (2016),Dallas Patriots,,2011,LSU,365.0
+478,Dwight Smith,Georgia Tech,29,5-11,185,L/R,"Peachtree City, GA",Rd 1 Comp by Blue Jays (2011),Blue Jays (2017),East Cobb Braves,,2011,Georgia Tech,255.0
+479,Brandon Nimmo,Arkansas,30,6-3,175,R/R,"Cheyenne, WY",Rd 1 by Mets (2011),Mets (2016),None,,2011,Arkansas,31.0
+480,Charlie Tilson,Illinois,31,6-0,165,L/L,"Wilmette, IL",Rd 2 by Cardinals (2011),White Sox (2016),None,,2011,Illinois,301.0
+481,Hunter Cole,Georgia,32,6-1,185,R/R,"Moore, SC",Rd 26 by Giants (2014),None,Diamond Devils 17U Blue,,2011,Georgia,257.0
+482,Kevin Matthews,Virginia,33,5-11,175,R/L,"Richmond Hill, GA",Rd 1 by Rangers (2011),None,Midland Redskins,,2011,Virginia,746.0
+483,Senquez Golson,Ole Miss,34,5-10,185,R/R,"Pascagoula, MS",Rd 8 by Red Sox (2011),None,None,,2011,Ole Miss,433.0
+484,Nicholas Burdi,Louisville,35,6-3,210,R/R,"Downers Grove, IL",Rd 2 by Twins (2014),Pirates (2018),Longshots,,2011,Louisville,367.0
+485,Joshua Tobias,Florida,36,5-9,194,S/R,"Greensboro, NC",Rd 31 by Nationals (2011),None,North Canes,,2011,Florida,235.0
+486,Christian Lopes,Southern California,37,6-0,185,R/R,"Huntington Beach, CA",Rd 7 by Blue Jays (2011),None,ABD Bulldogs,,2011,Southern California,657.0
+487,Eric Haase,Ohio St.,38,5-11,190,R/R,"Westland, MI",Rd 7 by Indians (2011),Indians (2018),A. Green,,2011,Ohio St.,518.0
+488,Daniel Vogelbach,Florida,39,5-11,280,L/R,"N. Ft. Myers, FL",Rd 2 by Cubs (2011),Mariners (2016),SWFL Baseball Underclassmen Blue,,2011,Florida,235.0
+490,Brandon Sedell,Florida,41,6-1,208,R/R,"Ft Lauderdale, FL",None,None,Midland Redskins,,2011,Florida,235.0
+491,Matthew Dean,Texas,42,6-2,190,R/R,"Highland Village, TX",Rd 13 by Blue Jays (2011),None,Dallas Yankees,,2011,Texas,703.0
+492,Carl Thomore,Rutgers,43,6-2,212,R/R,"East Brunswick, NJ",Rd 2 by Rockies (2011),None,None,,2011,Rutgers,587.0
+494,Brandon Martin,Oregon St.,45,5-11,160,R/R,"Corona, CA",Rd 1 Comp by Rays (2011),None,ABD OC,,2011,Oregon St.,528.0
+495,Joe Musgrove,San Diego St.,46,6-5,225,R/R,"La Mesa, CA",Rd 1 Comp by Blue Jays (2011),Astros (2016),None,,2011,San Diego St.,626.0
+496,Andrew Suarez,Miami (FL),47,6-2,200,L/L,"Miami, FL",Rd 2 by Nationals (2014),Giants (2018),None,,2011,Miami (FL),415.0
+497,Dylan Davis,Oregon St.,48,6-0,200,R/R,"Redmond, WA",Rd 3 by Giants (2014),None,Chaffey,,2011,Oregon St.,528.0
+498,Cameron Gallagher,East Carolina,49,6-3,210,R/R,"Lancaster, PA",Rd 2 by Royals (2011),Royals (2017),Mid-Atlantic Rookies,,2011,East Carolina,196.0
+499,Tyler Goeddel,UCLA,50,6-4,175,R/R,"Hillsbourgh, CA",Rd 1 Comp by Rays (2011),Phillies (2016),NorCal,,2011,UCLA,110.0
+500,Carlos Correa,Miami (FL),1,6-3,190,R/R,"Santa Isabel, PR",Rd 1 by Astros (2012),Astros (2015),Team Mizuno of PR,Big athletic shortstop with power arm and power bat. Outstanding at many PG events including incredible showing at World Showcase PG All American Game,2012,Miami (FL),415.0
+501,Lucas Giolito,UCLA,2,6-6,230,R/R,"Santa Monica, CA",Rd 1 by Nationals (2012),Nationals (2016),SGV Arsenal,"Up to 96 mph at WWBA, Recently up to 100. Good breaking ball and command. Outstanding at many PG events. PG All American Game Currently recovering from an injury.",2012,UCLA,110.0
+502,Byron Buxton,Georgia,3,6-1,175,R/R,"Baxley, GA",Rd 1 by Twins (2012),Twins (2015),Round Trip Baseball,"Super Athlete, ++ runner, also 94 mph on mound. Stood out at PG events.",2012,Georgia,257.0
+503,Lance McCullers,Florida,4,6-2,205,L/R,"Tampa, FL",Rd 1 Comp by Astros (2012),Astros (2015),Tampa Warriors,Upper 90s and potential + breaking ball. Also excellent hitter with power. Outstanding at many PG events. PG All American Game,2012,Florida,235.0
+504,Courtney Hawkins,Texas,5,6-3,210,R/R,"Corpus Christi, TX",Rd 1 by White Sox (2012),None,Houston Banditos,"Huge RH Power, Ball flies off barrel, Ran 6.62 at PG, + arm. Outstanding at many PG events. PG All American Game",2012,Texas,703.0
+505,Joey Gallo,LSU,6,6-5,205,L/R,"Henderson, NV",Rd 1 Comp by Rangers (2012),Rangers (2015),S Nevada Titans,Big time Lefthanded Bat with huge power also big arm 94 across diamond and off mound. Outstanding at many PG events. PG All American Game,2012,LSU,365.0
+506,Max Fried,UCLA,7,6-3,170,L/L,"Encino, CA",Rd 1 by Padres (2012),Braves (2017),SGV Arsenal,Excellent lefty with command of three pitches. Low to mid 90s. Outstanding at many PG events. PG All American Game,2012,UCLA,110.0
+507,David Dahl,Auburn,8,6-2,185,L/R,"Birmingham, AL",Rd 1 by Rockies (2012),Rockies (2016),Team Alabama,High Level Bat. Serious tools. Outstanding at PG events. PG All American Game,2012,Auburn,37.0
+508,Albert Almora,Miami (FL),9,6-2,175,R/R,"Hialeah, FL",Rd 1 by Cubs (2012),Cubs (2016),Florida Legends,Outstanding strong athlete with high ceiling tools. Outstanding at PG events. PG All American Game,2012,Miami (FL),415.0
+509,Walker Weickel,Miami (FL),10,6-6,205,R/R,"Orlando, FL",Rd 1 Comp by Padres (2012),None,Orlando Scorpions,Tall athletic pitcher with very high ceiling. Mid 90s with easy arm. Outstanding at many PG events. PG All American Game,2012,Miami (FL),415.0
+510,Tanner Rahier,San Diego,11,6-2,205,R/R,"Indian Wells, CA",Rd 2 by Reds (2012),None,ABD Bulldogs,"Big arm, excellent all around player. + hitter with power and low 90s from mound. Outstanding at many PG events. PG All American Game",2012,San Diego,627.0
+511,Trey Williams,Pepperdine,12,6-1,211,R/R,"Saugus, CA",Rd 7 by Phillies (2013),None,San Diego Show,"Can flat out hit, Serious Hitting Tools and big power! Defense stands out. Outstanding at many PG events. PG All American",2012,Pepperdine,541.0
+512,Matthew Smoral,North Carolina,13,6-8,225,L/L,"Solon, OH",Rd 1 Comp by Blue Jays (2012),None,Midland Redskins,"Big LHP, Easy arm action, up to 94 mph, Fast arm, Sharp breaking ball, Outstanding at many PG events. PG All American Game",2012,North Carolina,457.0
+513,Duane Underwood,Georgia,14,6-2,205,R/R,"Marietta, GA",Rd 2 by Cubs (2012),Cubs (2018),East Cobb Astros,Athletic RHP with power arm. Easy mid to higher 90s. Outstanding at many PG events. PG All American Game,2012,Georgia,257.0
+514,Jesse Winker,Florida,15,6-3,190,L/L,"Windermere, FL",Rd 1 Comp by Reds (2012),Reds (2017),FTB Mizuno,"LH Bat Stands Out, Can Flat out hit, Big power and very strong arm. Outstanding at many PG events. PG All American Game",2012,Florida,235.0
+515,Lewis Brinson,Florida,16,6-4,180,R/R,"Tamarac, FL",Rd 1 by Rangers (2012),Brewers (2017),South Florida Elite,Big athletic outfielder with excellent raw potential. + runner and shows power. Outstanding at many PG events.,2012,Florida,235.0
+516,Lucas Sims,Clemson,17,6-2,195,R/R,"Lawrenceville, GA",Rd 1 by Braves (2012),Braves (2017),Team Gwinnett,"Power mid 90s RHP. Good athlete. Clean delivery, high ceiling. Outstanding at many PG events. PG All American Game",2012,Clemson,147.0
+517,Ty Hensley,Ole Miss,18,6-5,220,S/R,"Edmond, OK",Rd 1 by Yankees (2012),None,Texas Sun Devils,Big strong two way player with power arm and power bat. Outstanding at PG events. Coming on strong this spring,2012,Ole Miss,433.0
+518,Zach Eflin,UCF,19,6-5,200,R/R,"Chuluota, FL",Rd 1 Comp by Padres (2012),Phillies (2016),Mizuno,"Smooth RHP with 93 mph fastball, keeps getting better. Outstanding at many PG events",2012,UCF,128.0
+519,Addison Russell,Auburn,20,6-1,210,R/R,"Pace, FL",Rd 1 by Athletics (2012),Cubs (2015),FTB Mizuno,"Strong athlete, Serious Juice in Bat. Outstanding at many PG events. PG All American Game",2012,Auburn,37.0
+520,Gavin Cecchini,Ole Miss,21,6-1,180,R/R,"Lake Charles, LA",Rd 1 by Mets (2012),Mets (2016),Texas Sundevils,"Good Athlete, highest level hitter and outstanding middle infield tools. Outstanding at many PG events",2012,Ole Miss,433.0
+522,Hunter Virant,UCLA,23,6-3,172,R/L,"Camarillo, CA",Rd 11 by Astros (2012),None,So Cal Cardinals,Low to mid 90s lefty who can really pitch. Outstanding at PG events. PG All American Game,2012,UCLA,110.0
+523,Corey Seager,South Carolina,24,6-3,190,L/R,"Kannapolis, NC",Rd 1 by Dodgers (2012),Dodgers (2015),Dirtbags,"Smooth athletic player, excellent hands, very good bat, projects large. Outstanding at many PG events. PG All American Game",2012,South Carolina,648.0
+524,Rio Ruiz,Southern California,25,6-2,195,L/R,"Covina, CA",Rd 4 by Astros (2012),Braves (2016),SGV Arsenal,"Excellent Hitter, very good bat speed, top defensive skills, also up to 93 on mound. Outstanding at many PG events. PG All American Game",2012,Southern California,657.0
+525,Billy (Nick) Williams,Texas A&M,26,6-3,195,L/L,"La Marque, TX",Rd 2 by Rangers (2012),Phillies (2017),Houston Banditos,"Easy LH Swing With big Power, Excellent Athlete, Outstanding at PG events. PG All American Game",2012,Texas A&M,697.0
+526,Ty Buttrey,Arkansas,27,6-6,210,L/R,"Matthews, NC",Rd 4 by Red Sox (2012),Angels (2018),South Charlotte Panthers,"Big, high ceiling RHP, 94 mph, good stuff. Good at many PG events.",2012,Arkansas,31.0
+527,Austin Fairchild,TCU,28,6-1,175,R/L,"Deer Park, TX",Rd 16 by Royals (2012),None,Houston Heat,Fast arm 93 mph lefty that projects very large. Outstanding at many PG events. PG All American Game,2012,TCU,698.0
+528,Carson Kelly,Oregon,29,6-2,200,R/R,"Portland, OR",Rd 2 by Cardinals (2012),Cardinals (2016),Robinson Construction,"Talented All Around Player. 90+ arm, good bat, good athlete. Outstanding at PG events",2012,Oregon,529.0
+529,Taylore Cherry,North Carolina,30,6-9,260,R/R,"Dayton, OH",Rd 32 by White Sox (2015),None,Midland Redskins,"Extra Big Strong RHP, Easy low 90's up to 94. Outstanding at many PG events. PG All American Game",2012,North Carolina,457.0
+530,Clate Schmidt,Clemson,31,6-2,175,S/R,"Acworth, GA",Rd 20 by Tigers (2016),None,Team Elite,"Very fast arm, 96 mph, sharp breaking ball, very athletic. Outstanding at many PG events. PG All American Game",2012,Clemson,147.0
+531,Christopher (CJ) Hinojosa,Texas,32,5-11,180,R/R,"Spring, TX",Rd 11 by Giants (2015),None,Houston Banditos,Outstanding all around player. Good bat with power. Outstanding at many PG events. PG All American Game,2012,Texas,703.0
+532,Clint Coulter,Arizona St.,33,6-3,215,R/R,"Camas, WA",Rd 1 by Brewers (2012),None,Bobby Valentine AA,Big strong catcher with big time bat. Very good in Jupiter. Moving up fast. Outstanding at PG events.,2012,Arizona St.,28.0
+533,Nick Travieso,Miami (FL),34,6-3,200,R/R,"Pembroke Pines, FL",Rd 1 by Reds (2012),None,South Florida Elite,"Power arm RHP, mid 90s. Outstanding at PG events, reaching upper 90's this spring",2012,Miami (FL),415.0
+534,Stryker Trahan,Ole Miss,35,6-1,215,L/R,"Scott, LA",Rd 1 by Diamondbacks (2012),None,Texas Sun Devils,"Oustanding tools, very athletic, 6.67 60, 1.85 pop, and some juice in bat. Outstanding at many PG events",2012,Ole Miss,433.0
+535,Shane Watson,Southern California,36,6-4,195,R/R,"Bellflower, CA",Rd 1 Comp by Phillies (2012),None,Yak Baseball West,"Put himself on map at 17u PG WWBA, Up to 93 at Area Codes",2012,Southern California,657.0
+536,Alec Rash,Missouri,37,6-5,200,R/R,"Adel, IA",Rd 2 by Phillies (2012),None,HS team,Lights out at PG Indoor! Every fastball 91-93 mph with more in the tank. Sharp breaking ball as well. Up to 95 this spring,2012,Missouri,434.0
+537,Wyatt Mathisen,Texas,38,6-2,215,R/R,"Corpus Christi, TX",Rd 2 by Pirates (2012),Diamondbacks (2020),South Texas Sliders,Very good bat. Stood out at WWBA and Area Code. Outstanding at PG events including showed big bat at PG World,2012,Texas,703.0
+538,Mitch Nay,Arizona St.,39,6-3,195,R/R,"Chandler, AZ",Rd 1 Comp by Blue Jays (2012),None,Mountain West,Big time bat with big power potential,2012,Arizona St.,28.0
+539,Keon Barnum,Miami (FL),40,6-4,224,L/L,"Tampa, FL",Rd 1 Comp by White Sox (2012),None,Dawg Pound,Excellent Power Potential and Bat Speed. Good athlete for size. Outstanding at many PG events. PG All American Game,2012,Miami (FL),415.0
+541,Alex Bregman,LSU,42,5-11,180,R/R,"Albuquerque, NM",Rd 1 by Astros (2015),Astros (2016),Albuquerque Baseball Academy,Solid all around player. One of the best hitters in the class. Shows power. Outstanding at many PG events. PG All American Game,2012,LSU,365.0
+543,Avery Romero,Florida,44,6-1,175,R/R,"St. Augustine, FL",Rd 3 by Marlins (2012),None,FTB Mizuno,"Good player, Can really hit, Squares Ball Up consistently. Outstanding at many PG events",2012,Florida,235.0
+545,Mitchell Brown,San Diego,46,6-2,210,R/R,"Rochester, MN",Rd 2 by Indians (2012),None,Mn Starz,Fastball up to 93. Good off speed as well. Been very good this spring,2012,San Diego,627.0
+546,Daniel Robertson,UCLA,47,6-1,190,R/R,"Upland, CA",Rd 1 Comp by Athletics (2012),Rays (2017),ABD Bulldogs,"Good all around player, the bat stands out in a big way. Outstanding at many PG events.",2012,UCLA,110.0
+547,Jameis Winston,Florida St.,48,6-4,208,S/R,"Hueytown, AL",Rd 15 by Rangers (2012),None,Team Alabama,Big Time QB prospect. Serious baseball tools. Outstanding at many PG events. PG All American Game,2012,Florida St.,234.0
+548,Andrew Pullin,Oregon,49,6-0,185,L/B,"Centralia, WA",Rd 5 by Phillies (2012),None,NW Timberjacks,"Strong athlete, serious tools, big hitting ability. Outstanding at many PG events. PG All American Game",2012,Oregon,529.0
+549,Tyler Gonzales,Texas,50,6-2,180,R/R,"San Antonio, TX",Rd 1 Comp by Blue Jays (2012),None,FTB Mizuno,"Low 90's FB, sharp breaking ball, also shows well with bat. Outstanding at many PG events.",2012,Texas,703.0
+550,Clint Frazier,Georgia,1,6-0,190,R/R,"Loganville, GA",Rd 1 by Indians (2013),Yankees (2017),Team Elite,"Showed all 5 tools @ PG National. 6.4 runner, 98 mph from OF, Big power and bat speed, Very good at WWBA and PG AA",2013,Georgia,257.0
+551,Robert Kaminsky,North Carolina,2,6-0,190,S/L,"Englewood Cliffs, NJ",Rd 1 by Cardinals (2013),Cardinals (2020),Tri-State Arsenal,"Lights out LHP, Easy FB up to 94 mph and an absolute hammer to go with it.",2013,North Carolina,457.0
+552,Kohl Stewart,Texas A&M,3,6-3,195,R/R,"Tomball, TX",Rd 1 by Twins (2013),Twins (2018),Houston Banditos,"Very interesting RHP who we have seen up to 96 mph with an outstanding, hard breaking ball",2013,Texas A&M,697.0
+553,Dominic Smith,Southern California,4,6-1,200,L/L,"Los Angeles, CA",Rd 1 by Mets (2013),Mets (2017),Yak Baseball West,"Showed outstanding hitting ability with power @ PG National, Game looks easy to him, Very good at all WWBA events and PG AA Game Also a top prospect on mound 90-92 mph LHP",2013,Southern California,657.0
+554,Austin Meadows,Clemson,5,6-3,200,L/L,"Grayson, GA",Rd 1 by Pirates (2013),Pirates (2018),Team Elite,"Outstanding Athlete, Huge Potential with bat, Ran 6.31 @ PG National, Very good at PG AA Game",2013,Clemson,147.0
+555,John Paul Crawford,Southern California,6,6-2,180,L/R,"Lakewood, CA",Rd 1 by Phillies (2013),Phillies (2017),Yak West,"Showed outstanding defensive ability and hitting tools @ PG National. Extremely high ceiling, continued to impress at WWBA WC",2013,Southern California,657.0
+556,Reese McGuire,San Diego,7,6-1,190,L/R,"Kent, WA",Rd 1 by Pirates (2013),Blue Jays (2018),Baden 18U,Outstanding defensive catcher and left handed hitter with very good power potential. Stood out at PG Nationl,2013,San Diego,627.0
+557,Trey Ball,Texas,8,6-6,175,L/L,"New Castle, IN",Rd 1 by Red Sox (2013),None,Indiana Prospects,Easy AA and already up to 93 mph @ WWBA. Very good runner and left handed hitter as well. High level 2-way talent,2013,Texas,703.0
+558,Nick Ciuffo,South Carolina,9,6-1,207,L/R,"Charleston, SC",Rd 1 by Rays (2013),Rays (2018),Diamond Devils,"Outstanding at PG National, 1.83 pop time and very good left handed bat with power",2013,South Carolina,648.0
+559,Jon Denney,Arkansas,10,6-2,200,R/R,"Yukon, OK",Rd 3 by Red Sox (2013),None,DBAT/Marucci Elite,Outsanding at PG World. Good defensive catcher with power in his bat. Very good at WWBA and Area Codes,2013,Arkansas,31.0
+560,Phil Bickford,Cal St. Fullerton,11,6-4,185,R/R,"Ventura, CA",Rd 1 by Giants (2015),Brewers (2020),None,Interesting low 90's arm,2013,Cal St. Fullerton,97.0
+561,Ian Clarkin,San Diego,12,6-2,190,L/L,"San Diego, CA",Rd 1 by Yankees (2013),None,San Diego Show,Very good low 90's LHP at WWBA and PG. Have seen up to 93 mph. Showed very good arm @ PG National,2013,San Diego,627.0
+563,Devin Williams,Missouri,14,6-3,172,R/R,"Florissant, MO",Rd 2 by Brewers (2013),Brewers (2019),St. Louis Pirates,"Very good arm, low 90's @ PG National. Up to 93 at WWBA World Championship. Very high ceiling. 94 @ PG Indoor, projects",2013,Missouri,434.0
+564,Ryan Boldt,Nebraska,15,6-1,185,L/R,"Red Wing, MN",Rd 2 by Rays (2016),None,Ohio Warhawks,"Very good @ PG National, ran a 6.46 and showed very well with the bat and really projects. MVP PG AA Game",2013,Nebraska,463.0
+565,Matt Krook,Oregon,16,6-2,190,L/L,"Hillsborough, CA",Rd 1 Comp by Marlins (2013),None,None,Low 90's with a very good breaking ball at Area Codes,2013,Oregon,529.0
+566,Connor Jones,Virginia,17,6-3,205,R/R,"Chesapeake, VA",Rd 2 Comp by Cardinals (2016),None,Evoshield Canes,Lights out at PG National 90-93 mph with a good breaking ball.,2013,Virginia,746.0
+567,Oscar Mercado,Florida St.,18,6-2,175,R/R,"Tampa, FL",Rd 2 by Cardinals (2013),Indians (2019),Marucci Elite,"Outstanding defender, very good all around tools now and really projects, Stood out @ PG National",2013,Florida St.,234.0
+568,Travis Demeritte,South Carolina,19,6-1,185,R/R,"Statham, GA",Rd 1 by Rangers (2013),Tigers (2019),East Cobb Braves,"Very fast bat, ball jumps, plus defender, up to 91 on mound, hit well @ PG National. Stood out at PG Tourney's as well",2013,South Carolina,648.0
+569,Chris Okey,Clemson,20,6-0,175,R/R,"Mt Dora, FL",Rd 2 by Reds (2016),None,FTB Chandler,"Very good defensive catcher and all around player, Hit very well @ PG National",2013,Clemson,147.0
+570,Cavan Biggio,Notre Dame,21,6-1,185,L/R,"Houston, TX",Rd 5 by Blue Jays (2016),Blue Jays (2019),Houston Heat,"Can flat out hit, Always squares the ball up and makes hard contact. Outstanding @ PG National",2013,Notre Dame,513.0
+571,Billy McKinney,TCU,22,6-1,195,L/L,"Plano, TX",Rd 1 by Athletics (2013),Yankees (2018),DBAT Mustangs,Showed easy smooth left handed swing with very good bat speed and power potential @ PG National,2013,TCU,698.0
+572,AJ Puk,Florida,23,6-6,205,L/L,"Cedar Rapids, IA",Rd 1 by Athletics (2016),Athletics (2019),HS baseball/Canes Evoshield Baseball,Outstanding 2 way talent. Throws very easy and up to 92 mph on the mound and easy power with the bat. Extremely high ceiling.,2013,Florida,235.0
+573,Justin Williams,LSU,24,6-3,215,L/R,"Houma, LA",Rd 2 by Diamondbacks (2013),Rays (2018),Marucci Elite,"Outstanding @ PG National, Huge Power, plus bat speed, really coming on strong as expected. Power stood out at PG AA. Won HR Derby",2013,LSU,365.0
+574,Ryan McMahon,Southern California,25,6-3,195,L/R,"Yorba Linda, CA",Rd 2 by Rockies (2013),None,None,Interesting bat to watch. Stood out at Area Codes,2013,Southern California,657.0
+575,Riley Unroe,Southern California,26,6-0,180,S/R,"Mesa, AZ",Rd 2 by Rays (2013),None,AZ D'Backs Elite,"Outstanding all around talent. 6.40 runner, 91 OF, 88 IF and very interesting bat @ PG National",2013,Southern California,657.0
+577,Clinton Hollon,Kentucky,28,6-1,195,R/R,"Lexington, KY",Rd 2 by Blue Jays (2013),None,Kentucky Baseball Club,"Electric Arm, 90-94 mph up to 96 mph at WWBA, Showed well @ PG National",2013,Kentucky,334.0
+578,Hunter Green,Kentucky,29,6-4,180,L/L,"Bowling Green, KY",Rd 2 by Angels (2013),None,Marucci Elite,"Very good loose, easy arm that was up to 91 mph. Good athlete and ran a 6.6 sixty",2013,Kentucky,334.0
+579,Josh Hart,Georgia Tech,30,6-2,180,L/L,"Lilburn, GA",Rd 1 Comp by Orioles (2013),None,East Cobb Braves,"Very good all around player, showed well at WWBA and PG National. Ran a 6.49 and showed nice LH stroke",2013,Georgia Tech,255.0
+580,Zack Collins,Miami (FL),31,6-2,209,L/R,"Pembroke Pines, FL",Rd 1 by White Sox (2016),White Sox (2019),South Florida Elite Squad,"Outstanding LH bat, Big power, has absolutely mashed at WWBA events. WWBA 16U MVP, Showed big power bat @ PG National",2013,Miami (FL),415.0
+581,Kyle Serrano,Tennessee,32,6-0,185,R/R,"Knoxville, TN",Rd 10 by Astros (2017),None,None,Low 90's and knows how to pitch. Very good at WWBA World Championship and up to 92,2013,Tennessee,694.0
+582,Jacob Brentz,Missouri,33,6-2,195,L/L,"Ballwin, MO",Rd 11 by Blue Jays (2013),Royals (2021),Midwest Titans,"Big time LHP. Up to 94 mph at WWBA. Very high ceiling, Arm really works well. 94 again at PG Indoor, Touched 97 in PG Spring League",2013,Missouri,434.0
+583,Carlos Salazar,Fresno St.,34,6-2,205,R/R,"Kerman, CA",Rd 3 by Braves (2013),None,None,Power arm up to 96 mph at WWBA World Championship,2013,Fresno St.,96.0
+584,Dustin Driver,UCLA,35,6-2,210,R/R,"Wenatchee, WA",Rd 7 by Athletics (2013),None,None,"Sat 91-93 mph @ PG National, Have seen 94. Very interesting power arm.",2013,UCLA,110.0
+585,Thomas Milone,UConn,36,6-0,185,L/L,"Monroe, CT",Rd 3 by Rays (2013),None,Ct Gamers,Stood out at ECP and Area Codes,2013,UConn,164.0
+586,Stephen Wrenn,Georgia,37,6-2,175,R/R,"Marietta, GA",Rd 6 by Astros (2016),None,East Cobb Astros,"Good athlete, very good runner, bat to watch",2013,Georgia,257.0
+587,Jordan Sheffield,Vanderbilt,38,6-0,180,R/R,"Tullahoma, TN",Rd 1 Comp by Dodgers (2016),Rockies (2021),Knights Baseball,"Fast Arm, loose easy AA, Up to 95 mph at WWBA, and very good at PG National. Up to 98 mph @ WWBA WC with a hammer!",2013,Vanderbilt,736.0
+588,Tyler Danish,Florida,39,6-0,170,R/R,"Valrico, FL",Rd 2 by White Sox (2013),White Sox (2016),Chet Lemon's Juice,Up to 94 mph with outstanding pitchability. Good offspeed MVPitcher WWBA Under and WWBA World Championship,2013,Florida,235.0
+589,Brett Morales,Florida,40,6-2,190,R/R,"Tampa, FL",Rd 24 by Reds (2013),None,Orlando Scorpions,Outstanding arm really stood out @ PG National with 94 mph FB and good off speed,2013,Florida,235.0
+590,Jonah Wesely,UCLA,41,6-2,215,L/L,"Tracy, CA",Rd 11 by Angels (2013),None,Team Elite,"Very good arm strength, Up to 92 @ PG National and showed a nice breaking ball. Keeps getting better lights out at WWBA WC!",2013,UCLA,110.0
+592,Cord Sandberg,Mississippi St.,43,6-3,215,L/L,"Bradenton, FL",Rd 3 by Phillies (2013),None,HS BB Club,"Great athlete, very good in the OF, Stood out with the bat @ PG National, Very good swing with power, Also a FB star",2013,Mississippi St.,430.0
+593,Dusty Peterson,Arizona St.,44,5-11,170,R/R,"Gilbert, AZ",None,None,None,Very good all around player,2013,Arizona St.,28.0
+594,Tucker Neuhaus,Louisville,45,6-3,190,L/R,"Tampa, FL",Rd 2 Comp by Brewers (2013),None,Florida Hardballers,Keeps getting better each time we see him. Projectable at bat. ,2013,Louisville,367.0
+595,Andrew Dunlap,Rice,46,5-11,235,R/R,"Houston, TX",Rd 33 by Nationals (2013),None,Marucci Elite,Big power arm up to 96 mph @ PG Indoor. Huge power bat as well,2013,Rice,574.0
+596,Brian Navarreto,Jacksonville,47,6-3,200,R/R,"Jacksonville, FL",Rd 6 by Twins (2013),Marlins (2020),East Cobb Braves,Showed outstanding defensive ability @ PG National and projects with the bat.,2013,Jacksonville,316.0
+597,Matthew McPhearson,Miami (FL),48,5-10,170,L/L,"Columbia, MD",Rd 4 by Diamondbacks (2013),None,Marucci Elite,"Good athlete, can really run (6,21 @ PG National) and nice left-handed swing",2013,Miami (FL),415.0
+598,Blake Taylor,Hawaii,49,6-3,195,L/L,"Mission Viejo, CA",Rd 2 by Pirates (2013),Astros (2020),None,Up to 92 mph at Area Codes,2013,Hawaii,277.0
+599,Garrett Williams,Oklahoma St.,50,6-2,195,L/L,"Shreveport, LA",Rd 7 by Giants (2016),None,Marucci Elite,"Very good LHP, Pitches in the low 90's with a very nice breaking ball",2013,Oklahoma St.,521.0
+601,Tyler Kolek,TCU,2,6-5,250,R/R,"Shepherd, TX",Rd 1 by Marlins (2014),None,Houston Heat,Big RHP was up to 97 mph at PG National. Arm works well and off speed shows good potential. Up to 99 mph at PG All American Game. Very impressive so far this spring,2014,TCU,698.0
+602,Nicholas Gordon,Florida St.,3,6-2,170,L/R,"Windermere, FL",Rd 1 by Twins (2014),Twins (2021),FTB Chandler Team,"Good athlete, really projects both ways, outstanding defensive SS stood out at WWBA, BCS and PG Nat., great bloodlines, up to 94 @ PG World, Very good at PG All American Game. Keeps getting better and bat was best we have seen it at PG World",2014,Florida St.,234.0
+603,Alex Jackson,Oregon,4,6-2,210,R/R,"Escondido, CA",Rd 1 by Mariners (2014),Braves (2019),San Diego Show,"Huge power, very good defensive catcher, Also play OF well. Has all the tools, outstanding at PG Nat. Games and Area Codes. Outstanding at PG National. PG All American",2014,Oregon,529.0
+604,Touki Toussaint,Vanderbilt,5,6-2,195,R/R,"Coral Springs, FL",Rd 1 by Diamondbacks (2014),Braves (2018),Atlanta Blue Jays,Dominant @ WWBA WC. FB up to 97 mph and showed a very good CB. Showed well at PG National. up to 95 at PG AA,2014,Vanderbilt,736.0
+605,Kodi Medeiros,Pepperdine,6,6-0,185,L/L,"Hilo, HI",Rd 1 by Brewers (2014),None,Big League,Can flat out pitch! Unhittable and up to 95 at PG AA. Excellent breaking ball. Impressed at WWBA World Championship,2014,Pepperdine,541.0
+606,Grant Holmes,Florida,7,6-2,190,L/R,"Conway, SC",Rd 1 by Dodgers (2014),None,Evoshield Canes,Outstanding at PG National. FB up to 96 mph with a very good breaking ball. Dominant at PG WS and PG AA. Good in Jupiter,2014,Florida,235.0
+607,Sean Reid-Foley,Florida St.,8,6-3,208,R/R,"Jacksonville, FL",Rd 2 by Blue Jays (2014),Blue Jays (2018),FTB Chandler,Dominated at PG National and up to 94 mph! Impressed all summer at WWBA and PG AA. Very good at WWBA World Championship,2014,Florida St.,234.0
+608,Michael Gettys,Georgia,9,6-2,205,R/R,"Gainesville, GA",Rd 2 by Padres (2014),None,Tigers Baseball,"Very impressive 2 way prospect! Showed big power, 100 mph from OF arm, 6.4 runner and mid 90's on the mound at PG National! Smoked 2B in PG AA",2014,Georgia,257.0
+609,Jacob Gatewood,Southern California,10,6-5,190,R/R,"Clovis, CA",Rd 1 Comp by Brewers (2014),None,San Diego Show,"Good athlete, very projectable all around player, huge power potential. Very good at PG and Area Codes",2014,Southern California,657.0
+610,Luis Ortiz,Fresno St.,11,6-3,220,R/R,"Fresno, CA",Rd 1 by Rangers (2014),None,San Diego Show,Up to 95 mph with a very good breaking ball at PG National. Very good at WWBA and PG AA,2014,Fresno St.,96.0
+611,Michael Chavis,Clemson,12,5-11,175,R/R,"Marietta, GA",Rd 1 by Red Sox (2014),Red Sox (2019),East Cobb Braves,"Hit A HR in 5 different PG tourneys. Stood out at PG WS, Showed very fast bat NUC Main. 6.68 and 90 IF at PG National. PG AA HR Derby Champ! Can flat out hit. Very goof at WWBA WC",2014,Clemson,147.0
+612,Foster Griffin,Ole Miss,13,6-5,190,R/L,"Orlando, FL",Rd 1 by Royals (2014),Royals (2020),Orlando Scorpions,Keeps getting better each time we see him. Up to 92 mph at PG National. MVPitcher of 17u WWBA. PG AA,2014,Ole Miss,433.0
+613,Marcus Wilson,Arizona St.,14,6-3,175,R/R,"Los Angeles, CA",Rd 2 Comp by Cardinals (2014),None,SGV Arsenal,"Big time all around tools. 6.5 runner 92 OF, Big power potential. Keeps getting better each time we see him. PG AA",2014,Arizona St.,28.0
+614,Spencer Adams,Georgia,15,6-5,190,R/R,"Cleveland, GA",Rd 2 by White Sox (2014),None,Team Elite,Arm works really well and showed low 90's heat this summer at WWBA and PG National,2014,Georgia,257.0
+615,Michael Kopech,Arizona,16,6-4,190,R/R,"Mount Pleasant, TX",Rd 1 by Red Sox (2014),White Sox (2018),Dallas Tigers,"Outstanding RHP, arm works very well, up to 94 at PG National. PG AA",2014,Arizona,29.0
+616,Scott Blewett,St. John's (NY),17,6-6,235,R/R,"Baldwinsville, NY",Rd 2 by Royals (2014),Royals (2020),Sports Zone,"Easy low 90's with more to come. Very good at PG National, WWBA and ECP. Up to 95 mph at WWBA World Championship",2014,St. John's (NY),603.0
+617,Ti'quan Forbes,Ole Miss,18,6-4,175,R/R,"Columbia, MS",Rd 2 by Rangers (2014),None,Texas Sun Devils,"Big power potential, 6.56 runner. Very high ceiling talent. Really impressed at PG AA",2014,Ole Miss,433.0
+618,Braxton Davidson,North Carolina,19,6-3,215,L/L,"Arden, NC",Rd 1 by Braves (2014),None,Dirtbags,"Big strong hitter,very  good power potential, ball comes off bat different. Stood out at PG National and PG AA",2014,North Carolina,457.0
+619,Jacob Bukauskas,North Carolina,20,6-1,195,R/R,"Ashburn, VA",Rd 1 by Astros (2017),Diamondbacks (2021),Evoshield Canes,New to 2014 class. Can flat out pitch. Have seen up to 93 mph and reports and even better so far this year!,2014,North Carolina,457.0
+621,Monte Harrison,Nebraska,22,6-2,195,R/R,"Lee's Summit, MO",Rd 2 by Brewers (2014),Marlins (2020),Marucci Elite,"Very projectable all around talent. 6.65 runner, 97 mph form the OF and bat projects well. Bat made big strides this summer. PG AA",2014,Nebraska,463.0
+622,Justus Sheffield,Vanderbilt,23,6-0,190,L/L,"Tullahoma, TN",Rd 1 by Indians (2014),Yankees (2018),Tullahoma Cardinals/Knights Baseball,Loose Projectable low 90's LHP. Very good at PG National,2014,Vanderbilt,736.0
+623,Jakson Reetz,Nebraska,24,6-1,195,R/R,"Hickman, NE",Rd 3 by Nationals (2014),Nationals (2021),Marucci Elite,"Top 2 way talent, very good hitting tools, big arm behind the plate and low 90's on mound. MVP of PG AA Game",2014,Nebraska,463.0
+624,Alex Verdugo,Arizona St.,25,6-1,200,L/L,"Tucson, AZ",Rd 2 by Dodgers (2014),Dodgers (2017),Chi Town Cream,Outstanding bat with good power potential and low 90's on the mound with a good breaking ball. Outstanding at PG WS and Area Codes,2014,Arizona St.,28.0
+625,Forrest Wall,North Carolina,26,6-0,170,L/R,"Winter Park, FL",Rd 1 Comp by Rockies (2014),None,FTB Chandler,Hit very well at ECP and very impressive at WWBA World Championship,2014,North Carolina,457.0
+626,Derek Hill,Oregon,27,6-2,170,R/R,"Sacramento, CA",Rd 1 by Tigers (2014),Tigers (2020),NorCal,"Outstanding at PG National. 6.4 runner, made highlight plays in the OF and hit very well! He does it all. PG AA",2014,Oregon,529.0
+627,Cameron Varga,North Carolina,28,6-3,205,R/R,"Loveland, OH",Rd 2 by Rays (2014),None,Midland Redskins,Sat 93-95 mph at PG National. PG AA,2014,North Carolina,457.0
+628,Cobi Johnson,Florida St.,29,6-4,180,R/R,"Holiday, FL",Rd 29 by Angels (2017),None,FTB Mizuno,"Really interesting RHP, Low 90's at WWBA with more in arm. Plus CB really stood out at PG AA and WWBA",2014,Florida St.,234.0
+629,Dylan Cease,Vanderbilt,30,6-2,180,R/R,"Milton, GA",Rd 6 by Cubs (2014),White Sox (2019),Team Elite,Lightning fast arm! Fastball up to 97 mph at PG National. 96 mph at PG AA,2014,Vanderbilt,736.0
+630,Mitch Keller,North Carolina,31,6-3,200,R/R,"Cedar Rapids, IA",Rd 2 by Pirates (2014),Pirates (2019),HS team,Made a huge jump this spring and standing out in PG Spring League! Up to 95 mph at Spring Top. Good breaking ball potential,2014,North Carolina,457.0
+631,Jack Flaherty,North Carolina,32,6-4,205,R/R,"Burbank, CA",Rd 1 by Cardinals (2014),Cardinals (2017),SGV Arsenal,"Big bat to watch, ball comes off barrel very well. Showed big power potential and ran a 6.37 at PG National. Good at PG AA",2014,North Carolina,457.0
+632,Garrett Fulenchek,DBU,33,6-3,205,R/R,"Howe, TX",Rd 2 by Braves (2014),None,None,FB up to 94 mph at WWBA WC and has shown very good breaking ball,2014,DBU,1045.0
+633,Zach Shannon,Ohio St.,34,6-3,220,R/R,"Cincinnati, OH",Rd 15 by Diamondbacks (2018),None,Midland Redskins,"Ball jumps off bat, Big power potential. Also up to 94 mph on the mound with a good breaking ball. Showed outstanding CH to end PG AA Game",2014,Ohio St.,518.0
+634,Keith Weisenberg,Stanford,35,6-4,195,R/R,"Seminole, FL",Rd 14 by Braves (2017),None,Marucci Elite,Projectable RHP keeps getting better each time out. Up to 92 at PG National. Extremely high ceiling. 95 mph at WWBA WC,2014,Stanford,674.0
+635,Gareth Morgan,NC State,36,6-4,210,R/R,"Toronto, ON",Rd 2 Comp by Mariners (2014),None,Ontario Blue Jays,"Bat really stands out, Big potential power potential, Very good at WWBA WC. Made Petco look small in PG AA BP",2014,NC State,490.0
+636,Milton Ramos,Fla. Atlantic,37,6-2,165,R/R,"Hiealea, FL",Rd 3 by Mets (2014),None,Ftb Chandler,Stood out at PG World. Very interesting all around tools. Can really play the IF. Ran a 6.53 at PG National. MVP WWBA 17u,2014,Fla. Atlantic,229.0
+637,Josh Morgan,UCLA,38,5-11,180,R/R,"Corona, CA",Rd 3 by Rangers (2014),None,Trombly/GBG Marucci,"Outstanding defensive SS, very good hitting tools, MVP PG/Evoshield. Very good again at PG National",2014,UCLA,110.0
+638,Joseph Gatto,North Carolina,39,6-5,215,R/R,"Hammonton, NJ",Rd 2 by Angels (2014),None,Indiana Prospects,"Very interesting RHP, 88 at WWBA, gained 7 mph in 6 months. Now up to 94 mph at PG National with good off speed to go with it. PG AA",2014,North Carolina,457.0
+639,Cody Reed,Vanderbilt,40,6-3,220,R/L,"Athens, AL",Rd 2 by Diamondbacks (2014),None,16U Knights Baseball ,"Lively upper 80's, commands well",2014,Vanderbilt,736.0
+640,Matthew Railey,Florida St.,41,5-11,195,L/L,"Tallahassee, FL",Rd 3 by Diamondbacks (2014),None,Next Level,"Outstanding athlete, very good hitting tools",2014,Florida St.,234.0
+641,Keaton McKinney,Arkansas,42,6-5,220,R/R,"Ankeny, IA",Rd 28 by Mets (2014),None,HS team,Big RHP who has been up to 94 mph! Pitched very well at PG National. Also shows power with the bat. Showed outstanding CH at PG AA,2014,Arkansas,31.0
+642,Devon Fisher,Virginia,43,6-1,200,R/R,"Portsmouth, VA",Rd 20 by Red Sox (2014),None,17U Richmond Braves National Team,Very good defensive catcher and power bat. Arm stood out at PG World,2014,Virginia,746.0
+643,Cole Tucker,Arizona,44,6-3,205,S/R,"Phoenix, AZ",Rd 1 by Pirates (2014),Pirates (2019),Arizona Diamondbacks Scout,Very interesting all around talent at PG National and WWBA,2014,Arizona,29.0
+644,Chase Vallot,Mississippi St.,45,6-0,205,R/R,"Youngsville, LA",Rd 1 Comp by Royals (2014),None,Marucci Elite,Huge power and a big arm behind the plate. HR Derby champ at PG National. PG AA,2014,Mississippi St.,430.0
+645,Reese Cooley,Miami (FL),46,6-3,195,R/R,"Orange Park, FL",Rd 26 by Indians (2014),None,Orlando Scorpions,"Athletic OF, very good all around tools. Stood out at WWBA WC. Very good at PG National. Showed power potential at PG AA",2014,Miami (FL),415.0
+646,Carson Sands,Florida St.,47,6-3,200,L/L,"Tallahassee, FL",Rd 4 by Cubs (2014),None,Orlando Scorpions Prime,"Very projectable Low 90's LHP, Good life on FB, Very good change up at PG National",2014,Florida St.,234.0
+647,Jon Littell,Oklahoma St.,48,6-4,190,R/R,"Stillwater, OK",Rd 37 by Dodgers (2018),None,DBAT Mustangs OK/Oklahoma Fuel,"Interesting all around player to watch, Showed huge power potential at PG National. PG AA",2014,Oklahoma St.,521.0
+648,Gregory Deichmann,LSU,49,6-2,180,L/R,"Metairie, LA",Rd 2 by Athletics (2017),Cubs (2021),Marucci Elite,Showed upperdeck power at PG Jr. National. Outstanding LH bat. Showed big power once again this year at PG National. Ball comes off his bat different. PG AA,2014,LSU,365.0
+649,Stone Garrett,Rice,50,6-2,190,R/R,"Sugar Land, TX",Rd 8 by Marlins (2014),None,Houston Banditos,"Outstanding hitter, ball flies off his barrel, also very good athlete. Stood out at PG, WWBA and Area Codes. Ran a 6.4 at PG National. PG AA",2014,Rice,574.0
+650,Brendan Rodgers,Florida St.,1,6-2,185,R/R,"Longwood, FL",Rd 1 by Rockies (2015),Rockies (2019),Orlando Scorpions Prime,"Outstanding at PG National. Very good bat-speed, Ball flies off his barrel. PG AA. Huge potential with the bat. Outstanding at WWBA and led the Orlando Scorpions to 3 rings in 2013! Outstanding defensively",2015,Florida St.,234.0
+651,Dazmon Cameron,Florida St.,2,6-1,186,R/R,"McDonough, GA",Rd 1 Comp by Astros (2015),Tigers (2020),East Cobb Astros 18,Outstanding all around talent. Potential 5 tool player. Very good at PG National and WWBA. Stood out at NUC Main Event. Can flat out hit. PG AA,2015,Florida St.,234.0
+652,Justin Hooper,UCLA,3,6-8,238,R/L,"San Ramon, CA",Rd 14 by Royals (2019),None,None,Up to 97 at PG AA Game. Extremely high ceiling LHP. Showed dominant stuff at PG Sunshine West Showcase. FB up to 95 mph and good breaking ball to go with it,2015,UCLA,110.0
+653,Kolby Allard,UCLA,4,6-2,175,L/L,"San Clemente, CA",Rd 1 by Braves (2015),Braves (2018),So Cal Renegades,"Absolutely dominant at PG AA Game. Easy mid 90's FB, Commands all his pitches. Good breaking ball and change up",2015,UCLA,110.0
+655,Tyler Stephenson,Georgia Tech,6,6-4,210,R/R,"Kennesaw, GA",Rd 1 by Reds (2015),Reds (2020),East Cobb Astros 16u,Big power at PG HS Showdown and at PG Park all spring. Bat stands out. Showed good power potential at WWBA and low 90's on the mound,2015,Georgia Tech,255.0
+656,Ashe Russell,Texas A&M,7,6-4,195,R/R,"Indianapolis, IN",Rd 1 by Royals (2015),None,Evoshield Canes,Arm really works well and up to 95 mph at PG National. Good breaking ball as well. MVPitcher of 17u WWBA PG AA. Up to 96 at 17u PG WS,2015,Texas A&M,697.0
+657,Trenton Grisham,Texas Tech,8,6-0,200,L/L,"Fort Worth, TX",Rd 1 by Brewers (2015),Brewers (2019),None,Can flat out hit with outstanding speed. PG AA,2015,Texas Tech,700.0
+658,Kyle Tucker,Florida,9,6-4,175,L/R,"Tampa, FL",Rd 1 by Astros (2015),Astros (2018),All American Prospects,Smooth easy left handed stroke. he can really hit. PG AA,2015,Florida,235.0
+659,Mike Nikorak,Alabama,10,6-5,205,R/R,"Stroudsburg, PA",Rd 1 Comp by Rockies (2015),None,Evoshield Canes 17U,Big RHP ran his fastball up to 97 mph at PG National. PG AA,2015,Alabama,8.0
+660,Garrett Whitley,Wake Forest,11,6-1,195,R/R,"Niskayuna, NY",Rd 1 by Rays (2015),None,Schenectady City Indians,Great athlete and showed big bat speed at ECP and Area Code Games,2015,Wake Forest,749.0
+661,Juan Hillman,UCF,12,6-2,183,L/L,"Haines City, FL",Rd 2 by Indians (2015),None,FTB,Keeps getting better and projects for more. Easy 90 mph and good offspeed and command to go with it. Dominant at PG World. Up to 92 at PG National. PG AA Lights out in Jupiter very good CB,2015,UCF,128.0
+662,Donny Everett,Vanderbilt,13,6-2,220,R/R,"Clarksville, TN",Rd 29 by Brewers (2015),None,None,Big Power RHP was up to 97 at WWBA WC. PG AA,2015,Vanderbilt,736.0
+663,Cornelius Randolph,Clemson,14,6-1,190,L/R,"Griffin, GA",Rd 1 by Phillies (2015),None,HomePlate Chilli Dogs/Maldonado,Very impressive at PG National. Bat stood out at WWBA PG AA. Very good at WWBA WC,2015,Clemson,147.0
+664,Austin Smith,Fla. Atlantic,15,6-4,215,R/R,"Boynton Beach, FL",Rd 2 by Padres (2015),None,Easton Rockets,Very live arm and up to 93 at PG National. Throws easy with a very high ceiling. FB up to 96 at PG AA,2015,Fla. Atlantic,229.0
+665,Beau Burrows,Texas A&M,16,6-2,200,R/R,"Weatherford, TX",Rd 1 by Tigers (2015),Tigers (2020),Evoshield Canes,"Topped at 82 in 2011, 89 mph in 2012, Now up to 96 mph! MVPitcher 17u WWBA PG AA. Very good at WWBA WC",2015,Texas A&M,697.0
+666,Chris Betts,Tennessee,17,6-2,220,L/R,"Long Beach, CA",Rd 2 by Rays (2015),None,CBA Marucci,"High level LH bat. Very good game at bats. Lots of game HR's at PG. Mashed at 17u WWBA PG AA, Showed huge power potential at Cal Underclass",2015,Tennessee,694.0
+667,Josh Naylor,Texas Tech,18,6-1,225,L/L,"Mississauga, ON",Rd 1 by Marlins (2015),Padres (2019),Canada Junior National Team/Ontario Blue Jays,Showed huge power and a big arm at PG National. Big power potential. 108 off his bat in Jupiter and multiple HR's. Ball flies off his barrel,2015,Texas Tech,700.0
+668,Ke'Bryan Hayes,Tennessee,19,6-1,207,R/R,"Tomball, TX",Rd 1 Comp by Pirates (2015),Pirates (2020),Team DeMarini Hayes,High level talent. Stood out at WWBA and PG National. Great plan at the plate. PG AA. Good potential on the mound as well,2015,Tennessee,694.0
+669,Nick Plummer,Kentucky,20,5-11,200,L/L,"Lathrup Village, MI",Rd 1 by Cardinals (2015),None,Motor City Hitdogs,Bat really stood out at ECP and Area Codes. Very high level hitter,2015,Kentucky,334.0
+670,Tyler Nevin,UCLA,21,6-3,200,R/R,"Poway, CA",Rd 1 Comp by Rockies (2015),Orioles (2021),CA BB Academy - CBA Marucci,Coming back strong from injury! Bat really standing out!,2015,UCLA,110.0
+671,Drew Finley,Southern California,22,6-3,200,R/R,"San Diego, CA",Rd 3 by Yankees (2015),None,San Diego Show,Can really pitch and FB reaches the low 90's. PG AA,2015,Southern California,657.0
+672,Dakota Chalmers,Georgia,23,6-3,175,R/R,"Gainesville, GA",Rd 3 by Athletics (2015),None,None,FB up to 94 mph and very good breaking ball to go with it.,2015,Georgia,257.0
+673,Demi Orimoloye,Oregon,24,6-4,225,R/R,"Orleans, ON",Rd 4 by Brewers (2015),None,Team Canada/Ottawa Canadians,Big potential with the bat. Fantastic at Area Code Games very good at WWBA WC,2015,Oregon,529.0
+674,Triston McKenzie,Vanderbilt,25,6-5,160,R/R,"Royal Palm Beach, FL",Rd 1 Comp by Indians (2015),Indians (2020),Easton Rockets17u,"Extremely high ceiling. 80 mph in 2012, 87 in 2013 now up to 92 at PG National with more to come! PG AA. Sky is the limit for him",2015,Vanderbilt,736.0
+675,Jahmai Jones,North Carolina,26,6-0,210,R/R,"Roswell, GA",Rd 2 by Angels (2015),Angels (2020),Georgia Roadrunners,Very good all around player. Hitting tools stood out at WWBA. Impressed at PG National. PG AA,2015,North Carolina,457.0
+676,Jalen Miller,Clemson,27,6-1,185,R/R,"Atlanta, GA",Rd 3 by Giants (2015),None,18U East Cobb Astros,Very good at PG National. Great defensive SS and can hit!,2015,Clemson,147.0
+677,Luken Baker,TCU,28,6-4,260,R/R,"Spring, TX",Rd 2 Comp by Cardinals (2018),None,Twelve Baseball,"Another big strong Texas RHP was up to 95 mph at PG National, Equally talented as a RH hitting power hitter. Huge power potential. Nice swing and make very hard contact. PG AA",2015,TCU,698.0
+678,Nick Neidert,South Carolina,29,6-1,185,R/R,"Lawrenceville, GA",Rd 2 by Mariners (2015),Marlins (2020),Team Elite Prime,Can flat out pitch. FB up to 93 mph at PG National. Up to 94 at WWBA. Dominant and up to 96 in Jupiter,2015,South Carolina,648.0
+679,Mitchell Hansen,Stanford,30,6-4,197,L/L,"Plano, TX",Rd 2 by Dodgers (2015),None,FTB Chandler,Showed huge potential with the bat at PG National. Very good athlete with big all around potential. PG AA,2015,Stanford,674.0
+680,Thomas Szapucki,Florida,31,6-2,190,L/L,"Palm Beach Gardens, FL",Rd 5 by Mets (2015),Mets (2021),All American Prospects,Pitches in the low 90's with very sharp breaking ball,2015,Florida,235.0
+681,Antonio Santillan,Texas Tech,32,6-3,195,R/R,"Arlington, TX",Rd 2 by Reds (2015),Reds (2021),None,Low to better 90's on the mound. Good breaking ball. Also good SS and bat,2015,Texas Tech,700.0
+682,Kep Brown,UNCW,33,6-7,230,R/R,"Mount Pleasant, SC",Rd 10 by Cardinals (2015),None,Atlanta Blue Jays,Crushed balls at PG National. PG AA. Bat stood out at WWBA and PG WS. Very good hitting tools now that really project well. Showed huge power at NUC Main,2015,UNCW,460.0
+683,Ryan Mountcastle,UCF,34,6-4,180,R/R,"Oviedo, FL",Rd 1 Comp by Orioles (2015),Orioles (2020),FTB Chandler 17u,"Big power potential, showed well at WWBA and PG National. Always hits PG AA",2015,UCF,128.0
+684,Tristan Beck,Stanford,35,6-4,160,R/R,"Corona, CA",Rd 4 by Braves (2018),None,None,Easy low 90's with more to come,2015,Stanford,674.0
+685,Wesley Rodriguez,Pittsburgh,36,5-11,200,R/R,"Bronx, NY",Rd 12 by Diamondbacks (2015),None,Team Citius,Very good hitting tools and up to 93 mph on the mound at PG National. Impressed at WWBA. Up to 95 and pitched very well at WWBA WC. Coming out throwing even harder this spring,2015,Pittsburgh,545.0
+686,Greg Pickett,Mississippi St.,37,6-4,212,L/R,"Aurora, CO",Rd 8 by Phillies (2015),None,Chandler World,Ball sounds different off his bat. Mashed at 17u WWBA. PG AA Very good at PG NationalShowed huge power potential at WWBA Underclass. Power impressed again at NUC Main,2015,Mississippi St.,430.0
+687,Daniel Reyes,Florida,38,6-2,200,R/R,"Miami Springs, FL",Rd 28 by Tigers (2018),None,South Florida Elite Squad,Showed big power potential at PG National. Bat stood out at WWBA events. PG AA,2015,Florida,235.0
+688,Tristin English,Georgia Tech,39,6-3,214,R/R,"Williamson, GA",Rd 3 by Diamondbacks (2019),None,Home Plate Chili Dogs 17U,Up to 94 mph at PG National with good secondary offerings. Also very good behind the plate. Up to 95 at WWBA PG AA,2015,Georgia Tech,255.0
+689,Alonzo Jones,Vanderbilt,40,5-10,192,S/R,"Columbus, GA",Rd 25 by Athletics (2018),None,East Cobb Astros,Ran a 6.17 60 at PG National!. Good hitting tools. Showed very well with bat at PG AA Game with power from both sides of the plate,2015,Vanderbilt,736.0
+690,Cadyn Grenier,Oregon St.,41,5-11,180,R/R,"Henderson, NV",Rd 1 by Orioles (2018),None,LV Titans/Trombly Baseball/WC Mariners,Very good all around player. Bat really projects and outstanding defender. PG AA,2015,Oregon St.,528.0
+691,Christopher Chatfield,South Fla.,42,6-3,214,L/L,"Riverview, FL",Rd 23 by Padres (2015),None,Bullets Baseball,Showed very good tools PG. Really projects. Bat is really coming on. PG AA. High Ceiling,2015,South Fla.,651.0
+692,Devin Davis,LMU (CA),43,6-2,210,R/R,"Santa Clarita, CA",Rd 25 by Rays (2015),None,Chandler World Team,Big time hitter. Just hammers balls each time we see him. Good around the bag at 1st as well. PG AA,2015,LMU (CA),370.0
+693,Ryan Johnson,Kentucky,44,6-3,220,L/R,"College Station, TX",None,None,Evoshield Canes,Outstanding hitting tools and big power potential. Also up to 94 mph on the mound,2015,Kentucky,334.0
+694,"Dexter ""DJ"" Neal",South Carolina,45,6-3,210,R/R,"Lithonia, GA",Rd 26 by Blue Jays (2017),None,GBSA Rays,Showed real interesting power potential at multiple WWBA events. Outstanding at PG World 6.6 runner 94 OF and continued to show big power potential,2015,South Carolina,648.0
+695,Eric Jenkins,UNCW,46,6-2,165,L/R,"Chadbourn, NC",Rd 2 by Rangers (2015),None,Dirtbags,Very athletic OF with very interesting hitting tools,2015,UNCW,460.0
+696,Kyle Molnar,UCLA,47,6-3,205,R/R,"Aliso Viejo, CA",Rd 25 by Cardinals (2015),None,CBA Marucci,Up to 94 at PG National. Outstanding at PG National Games. Easy low 90's already and projects very well. 93 @ WWBA WC. PG AA,2015,UCLA,110.0
+697,Joe DeMers,Washington,48,6-2,215,R/R,"Martinez, CA",Rd 11 by Athletics (2018),None,Danville Zoots,Up to 95 at PG National with good offspeed to go with it! Up to 96 at PG AA Game,2015,Washington,756.0
+698,Ryan Cole McKay,Abilene Christian,49,6-5,205,S/R,"Spring Branch, TX",Rd 30 by Tigers (2015),None,Houston Banditos,Dominant at PG National. FB up to 94 mph. PG AA,2015,Abilene Christian,2.0
+699,Brady Singer,Florida,50,6-5,180,R/R,"Leesburg, FL",Rd 1 by Royals (2018),Royals (2020),Chet Lemons Juice,Low 90's at PG National. Can really pitch. Very good at WWBA WC,2015,Florida,235.0
+701,Riley Pint,LSU,2,6-4,195,R/R,"Lenexa, KS",Rd 1 by Rockies (2016),None,Mac N Seitz,Dominant at WWBA. FB 94-96 mph and very good breaking ball. Very good at PG National Up to 97 at WWBA,2016,LSU,365.0
+702,Blake Rutherford,UCLA,3,6-2,190,L/R,"Simi Valley, CA",Rd 1 by Yankees (2016),None,EvoShield Canes,Showed crazy power at PG AA. Runs very well. Superstar potential Outstanding and MVP at PG MLK,2016,UCLA,110.0
+703,Ian Anderson,Vanderbilt,4,6-3,170,R/R,"Rexford, NY",Rd 1 by Braves (2016),Braves (2020),Clifton Park Knights,"Easy Mid 90's. PG AA Very high ceiling, fun to watch him pitch. Up to 93 PG National",2016,Vanderbilt,736.0
+704,Mickey Moniak,UCLA,5,6-2,190,L/R,"Encinitas, CA",Rd 1 by Phillies (2016),Phillies (2020),San Diego Show,"Can flat out hit Very good bat speed with big power potential. Absolutely mashed at PG Underclass AA Games, Very good at PG National",2016,UCLA,110.0
+705,Joshua Lowe,Florida St.,6,6-4,190,L/R,"Marietta, GA",Rd 1 by Rays (2016),Rays (2021),Evoshield Canes,"Incredible athlete. Mid 90's on the mound, with good breaking ball, 6.5 runner, 95 across the IF and 100 mph exit velos at PG National. Huge power potential PGAA",2016,Florida St.,234.0
+706,Braxton Garrett,Vanderbilt,7,6-3,190,R/L,"Florence, AL",Rd 1 by Marlins (2016),Marlins (2020),East Cobb Astros,"Very impressive all fall Low 90's, good breaking ball. Very good at PG National",2016,Vanderbilt,736.0
+707,Alex Kirilloff,Liberty,8,6-2,195,L/L,"New Kensington, PA",Rd 1 by Twins (2016),Twins (2020),Baseball U,Big potential with bat. Ball just comes off his bat different. Showed ridiculous power at PG AA winning HR derby,2016,Liberty,355.0
+708,Matt Manning,LMU (CA),9,6-6,185,R/R,"Elk Grove, CA",Rd 1 by Tigers (2016),Tigers (2021),NORCAL Baseball,"Showed mid 90's FB at PG AA and World Series. Extremely projectable. MVPitcher in Jupiter, Up to 95 at CA World Series",2016,LMU (CA),370.0
+709,Drew Mendoza,Florida St.,10,6-4,215,L/R,"Minneola, FL",Rd 3 by Nationals (2019),None,Orlando Scorpions,Very Good bat speed with big power potential. Stood out at PG Junior National. Good in the field as well and also upper 80's on the mound.,2016,Florida St.,234.0
+710,Gavin Lux,Arizona St.,11,6-2,175,L/R,"Kenosha, WI",Rd 1 by Dodgers (2016),Dodgers (2019),Hitters Baseball,Can swing it from the leftside and very good defensive SS. Showed very projectable bat at PG National,2016,Arizona St.,28.0
+711,Joe Rizzo,South Carolina,12,5-11,215,L/R,"Oak Hill, VA",Rd 2 by Mariners (2016),None,Evoshield Canes 17U National,Very good all around player. Made game looks easy at PG National. Great swing with huge power. PG AA,2016,South Carolina,648.0
+712,Taylor Trammell,Georgia Tech,13,6-2,195,L/L,"Powder Springs, GA",Rd 1 Comp by Reds (2016),Mariners (2021),Triton Rays Scout Team,Very good all around player and really projects,2016,Georgia Tech,255.0
+713,Joey Wentz,Virginia,14,6-5,209,L/L,"Leawood, KS",Rd 1 Comp by Braves (2016),None,Mac-n-Seitz,All coming together for the projectable LHP low to better 90's now and dominating. Power bat,2016,Virginia,746.0
+714,Forrest Whitley,Florida St.,15,6-7,250,R/R,"San Antonio, TX",Rd 1 by Astros (2016),None,None,Big power mid 90's arm,2016,Florida St.,234.0
+715,Nolan Jones,Virginia,16,6-4,200,L/R,"Langhorne, PA",Rd 2 by Indians (2016),None,Philly Bandits,Can really swing the bat! Outstanding at PG National and also low 90s on the mound!,2016,Virginia,746.0
+716,Cole Stobbe,Arkansas,17,6-1,200,R/R,"Omaha, NE",Rd 3 by Phillies (2016),None,HS team,Very projectable bat. Impressed at PG National. Very good at WWBA Events. Big time bat speed,2016,Arkansas,31.0
+718,Jared Horn,California,19,6-3,225,None,"Napa, CA",Rd 7 by Rockies (2019),None,None,High level RHP really coming on this spring after impressing at Area Codes the last two years,2016,California,107.0
+719,Kevin Gowdy,UCLA,20,6-4,175,R/R,"Santa Barbara, CA",Rd 2 by Phillies (2016),None,GBG Marucci,Arm really works. Can really pitch FB up to 94 mph at PG National. Great offspeed at PG AA,2016,UCLA,110.0
+720,Reggie Lawson,Arizona St.,21,6-4,187,R/R,"Adelento, CA",Rd 2 Comp by Padres (2016),None,CBA,"Keeps getting better each time we see him, Easy 90-93 mph at PG National up to 94 mph at PG AA",2016,Arizona St.,28.0
+721,Kyle Muller,Texas,22,6-5,210,R/L,"Dallas, TX",Rd 2 by Braves (2016),Braves (2021),DBAT B,Up to 90 mph at PG National. Arm really works well. Been very good so far this spring,2016,Texas,703.0
+722,Thomas Jones,Vanderbilt,23,6-3,190,R/R,"Greenville, SC",Rd 3 by Marlins (2016),None,None,"Outstanding all around athlete, elite speed and bat really projects. Very impressive at WWBA",2016,Vanderbilt,736.0
+723,Will Benson,Duke,24,6-6,220,L/L,"Atlanta, GA",Rd 1 by Indians (2016),None,East Cobb Astros 16u,Big left handed hitter with huge power potential,2016,Duke,193.0
+724,Alex Speas,Auburn,25,6-4,190,R/R,"Powder Springs, GA",Rd 2 by Rangers (2016),None,Atlanta Bluejays 17u,Very fast arm that produces mid 90's FB's and touches upper 90s!,2016,Auburn,37.0
+725,Charles King,TCU,26,6-5,205,R/R,"Coppell, TX",None,None,Dallas Tigers,Up to 93 mph at WWBA/ Showed well at PG National. Up to 95 mph in Jupiter,2016,TCU,698.0
+726,Carlos A Cortes,South Carolina,27,5-8,185,L/B,"Oviedo, FL",Rd 3 by Mets (2018),None,Scorpions 2016 Prime,Can flat out rake. Big power and ball jumps off his barrel 17u PG WS MVP,2016,South Carolina,648.0
+727,Nick Quintana,Arizona,28,5-10,187,R/R,"Las Vegas, NV",Rd 2 by Tigers (2019),None,Evoshield Canes,Shows very good bat speed and ball jumps off his bat. Very good at PG National He can flat out hit.,2016,Arizona,29.0
+728,Ben Rortvedt,Arkansas,29,5-10,190,L/R,"Verona, WI",Rd 2 by Twins (2016),Twins (2021),Rawlings Hitters,Flat out mashes. Hits everthing hard. HR at PG National. 450 ft BP HR's at PG AA,2016,Arkansas,31.0
+729,Cole Ragans,Florida St.,30,6-4,190,L/L,"Crawfordville, FL",Rd 1 Comp by Rangers (2016),None,Orlando Scorpions,Outstanding at PG National! FB up to 91 with more to come! Up to 93 at WWBA,2016,Florida St.,234.0
+730,Carter Kieboom,Clemson,31,6-2,185,R/B,"Marietta, GA",Rd 1 Comp by Nationals (2016),Nationals (2019),East Cobb Yankees,Really swings it well. Ball was jumping off his barrel at PG National!,2016,Clemson,147.0
+731,Bo Bichette,Arizona St.,32,6-0,185,R/R,"Tierra Verde, FL",Rd 2 by Blue Jays (2016),Blue Jays (2019),FTB Tucci,Showed very good bat at WWBA. Big time power potential. Ball just comes off his barrel hard,2016,Arizona St.,28.0
+732,Luis A. Curbelo,Miami (FL),33,6-3,185,R/R,"Carolina, PR",Rd 6 by White Sox (2016),None,Beyel Brothers Bulldogs,Made hard contact every at bat at PG national. Can flat out rake. PG AA with huge potential with the bat,2016,Miami (FL),415.0
+733,Walker Robbins,Mississippi St.,34,6-3,215,L/L,"Leakesville, MS",Rd 5 by Cardinals (2016),None,Marucci Elite,"Outstanding all around player, great defensively at 1B, can really swing the bat and low 90's on the mound PG AA",2016,Mississippi St.,430.0
+734,Nolan (Nonie) Williams,LSU,35,6-2,202,R/R,"Kansas City, KS",Rd 3 by Angels (2016),None,Marucci Elite,Big time all around tools PG All American,2016,LSU,365.0
+735,Jeff Belge,St. John's (NY),36,6-5,230,L/L,"Syracuse, NY",Rd 18 by Dodgers (2019),None,Baseball U,Up to 94 at WWBA. Very good at PG Underclass AA Games,2016,St. John's (NY),603.0
+736,Brandon Marsh,Kennesaw St.,37,6-4,210,L/R,"Buford, GA",Rd 2 by Angels (2016),Angels (2021),Team Elite Roadrunners ,Outstanding athlete really impressed at PG HS Showdown,2016,Kennesaw St.,1157.0
+737,Austin Bergner,North Carolina,38,6-4,200,R/R,"Windermere, FL",Rd 9 by Tigers (2019),None,Florida Burn,FB up to 95 mph with good offspeed. Outstanding at WWBA. Can hit too. Very good change to go with 95 at PG AA,2016,North Carolina,457.0
+738,Cooper Johnson,Ole Miss,39,6-0,205,R/R,"Mundelein, IL",Rd 6 by Tigers (2019),None,Top Tier,Outstanding defensive catcher. About as good as they get defensively. Can really catch and throw. Good hitting tools as well. Very good at PG National,2016,Ole Miss,433.0
+739,Jesus Luzardo,Miami (FL),40,6-1,205,L/L,"Parkland, FL",Rd 3 by Nationals (2016),Athletics (2019),Elite Squad Prime 17u,Can really pitch and fastball can reach the low 90's.,2016,Miami (FL),415.0
+741,Tyler Fitzgerald,Louisville,42,6-3,197,R/R,"Rochester, IL",Rd 4 by Giants (2019),None,Elite Baseball Training,"Big tools at PG National, Showed very well at Midwest top. Very good all around tools at PG AA",2016,Louisville,367.0
+742,Ryan Zeferjahn,Kansas,43,6-4,200,R/R,"Topeka, KS",Rd 3 by Red Sox (2019),None,Next Level Baseball,Low 90's at PG National with more to come. Up to 94 mph at PG National and in Jupiter,2016,Kansas,328.0
+743,Avery Tuck,San Diego St.,44,6-5,195,L/R,"San Diego, CA",Rd 17 by Tigers (2018),None,Trosky,Can flat out mash and does it against good pitching. Big power potential. Outstanding at PG National PG AA,2016,San Diego St.,626.0
+744,Nick Hanson,Kentucky,45,6-6,210,R/R,"Savage, MN",Rd 3 by Reds (2016),None,Prior Lake Legion,Up to 94 mph at Kernels tournament,2016,Kentucky,334.0
+745,Spencer Van Scoyoc,Arizona St.,46,6-4,195,L/L,"Cedar Rapids, IA",Rd 19 by Phillies (2019),None,HS team,Big projection. Keeps getting better and already up to 90 mph. Good CB. Outstanding in Jupiter,2016,Arizona St.,28.0
+746,Nolan Martinez,San Diego St.,47,6-2,165,R/R,"Culver City, CA",Rd 3 by Yankees (2016),None,GBG Marucci,Up to 93 mph and can pitch,2016,San Diego St.,626.0
+747,Nick Lodolo,TCU,48,6-6,185,L/L,"La Verne, CA",Rd 1 by Reds (2019),None,SGV Arsenal,Easy throwing LHP projects large up to 92 mph at PG World Series,2016,TCU,698.0
+748,Will Ethridge,Ole Miss,49,6-5,220,R/R,"Lilburn, GA",Rd 5 by Rockies (2019),None,Team Elite Roadrunners 17U,Very good at PG HS Showdown up to 93 mph and keeps getting better. Outstanding at PG National very good in Jupiter up to 92. very high ceiling,2016,Ole Miss,433.0
+749,Khalil Lee,Liberty,50,5-10,180,L/L,"Centreville, VA",Rd 3 by Royals (2016),Mets (2021),None,Can really hit. Very good at PG National after showing very well at WWBA World Championship,2016,Liberty,355.0
+750,Hunter Greene,UCLA,1,6-4,215,R/R,"Stevenson Ranch, CA",Rd 1 by Reds (2017),None,USA,"Put on a show at PG National showing easy power at the plate and a power arm on the mound we have seen up to 97 mph, Won HR Derby at PG All American Classic. Just fun to watch him play. Special All Around talent",2017,UCLA,110.0
+751,"Jordon ""Jo"" Adell",Louisville,2,6-3,205,R/R,"Louisville, KY",Rd 1 by Angels (2017),Angels (2020),Evoshield Canes,"As good of tools as anyone. 6.2 runner, 97 from the OF 96 on the mound. BIg time power. Huge ceiling. Very good at PG All American. Hit tool continues to improve. Very impressive in Jupiter ",2017,Louisville,367.0
+752,Royce Lewis,UC Irvine,3,6-2,188,R/R,"Aliso Viejo, CA",Rd 1 by Twins (2017),None,ASD Bulldogs,"Big time hitter, huge batspeed and power potential. Can really swing it. Outstanding at PG National. MVP PG All American Classic",2017,UC Irvine,109.0
+753,Trevor Rogers,Texas Tech,4,6-5,190,L/L,"Carlsbad, NM",Rd 1 by Marlins (2017),Marlins (2020),None,Easy low 90's LHP up to 96. Big time Projection. Very good at PG All American Classic,2017,Texas Tech,700.0
+754,MacKenzie Gore,East Carolina,5,6-2,170,L/L,"Whiteville, NC",Rd 1 by Padres (2017),None,Evoshield Canes,94 mph LHP and can really pitch. Good breaking ball,2017,East Carolina,196.0
+755,DL Hall,Florida St.,6,6-1,170,L/L,"Warner Robins, GA",Rd 1 by Orioles (2017),None,Chain Marrucci Black,Up to 95 at PG National and Has shown hammer CB to go with it. 96 at PG All American Classic ,2017,Florida St.,234.0
+756,Austin Beck,North Carolina,7,6-1,190,R/R,"Arcadia, NC",Rd 1 by Athletics (2017),None,Dirtbags 17 All Black,Always has shown elite level tools and they are playing in a big way since coming back from injury. 6.5 runner 91 from the OF at Atlantic Coast and outstanding bat. 5 tool talent.Very good at NUC Main Event. Showed big time bat at PG Junior National,2017,North Carolina,457.0
+757,Shane Baz,TCU,8,6-3,190,R/R,"Cypress, TX",Rd 1 by Pirates (2017),Rays (2021),Premier Baseball Futures Evans,Very athletic 95 mph RHP. Can swing it too. Stuff has been outstanding all spring,2017,TCU,698.0
+758,Hans Crouse,Southern California,9,6-4,185,L/R,"Dana Point, CA",Rd 2 by Rangers (2017),Pirates (2021),BPA Demarini Elite 2017,Can run his fastball up to 97 mph! Very good and up to 96 at PG All American Classic. Fun to watch him pitch,2017,Southern California,657.0
+759,Calvin Mitchell,San Diego,10,6-1,190,L/L,"San Diego, CA",Rd 2 by Pirates (2017),None,None,Can really hit and hit with power. Stood out  at PG National. Showed big power at PG All American Classic to go with the sweet swing. Hit very well in Jupiter ,2017,San Diego,627.0
+760,Drew Waters,Georgia,11,6-2,190,S/R,"Woodstock, GA",Rd 2 by Braves (2017),None,6-4-3 Dp Cougars 17U,6.69 60 95 mph from OF and two of the top 3 hardest hit balls at PG National 103 mph off his bat. Very impressive in Jupiter,2017,Georgia,257.0
+761,Nick Allen,Southern California,12,5-9,165,R/R,"San Diego, CA",Rd 3 by Athletics (2017),None,CBA Marucci,Outstanding defensive SS with good hitting tools. Can always count on a Gold Glove caliber play from him every time you watch him play,2017,Southern California,657.0
+762,Jacob Heatherly,Alabama,13,6-3,200,L/L,"Cullman, AL",Rd 3 by Reds (2017),None,Georgia Jackets 17U,Up to 95 at PG All American Classic. Coming on strong. ,2017,Alabama,8.0
+763,Cole Brannen,Ga. Southern,14,6-1,190,L/R,"Elko, GA",Rd 2 by Red Sox (2017),None,Chain National 17u,Can really hit and run! outstanding at PG National. Really hit well this fall,2017,Ga. Southern,253.0
+764,Alex Scherff,Texas A&M,15,6-4,205,S/R,"Colleyville, TX",Rd 5 by Red Sox (2017),None,Houston Banditos,Lights out at PG National and ran his fastball up to 95 mph. Up to 96 mph at PG All American Classic,2017,Texas A&M,697.0
+765,Mark Vientos,Miami (FL),16,6-4,190,R/R,"Pembroke Pines, FL",Rd 2 by Mets (2017),None,Elite Squad,Really stood out at PG  National. Outstanding defender and big potential with the bat. Bat stood out in Jupiter. Keeps getting better,2017,Miami (FL),415.0
+766,Conner Uselton,Oklahoma St.,17,6-3,185,R/R,"Oklahoma City, OK",Rd 2 Comp by Pirates (2017),None,FTB Tucci,"Showed 5 tool potential at PG National, outstanding in Jupiter. MVP at 17u WWBA and very good at PG All American Classic",2017,Oklahoma St.,521.0
+767,Cole Turney,Houston,18,6-1,200,L/L,"Richmond, TX",Rd 34 by Indians (2017),None,South Texas Sliders,Can flat out swing it! Very good at PG Underclass AA Games Big time bat speed and power potential. Stood out at PG National. Showed huge power at PG All American Classic,2017,Houston,288.0
+768,Heliot Ramos,FIU,19,6-2,185,R/R,"Maunabo, PR",Rd 1 by Giants (2017),None,Las Lomas Potros,Outstanding at PG National showing big power and all around tools,2017,FIU,231.0
+769,Alex Toral,Miami (FL),20,6-1,225,L/L,"Davie, FL",None,None,Elite Squad 17u Prime,Big power bat. He can hit the ball a long ways. Always hits. Very good at PG National and PG All American Classic,2017,Miami (FL),415.0
+770,Blayne Enlow,LSU,21,6-4,180,R/R,"Sorrento, LA",Rd 3 by Twins (2017),None,None,Lows 90's RHP with good breaking ball. Very good at PG All American Classic,2017,LSU,365.0
+771,"Mervyl ""MJ"" Melendez",FIU,22,6-1,175,L/R,"Cutler Bay, FL",Rd 2 by Royals (2017),None,FTB Tucci,"Really impressed all around at WWBA, BCS PG All American Classic and PG National. Power in his bat to go with top level defensive skills",2017,FIU,231.0
+772,Seth Corry,BYU,23,6-2,195,L/L,"Highland, UT",Rd 3 by Giants (2017),None,Utah Marshalls,Easy low 90's up to 93 mph at PG National and PG All American Classic. Very good early this spring up to 94 at PG Rawlings Select,2017,BYU,77.0
+773,Nicholas Pratto,Southern California,24,6-2,195,L/L,"Huntington Beach, CA",Rd 1 by Royals (2017),None,Evoshield Canes,Outstanding two way prospect. Can really hit and low 90s on the mound with outstanding pitchability. Also very good defensive 1B,2017,Southern California,657.0
+774,Samuel Carlson,Florida,25,6-4,208,R/R,"Savage, MN",Rd 2 by Mariners (2017),None,Minnesota Blizzard,Low 90s and can really pitch. Up to 94 mph in Jupiter ,2017,Florida,235.0
+775,Leslie (Bubba) Thompson,Alabama,26,6-2,180,R/R,"Theodore, AL",Rd 1 by Rangers (2017),None,TPL National,Showed outstanding all around tools at PG National,2017,Alabama,8.0
+776,Kyle Hurt,Southern California,27,6-3,205,R/R,"Rancho Santa Fe, CA",Rd 5 by Marlins (2020),None,San Diego Show,93 mph at PG National and can really pitch. Bugs Bunny CH and good CB as well. Lights out at PG National and PG Underclass AA. Up to 94 at PG All American Classic,2017,Southern California,657.0
+777,Caden Lemons,Ole Miss,28,6-6,175,R/R,"Birmingham, AL",Rd 2 by Brewers (2017),None,Excel,Lows 90's RHP projects well and has shown more velos this spring into the mid 90s,2017,Ole Miss,433.0
+778,Brady McConnell,Florida,29,6-3,195,R/R,"Merritt Island, FL",Rd 2 by Royals (2019),None,Florida Burn Platinum 2017,5 tool player with huge ceiling. Outstanding at PG National,2017,Florida,235.0
+779,Hagen Danner,UCLA,30,6-2,195,R/R,"Huntington Beach, CA",Rd 2 by Blue Jays (2017),None,Evoshield Canes,Talented 2 way prospect low 90's on the mound very interesting catcher and bat. MVP WWBA 16u. Really impressed with bat and on the mound in Jupiter ,2017,UCLA,110.0
+780,Jacob Gonzalez,TCU,31,6-4,210,R/R,"Scottsdale, AZ",Rd 2 by Giants (2017),None,AZ T-Rex Baseball,Can flat out rake. MVP at 17u PG World Series and hit well at PG All American,2017,TCU,698.0
+781,Garrett Mitchell,UCLA,32,6-3,200,L/R,"Orange, CA",Rd 1 by Brewers (2020),None,CBA Marucci,Outstanding all around talent and athlete. High ceiling player 6.3 runner and 94 from OF at PG National. Showed big arm in game at PG All American Classic. Fun to watch him play,2017,UCLA,110.0
+782,Tanner Burns,Auburn,33,6-0,215,R/R,"Decatur, AL",Rd 1 Comp by Indians (2020),None,FTB Tucci,Runs his fastball up to 95 mph at PG National and can really pitch!,2017,Auburn,37.0
+783,Luis Campusano,South Carolina,34,6-0,195,R/R,"Augusta, GA",Rd 2 by Padres (2017),Padres (2020),Baseball Scoutz,Showed very well at PG National with good catching tools and big potential with bat,2017,South Carolina,648.0
+784,Quentin Holmes,Mississippi St.,35,6-2,180,R/R,"East Elmhurst, NY",Rd 2 by Indians (2017),None,Elite Squad Prime 17U,Extremely fast and showed very good with the bat with power at WWBA. Impressed at PG National and ran a record breaking 6.15,2017,Mississippi St.,430.0
+785,Ryan Vilade,Oklahoma St.,36,6-2,190,R/R,"Stillwater, OK",Rd 2 by Rockies (2017),Rockies (2021),Dallas Tigers,Ball just flies off his barrel. Serious juice in his bat,2017,Oklahoma St.,521.0
+786,Matthew Sauer,Arizona,37,6-4,205,R/R,"Santa Maria, CA",Rd 2 by Yankees (2017),None,Wahoos,Low 90's RHP with good breaking ball at PG National. BIg velo jump this spring,2017,Arizona,29.0
+787,Christopher Seise,UCF,38,6-3,170,S/R,"Winter Garden, FL",Rd 1 by Rangers (2017),None,Orlando Scorpions,Good SS and has the bat to go with it. Showed big tools at PG National,2017,UCF,128.0
+788,Tristen Lutz,Texas,39,6-3,205,R/R,"Arlington, TX",Rd 1 Comp by Brewers (2017),None,Academy Select Sundevils,Can really hit. Bat stood out in Jupiter ,2017,Texas,703.0
+789,Steven Jennings,Ole Miss,40,6-2,175,R/R,"Brush Creek, TN",Rd 2 by Pirates (2017),None,Team Nike 17u,Outstanding at 17u WWBA last summer and even better this spring and reaching mid 90s,2017,Ole Miss,433.0
+790,Kyle Jacobsen,UCF,41,6-0,185,R/L,"Acworth, GA",Rd 33 by Brewers (2017),None,East Cobb Yankees 18U,Showed big tools at PG National and knows how to use them in games. Big time player. Stood out in Jupiter ,2017,UCF,128.0
+791,Caleb Sloan,TCU,42,6-3,215,R/R,"Centennial, CO",None,None,Slammers Black Zavaras,Very good and up to 94 mph at PG National and PG All American,2017,TCU,698.0
+792,Jake Eder,Vanderbilt,43,6-4,210,L/L,"Ocean Ridge, FL",Rd 4 by Mariners (2020),None,FTB Tucci,Up to 94 mph in Jupiter and showed high end potential,2017,Vanderbilt,736.0
+793,Jacob Pearson,LSU,44,6-0,195,L/R,"West Monroe, LA",Rd 3 by Angels (2017),None,Marucci Elite,6.5 runner with big juice in his bat. Impressed at PG All American. ,2017,LSU,365.0
+794,Jack Leftwich,Florida,45,6-2,210,R/R,"Maitland, FL",Rd 7 by Indians (2021),None,Orlando Scorpions 2017 Prime,Up to 94 mph at PG National. Touched 95 at PG HS Showdown,2017,Florida,235.0
+795,Jeremiah Estrada,UCLA,46,6-1,185,S/R,"La Quinta, CA",Rd 6 by Cubs (2017),None,CBA Marucci,Up to 94 mph at PG National. Outstanding at 17u WWBA and 17u PG World Series as well as PG All American Classic,2017,UCLA,110.0
+796,Adam Hall,Texas A&M,47,6-0,165,R/R,"London, ON",Rd 2 by Orioles (2017),None,Great Lake Canadians/Canadian Junior National Team,Showed all 5 tools at PG National,2017,Texas A&M,697.0
+797,Mitchell Stone,Oklahoma St.,48,6-9,255,L/L,"Oklahoma City, OK",None,None,FTB Tucci,Big projectable LHP who can already reach the low 90s with good breaking ball at PG National. Very good at PG All American Classic,2017,Oklahoma St.,521.0
+798,Logan Allen,FIU,49,None,None,R/L,"Deltona, FL",Rd 2 by Indians (2020),None,FTB Tucci,Low 90's LHP who can flat out pitch. Very good at PG All American Classic,2017,FIU,231.0
+799,Jeter Downs,Miami (FL),50,6-0,180,R/R,"Miami, FL",Rd 1 Comp by Reds (2017),None,Elite Squad 17u Prime,Outstanding all around athlete who can really play,2017,Miami (FL),415.0
+800,Matthew Liberatore,Arizona,1,6-5,200,L/L,"Peoria, AZ",Rd 1 by Rays (2018),None,Central Florida Gators,LHP up to 95 mph at PG AA game and can really pitch,2018,Arizona,29.0
+801,Ethan Hankins,Vanderbilt,2,6-6,200,R/R,"Cumming, GA",Rd 1 Comp by Indians (2018),None,Team Elite Prime 17U,Keeps getting better each time we see him and has been up to 97 mph. Very good at PG National and PG All American. Absolutely dominant this summer . From 82 mph to 97 mph. Up to 95 in 2016 at WWBA in the fall and MVPitcher WWBA World Championship. ,2018,Vanderbilt,736.0
+803,Jarred Kelenic,Louisville,4,6-1,196,L/L,"Waukesha, WI",Rd 1 by Mets (2018),Mariners (2021),Rawlings Hitters,"Can really hit. Ball flies off his barrel. Showed big 5 tool potential at PG National and PG All American, Outstanding all fall 2016 including MVP of WWBA Kernels. ",2018,Louisville,367.0
+804,Nolan Gorman,Arizona,5,6-1,210,L/R,"Glendale, AZ",Rd 1 by Cardinals (2018),None,Central Florida Gators,Can flat out rake and showed it at WWBA and PG Junior National. Had a great fall. Seems like he gets a hit every time up. MVP PG AA and hit a HR in game,2018,Arizona,29.0
+805,Nander De Sedas,Florida St.,6,6-2,190,S/R,"Montverde, FL",Rd 29 by Brewers (2018),None,FTB 55,6.82 90 IF at PG Junior National and very good switch hitter with big potential. 6.67 and 96 across the IF at National. Special all around player. PG AA,2018,Florida St.,234.0
+806,Ryan Weathers,Vanderbilt,7,6-2,225,R/L,"Loretto, TN",Rd 1 by Padres (2018),Padres (2021),Dulins Dodgers,Throws easy low to mid 90s. Fun to watch him pitch,2018,Vanderbilt,736.0
+807,Kumar Rocker,Vanderbilt,8,6-4,255,R/R,"Watkinsville, GA",Rd 1 by Mets (2021),None,Team Elite Prime,Up to 98 mph and now showing a power Breaking ball. Fun to watch him pitch. Dominant summer. PG All American,2018,Vanderbilt,736.0
+808,Jordan Groshans,Kansas,9,6-3,190,R/R,"Magnolia, TX",Rd 1 by Blue Jays (2018),None,Banditos Black,Easy bat speed with big power potential. Very good at PG National including a game HR. Another game HR at PG AA.,2018,Kansas,328.0
+809,Will Banfield,Vanderbilt,10,6-1,208,R/R,"Lawrenceville, GA",Rd 2 by Marlins (2018),None,Team Elite Prime,"Special defensive catcher, Hit very well this fall, Outstanding at PG National. can really hit with big power and up to 94 mph on the mound. Very good at WWBA and PG AA. Hit very well this fall",2018,Vanderbilt,736.0
+810,Mason Denaburg,Florida,11,6-4,195,R/R,"Merritt Island, FL",Rd 1 by Nationals (2018),None,Central Florida Gators,Up to 97 mph on the mound at PG National and big power in his bat. PG AA,2018,Florida,235.0
+811,Cole Winn,TCU,12,6-2,195,R/R,"Orange, CA",Rd 1 by Rangers (2018),None,None,Up to 94 and dominant in Jupiter. Up to 94 at WWBA and Area Codes,2018,TCU,698.0
+812,Brice Turang,LSU,13,6-1,165,L/R,"Corona, CA",Rd 1 by Brewers (2018),None,Playa Vista Orioles,Very athletic all around player who really projects in all phases. Really stood out at PG Evoshield and CA World Series. USA Baseball POY. PG AA,2018,LSU,365.0
+813,Triston Casas,Miami (FL),14,6-4,238,L/R,"Pembroke Pines, FL",Rd 1 by Red Sox (2018),None,Elite Squad,Can really mash. Huge power potential. PG All American,2018,Miami (FL),415.0
+814,Connor Scott,Florida,15,6-4,180,L/L,"Tampa, FL",Rd 1 by Marlins (2018),None,2017 Scorpion Prime,Showed big potential with the bat at PG National. Also a prospect on the mound PG All American,2018,Florida,235.0
+815,Jeremiah Jackson,Mississippi St.,16,6-0,170,R/R,"Mobile, AL",Rd 2 by Angels (2018),None,Coast Titans,"Easy fluid swing, he can really hit. Long HR at WWBA World Championship in Jupiter. Outstanding at PG National and PG AA",2018,Mississippi St.,430.0
+816,Anthony Seigler,Florida,17,6-0,190,S/B,"Cartersville, GA",Rd 1 by Yankees (2018),None,Evoshield Canes,"Big hitter, dominates as BHP on the mound, can really catch stood out at Main Event. National. WWBA and PG Underclass AA. PG All American",2018,Florida,235.0
+817,Cole Wilcox,Georgia,18,6-5,220,R/R,"Chickamauga, GA",Rd 3 by Padres (2020),None,Exposure 17U prime,Up to 95 mph at PG National and 97 at WWBA. PG AA,2018,Georgia,257.0
+818,Xavier Edwards,Vanderbilt,19,5-8,140,S/R,"Wellington, FL",Rd 1 by Padres (2018),None,Evoshield Canes,Can really pick it and very projectable bat. About as good of hands in the IF as you will see. Very good at NUC Main Event. MVP of 17u WWBA. PG All American,2018,Vanderbilt,736.0
+819,Joe Gray Jr,Ole Miss,20,6-3,195,R/R,"Hattiesburg, MS",Rd 2 by Brewers (2018),None,Evoshield Canes,Very impressive at PG National. Huge power potential. Very impressive at Fall WWBA Events. PG All American. Hit very well this fall ,2018,Ole Miss,433.0
+820,Nick Decker,Maryland,21,6-0,200,L/L,"Southampton, NJ",Rd 2 by Red Sox (2018),None,All Out Baseball,Showed huge power at PG National and it played in games. PG All American,2018,Maryland,392.0
+821,Noah Naylor,Texas A&M,22,6-0,195,L/R,"Mississauga, ON",Rd 1 by Indians (2018),None,Ontario Blue Jays/Canada Junior National Team,Very good at PG National. Continued to hit at PG Underclass All American Games Can really hit. Bat really impressed in Jupiter. Very good at PG AA,2018,Texas A&M,697.0
+822,Mike Vasil,Virginia,23,6-4,210,L/R,"Wellesley, MA",Rd 8 by Mets (2021),None,Louisiana Knights,Up to 96 mph at PG All American,2018,Virginia,746.0
+823,J.T. Ginn,Mississippi St.,24,6-2,200,R/R,"Brandon, MS",Rd 1 by Dodgers (2018),None,East Coast Sox,Up to 97 mph at WWBA. PG All American,2018,Mississippi St.,430.0
+824,Parker Meadows,Clemson,25,6-4,195,L/R,"Grayson, GA",Rd 2 by Tigers (2018),None,Team Elite,Austin's younger brother is an extremely high ceiling talent. Showed big tools at PG National. PG All American,2018,Clemson,147.0
+825,Nicholas Schnell,Louisville,26,6-2,180,L/R,"Indianapolis, IN",Rd 1 Comp by Rays (2018),None,Indiana Bulls 17u black,"Big time all around tools that really project. Very good at PG National, PG All American and WWBA World Championship ",2018,Louisville,367.0
+826,Grayson Rodriguez,Texas A&M,27,6-5,230,L/R,"Nacogdoches, TX",Rd 1 by Orioles (2018),None,D-Bat Schkade,Very high ceiling RHP already up to 91 mph at PG Evoshield Classic,2018,Texas A&M,697.0
+827,Alek Thomas,TCU,28,5-11,175,L/L,"Chicago, IL",Rd 2 by Diamondbacks (2018),None,Chicago White Sox ACE,Can flat out rake. Really impressed at PG National. PG All American,2018,TCU,698.0
+828,Adam Kloffenstein,TCU,29,6-5,220,R/R,"Magnolia, TX",Rd 3 by Blue Jays (2018),None,Premier Baseball Futures Evans,Up to 93 and can really pitch. Very good at PG Underclass All American Games,2018,TCU,698.0
+829,Kendall Logan Simmons,Georgia Tech,30,6-3,190,R/R,"Macon, GA",Rd 6 by Phillies (2018),None,East Cobb Yankees,"Very athletic player.Really projects potential high level 5 tool player. low 90's on the mound. Outstanding at Main Event Showcase, PG Underclass AA Games, PG National and PG AA",2018,Georgia Tech,255.0
+830,Austin Becker,Vanderbilt,31,6-6,185,R/R,"Sunbury, OH",Rd 37 by Rangers (2018),None,Evoshield Canes,Touched 96 mph at WWBA World Championship. Lights out at PG All American ,2018,Vanderbilt,736.0
+831,Jordyn Adams,North Carolina,32,6-2,180,R/R,"Cary, NC",Rd 1 by Angels (2018),None,Diamond Devils 17u Black,None,2018,North Carolina,457.0
+832,Lineras Torres Jr,St. John's (NY),33,6-2,190,R/R,"Beacon, NY",Rd 1 by Indians (2018),None,None,Throws easy and up to 94 mph at PG National. PG All American,2018,St. John's (NY),603.0
+833,Luke Bartnicki,Georgia Tech,34,6-3,210,L/L,"Marietta, GA",Rd 29 by Diamondbacks (2018),None,East Cobb Colt .45s,Easy low 90's LHP and keeps getting better each time out. Up to 95 mph at WWBA World Championship. Lights out at PG National. PG AA,2018,Georgia Tech,255.0
+834,Jon Childress,Texas A&M,35,6-4,215,L/L,"Forney, TX",None,None,Houston Banditos Black,Up to 93 mph at PG National. 94 and lights out at WWBA. PG All American,2018,Texas A&M,697.0
+835,Justin Jarvis,UNCW,36,6-3,175,R/R,"Mooresville, NC",Rd 5 by Brewers (2018),None,Canes National,Up to 93 mph at PG National. Dominant at WWBA. Keeps getting better. Up to 94 mph this fall ,2018,UNCW,460.0
+836,Osiris Johnson,Cal St. Fullerton,37,6-1,185,R/R,"Alameda, CA",Rd 2 by Marlins (2018),None,NorCal Scarlet,Showed big power potential at PG National. PG All American,2018,Cal St. Fullerton,97.0
+837,Elijah Cabell,Florida St.,38,6-2,195,R/R,"Winter Park, FL",Rd 14 by Brewers (2018),None,Central Florida Gators,Extremely fast bat and the ball just flies off his barrel. Very fun to watch him hit. Huge power at PG National. Very good at WWBA and PG All American,2018,Florida St.,234.0
+838,Slade Cecconi,Miami (FL),39,6-4,203,R/R,"Oviedo, FL",Rd 1 Comp by Diamondbacks (2020),None,Orlando Scorpions/Prime,Low 90's and can really pitch. Showed good off speed at PG Junior National. Very high ceiling RHP. Up to 96 mph at PG National,2018,Miami (FL),415.0
+839,Seth Halvorsen,Missouri,40,6-1,198,R/R,"Plymouth, MN",Rd 19 by Phillies (2021),None,MN Blizzard Elite Blue,"Huge tools at PG National. 6.6 Runner, 95 across IF and 93-94 on the mound. Showed big potential with bat as well. Lights out inning at PG All American Game and up to 96 mph",2018,Missouri,434.0
+840,Nicholas Northcut,Vanderbilt,41,6-0,198,R/R,"Mason, OH",Rd 11 by Red Sox (2018),None,Evoshield Canes,Can flat out rake and also low 90s on the mound. Special bat and hit all summer. Good defensive 3B. PG All American,2018,Vanderbilt,736.0
+841,Grant Lavigne,Wake Forest,42,6-4,230,L/R,"Bedford, NH",Rd 1 by Rockies (2018),None,North East Baseball Rays,Huge power potential. Has swung it very well all year ,2018,Wake Forest,749.0
+842,Mike Siani,Virginia,43,6-0,195,L/L,"Glenside, PA",Rd 4 by Reds (2018),None,Whiz Kids,Can really swing the bat. Very impressive at TOS,2018,Virginia,746.0
+843,Matt McLain,UCLA,44,5-11,175,S/R,"Tustin, CA",Rd 1 by Reds (2021),None,Evoshield Canes,Very good all around player ,2018,UCLA,110.0
+844,Braxton Ashcraft,Baylor,45,6-5,195,L/R,"Waco, TX",Rd 2 by Pirates (2018),None,Brazos River Wranglers,Easy low 90s at PG National and can really pitch,2018,Baylor,51.0
+845,Gunnar Hoglund,Ole Miss,46,6-4,210,L/R,"Hudson, FL",Rd 1 by Blue Jays (2021),None,Central Florida Gator's,Low 90's RHP at WWBA and PG National,2018,Ole Miss,433.0
+846,Preston Hartsell,Southern California,47,6-0,215,L/L,"Newport Coast, CA",None,None,FTB Tucci 55,Can really swing it with good power. Mashed at WWBA and won HR Derby at PG All American. MVP in Jupiter ,2018,Southern California,657.0
+847,Blaze Alexander,South Carolina,48,6-1,175,R/R,"Cape Coral, FL",Rd 11 by Diamondbacks (2018),None,None,Very good SS who really projects with the bat. 99 mph across the diamond at PG National. PG All American,2018,South Carolina,648.0
+848,Simeon Woods Richardson,Texas,49,6-3,200,R/R,"Houston, TX",Rd 2 by Mets (2018),None,Marucci Houston,Easy Low 90's with more in there. Can swing it to,2018,Texas,703.0
+849,Landon Marceaux,LSU,50,6-0,180,R/R,"Destrehan, LA",Rd 3 by Angels (2021),None,Evoshield Canes 17U,Can flat out pitch and up to 92 mph at PG National. 94 at WWBA and MVPitcher at 17u WWBA,2018,LSU,365.0
+850,Bobby Witt Jr,Oklahoma,1,6-1,185,R/R,"Colleyville, TX",Rd 1 by Royals (2019),None,EC Sox,Outstanding defensive SS and can really hit. Every time he hit this summer you almost expected a 100+ exit velos and extra bases. 6.4 60 at PG National. Very good in Jupiter,2019,Oklahoma,522.0
+851,CJ Abrams,Alabama,2,6-2,182,L/R,"Alpharetta, GA",Rd 1 by Padres (2019),None,DRB Elite,Smooth easy swing and ball jumps off his barrel usually to a gap and he uses his 6.2 speed to fly around the bases.,2019,Alabama,8.0
+852,Riley Greene,Florida,3,6-2,190,L/L,"Oviedo, FL",Rd 1 by Tigers (2019),None,FTB Tucci / SF Giants 17u,"Can flat out hit. Finds the barrel almost every AB and ball jumps. Really impressed at WWBA, PG National and PG All American Classic. Mashed in Jupiter ",2019,Florida,235.0
+853,Daniel Espino,LSU,4,6-4,200,R/R,"Statesboro, GA",Rd 1 by Indians (2019),None,GBSA Rays,"Up to 98 mph at PG National and has shown a wipe out slider. Very good at WWBA, East Coast Pro and PG All American Classic ",2019,LSU,365.0
+854,Brennan Malone,North Carolina,5,6-5,220,R/R,"Matthews, NC",Rd 1 Comp by Diamondbacks (2019),None,On Deck O's,Arm really works well and up to 96 mph at PG National and breaking ball is showing good progress. Keeps getting better each outing. Lights out at PG All American Classic. Up to 97 mph in Jupiter ,2019,North Carolina,457.0
+855,Corbin Carroll,UCLA,6,5-10,170,L/L,"Seattle, WA",Rd 1 by Diamondbacks (2019),None,Canes National & WW Sweets,Outstanding this fall at Ways to Play and in Jupiter.  Bat really impressed at both PG National and TOS. Outstanding at Area Codes and PG Underclass All American Games. MVP of PG All American Classic and a HR Derby finalist. Special bat ,2019,UCLA,110.0
+856,Quinn Priester,TCU,7,6-3,190,R/R,"Cary, IL",Rd 1 by Pirates (2019),None,Blackhawks National,Up to 93 mph at PG National with a lot of life with an outstanding breaking ball,2019,TCU,698.0
+857,Matthew Allan,Florida,8,6-3,210,R/R,"Sanford, FL",Rd 3 by Mets (2019),None,Canes 17U National,Up to 95 mph and very good at PGNational. Dominant at PG All American Classic ,2019,Florida,235.0
+858,Brett Baty,Texas,9,6-3,210,L/R,"Spicewood, TX",Rd 1 by Mets (2019),None,Lone Star Baseball Club,Big potential with bat. Impressed at PG National. ,2019,Texas,703.0
+859,Tyler Callihan,South Carolina,10,6-1,200,L/R,"Neptune Beach, FL",Rd 3 by Reds (2019),None,Elite Squad,Showed big power in his bat this summer with 400+ foot HRs,2019,South Carolina,648.0
+860,Rece Hinds,LSU,11,6-4,210,R/R,"Niceville, FL",Rd 2 by Reds (2019),None,EC Sox,Very impressive at WWBA and PG National. Bat really stands out with big power. 98 mph across the IF as well. HR Derby champion at PG All American Classic. Very good in Jupiter ,2019,LSU,365.0
+861,Jerrion Ealy,Ole Miss,12,5-10,192,R/R,"Carthage, MS",Rd 31 by Diamondbacks (2019),None,Team Georgia,"Outstanding athlete. Good hitting tools. Ran 6.13 at PG National, 96 from OF and ball jumps off his barrel ",2019,Ole Miss,433.0
+862,JJ Goss,Texas A&M,13,6-3,185,R/R,"Cypress, TX",Rd 1 Comp by Rays (2019),None,Hunter Pence Baseball - Danielson,Showed big time stuff at 17u WWBA Playoffs up to 96 mph. Up to 94 mph at PG National and very good at PG All Americal Classic. ,2019,Texas A&M,697.0
+863,Hunter Barco,Florida,14,6-5,220,L/L,"Jacksonville, FL",Rd 24 by Mets (2019),None,East Cobb Astros,"Up to 94 on the mound. Lights out in Jupiter, PG National and PG All American Classic",2019,Florida,235.0
+864,Jack Leiter,Vanderbilt,15,6-1,195,R/R,"Summit, NJ",Rd 1 by Rangers (2021),None,Tri State Arsenal,Very good at Area Codes and PG All American Classic. Up to 94 mph at PG National. Lows 90s RHP who showed outstanding pitchability at PG Underclass AA Games,2019,Vanderbilt,736.0
+865,Gunnar Henderson,Auburn,16,6-3,195,L/R,"Selma, AL",Rd 2 by Orioles (2019),None,TPL National,Can flat out swing it! Big potential,2019,Auburn,37.0
+866,Kendall Williams,Vanderbilt,17,6-6,208,R/R,"Olive Branch, MS",Rd 2 by Blue Jays (2019),None,Scorpions Founders Club,Up to 94 at PG National. Outstanding at 17u WWBA and PG All American Classic ,2019,Vanderbilt,736.0
+867,Nasim Nunez,Clemson,18,5-9,160,S/R,"Lawrenceville, GA",Rd 2 by Marlins (2019),None,Team Elite Prime 17u,Special defender in the MIF and bat projects. Very good at PG World and PG National ,2019,Clemson,147.0
+868,Trejyn Fletcher,Vanderbilt,19,6-2,190,R/R,"Portland, ME",Rd 2 by Cardinals (2019),None,Team Elite,New to 2019 Class incredible athlete with 5 tool potential who has hit very well against top level pitching. Big power potential and also low 90s on the mound. ,2019,Vanderbilt,736.0
+869,Keoni Cavaco,San Diego St.,20,6-1,185,R/R,"Chula Vista, CA",Rd 1 by Twins (2019),None,San Diego Show,Bat really standing out this spring,2019,San Diego St.,626.0
+870,Myles Austin,Alabama,21,6-3,177,R/R,"Smyrna, GA",Rd 20 by Brewers (2019),None,FTB,"Outstanding athlete, 92 across the infield, 90 on the mound and bat really projects. Showed big power potential at PG All American Classic. Impressed in Jupiter ",2019,Alabama,8.0
+871,Matthew Thompson,Texas A&M,22,6-3,184,R/R,"Cypress, TX",Rd 2 by White Sox (2019),None,Canes National Baseball,Absolutely dominant at PG All American Classic. Outstanding at WWBA. Up to 96 mph in Jupiter,2019,Texas A&M,697.0
+872,Maurice Hampton,LSU,23,6-0,195,R/R,"Arlington, TN",Rd 23 by Padres (2019),None,Banditos,Very good hitter who really impressed with the bat at PG World Series and PG National Can really run,2019,LSU,365.0
+873,Erik Rivera,FIU,24,6-2,195,L/L,"Caguas, PR",Rd 4 by Angels (2019),None,Florida Legends ,Up to 97 mph from the OF and serious juice in his bat,2019,FIU,231.0
+874,Anthony Volpe,Vanderbilt,25,5-11,180,R/R,"Watchung, NJ",Rd 1 by Yankees (2019),None,Canes,Very good MIF and good bat to go with it,2019,Vanderbilt,736.0
+875,Brooks Lee,Cal Poly,26,6-1,180,S/R,"San Luis Obispo, CA",Rd 35 by Giants (2019),None,BPA ,Really stood out at 17u PG World Series and in Jupiter ,2019,Cal Poly,90.0
+876,Connor Walsh,Rice,27,6-2,195,R/R,"Niceville, FL",None,None,2019 Orlando Scorpions Prime,Big time tools at PG National and power in his bat. Very good in Jupiter ,2019,Rice,574.0
+877,Matthew Lugo,Miami (FL),28,6-1,185,R/R,"Manati, PR",Rd 2 by Red Sox (2019),None,Florida Legends,Showed electric all around tools at PG National. Stood out in Jupiter ,2019,Miami (FL),415.0
+878,Josh Wolf,Texas A&M,29,6-2,165,R/R,"Bellaire, TX",Rd 2 by Mets (2019),None,Premier Baseball Futures Evans,Always shown good pitchability at PG Tournaments and has seen his velo jump into the mid 90s this spring. ,2019,Texas A&M,697.0
+879,Bryce Osmond,Oklahoma St.,30,6-3,175,R/R,"Tulsa, OK",Rd 35 by Nationals (2019),None,None,Great athlete and was up to 94 on the mound at PG National. Also a 6.4 runner with good hitting tools.,2019,Oklahoma St.,521.0
+880,Spencer Jones,Vanderbilt,31,6-7,205,L/L,"Encinitas, CA",Rd 31 by Angels (2019),None,Blackhawks National,Up to 93 on the mound with low 80s hammer. Extremely high ceiling.,2019,Vanderbilt,736.0
+881,Andrew Dalquist,Arizona,32,6-2,170,R/R,"Redondo Beach, CA",Rd 3 by White Sox (2019),None,TB SoCal Baseball,Big velo jump into the mid 90s this spring ,2019,Arizona,29.0
+882,Blake Walston,NC State,33,6-4,172,L/L,"Wilmington, NC",Rd 1 by Diamondbacks (2019),None,Rock Solid Tucci,Projectable LHP who spins it well and throws easy low 90s,2019,NC State,490.0
+883,Sammy Siani,Duke,34,5-11,175,L/L,"Glenside, PA",Rd 1 Comp by Pirates (2019),None,Philadelphia Whiz Kids,Very good at WWBA this summer and really hit well in Jupiter ,2019,Duke,193.0
+884,Joe Charles,North Carolina,35,6-3,190,R/R,"Celebration, FL",Rd 25 by Mets (2019),None,Orlando Scorpions,96 at 17u WWBA. Up to 94 mph at Junior National and set and event record throwing 98 mph from OF. Juice in bat,2019,North Carolina,457.0
+885,Kyren Paris,California,36,6-0,167,R/R,"Oakley, CA",Rd 2 by Angels (2019),None,Show California,Can really play. Fun to watch at PG National. Power to come with more strength. Very young for the class ,2019,California,107.0
+886,Derek Diamond,Ole Miss,37,6-2,185,R/R,"Ramona, CA",Rd 40 by Diamondbacks (2019),None,Garciaparra Baseball Group,Up to 93 and very good at PG National.,2019,Ole Miss,433.0
+887,Hayden Mullins,Auburn,38,6-0,190,L/L,"Gallatin, TN",None,None,Rawlings Southeast Prospects,Up to 92 mph at PG National,2019,Auburn,37.0
+888,Trevor McDonald,South Alabama,39,6-2,180,R/R,"Lucedale, MS",Rd 11 by Giants (2019),None,Deep South Reds 18u,"Was absolutely electric at PG World! FB up to 95 mph with life, 2 quality breaking balls and showed the potential for a plus change. ",2019,South Alabama,646.0
+889,Riley Cornelio,TCU,40,6-3,193,R/R,"Monument, CO",None,None,Slammers-Cronican,Up to 93 at PG National,2019,TCU,698.0
+890,Jason Hodges,Arkansas,41,6-3,210,R/R,"Park Forest, IL",Rd 34 by Reds (2019),None,Chi-Town Cream,Big power in his bat. Outstanding in Jupiter ,2019,Arkansas,31.0
+891,Cade Doughty,LSU,42,6-1,195,R/R,"Denham Springs, LA",Rd 39 by Tigers (2019),None,EvoShield Canes,Can really hit and just an outstanding all around player,2019,LSU,365.0
+892,Jack Kochanowicz,Virginia,43,6-6,220,L/R,"Bala Cynwyd, PA",Rd 3 by Angels (2019),None,Banditos Scout Team,Big projection and already very good. Up to 94 in Jupiter ,2019,Virginia,746.0
+893,Hayden Dunhurst,Ole Miss,44,5-11,208,S/R,"Carriere, MS",Rd 37 by Rockies (2019),None,East Coast Sox Scout,Showed outstanding defensive tools at PG National. Big power potential at Junior National and PG Underclass All American Games. Really hit well in Jupiter ,2019,Ole Miss,433.0
+894,Mack Anglin,Clemson,45,6-5,195,R/R,"Marengo, OH",Rd 13 by Nationals (2021),None,Team Elite Prime,Up to 93 MPH at PG National with very good breaking ball,2019,Clemson,147.0
+895,Hayden Travinski,LSU,46,6-3,234,R/R,"Shreveport, LA",None,None,Canes American,Big power in his bat. Lots of loud contact at PG National including a HR,2019,LSU,365.0
+896,Chris Newell,Virginia,47,6-2,190,L/L,"Newtown Square, PA",Rd 37 by Cardinals (2019),None,Canes National,Really impressed at WWBA this summer,2019,Virginia,746.0
+897,Landon Sims,Mississippi St.,48,6-2,215,R/R,"Cumming, GA",None,None,Team Elite Prime,Up to 97 at 17u  WWBA ,2019,Mississippi St.,430.0
+898,Evan Fitterer,UCLA,49,6-3,195,R/R,"Aliso Viejo, CA",Rd 5 by Marlins (2019),None,Saddleback Cowboys,Very good in Jupiter ,2019,UCLA,110.0
+900,Zac Veen,Florida,1,6-4,195,L/R,"Port Orange, FL",Rd 1 by Rockies (2020),None,Orlando Scorpions 2020 Founders Club,Can really swing it. Big power potential. Very good at PG National ,2020,Florida,235.0
+901,Jordan Walker,Duke,2,6-5,220,R/R,"Stone Mountain, GA",Rd 1 by Cardinals (2020),None,Team Elite Scout Team,Power is coming in a big way. Outstanding at PGAAC.  A lot of loud contact at PG National and defense stands out at 3B.  .Showed big potential with bat at PG Underclass All American Games,2020,Duke,193.0
+902,Blaze Jordan,Mississippi St.,3,6-2,222,R/R,"Southaven, MS",Rd 3 by Red Sox (2020),None,Dulins Dodgers,New to 2020 class after being #1 from the start in 2021 class and jumps right to the top of 2020 list with his light tower power and outstanding hit tool to go with it that plays in games. Big arm strength and athleticism to project at any corner position. Very loud fall including the top exit velocity in Jupiter,2020,Mississippi St.,430.0
+903,Austin Hendrick,Mississippi St.,4,6-1,205,L/L,"Oakdale, PA",Rd 1 by Reds (2020),None,Team Elite Prime,"Showed huge power at PG National, Just continues to flat out mash. Seems like you can count on loud contact every time he is up. MVP of 2017 15u PG World Series",2020,Mississippi St.,430.0
+904,Jared Kelley,Texas,5,6-2,200,R/R,"Refugio, TX",Rd 2 by White Sox (2020),None,None,Up to 99 and dominant at PG All American. FB up to 98 mph at PG National and showed an outstanding breaking ball to go with it. ,2020,Texas,703.0
+905,Mick Abel,Oregon St.,6,6-5,198,R/R,"Cedar Mill, OR",Rd 1 by Phillies (2020),None,Gunderson Baseball,Got the start for the West at PG All American. Absolutely electric at PG National running his FB up to 97 mph with minimal effort and still projects for more. Showed a plus slider at 86 mph as well. PG Select 14u Alum ,2020,Oregon St.,528.0
+906,Ed Howard,Oklahoma,7,6-2,185,R/R,"Lynwood, IL",Rd 1 by Cubs (2020),None,Chicago White Sox ACE 2020,Showed big potential with bat at WWBA and followed up with outstanding showing at PG National. Sky is the limit for him. ,2020,Oklahoma,522.0
+907,Robert Hassell III,Vanderbilt,8,6-2,190,L/L,"Franklin, TN",Rd 1 by Padres (2020),None,Middle Tennessee Outlaws,BIg time LH bat that really projects. Very good at PG National ,2020,Vanderbilt,736.0
+908,Chase Davis,Arizona,9,6-1,211,L/L,"Elk Grove, CA",None,None,MLB Breakthrough Series,Showed big tools at PG National including throwing 99 from OF and has serious thunder in his bat. Absolutely mashed at WWBA Underclass. Big potential with bat and very impressive in Jupiter ,2020,Arizona,29.0
+909,Alex Santos,Maryland,10,6-4,204,R/R,"Bronx, NY",Rd 2 Comp by Astros (2020),None,Team Citius,Outstanding at PG All American. Up to 95 with a hammer. Up to 93 mph and very good at PG National ,2020,Maryland,392.0
+910,Masyn Winn,Arkansas,11,5-11,180,R/R,"Kingwood, TX",Rd 2 by Cardinals (2020),None,Sticks Baseball,Incredible performance in Jupiter 94-98 mph with a hammer and hit a HR in the same game. Outstanding at WWBA both on the mound and with bat. Real fun to watch play. 98 across infield at PG Junior National ,2020,Arkansas,31.0
+911,Nick Bitsko,Virginia,12,6-4,220,R/R,"Doylestown, PA",Rd 1 by Rays (2020),None,East Coast Sox,None,2020,Virginia,746.0
+912,Dylan Crews,LSU,13,6-0,195,R/R,"Longwood, FL",None,None,Scorpions 2019 Founders Club,Can really swing the bat. Bat really stood out at PG National and PG Underclass All American Games. Just always hits no matter where he is at. Outstanding at National Underclass Main Event ,2020,LSU,365.0
+913,Tyler Soderstrom,UCLA,14,6-2,190,L/R,"Turlock, CA",Rd 1 by Athletics (2020),None,Norcal,Elite LHH bat that really stood out at PG National ,2020,UCLA,110.0
+914,Pete Crow-Armstrong,Vanderbilt,15,6-1,175,L/L,"Sherman Oaks, CA",Rd 1 by Mets (2020),None,Pacific Baseball Academy,Really fun to watch play. Very good in the OF and big potential with the bat. Very good at PG National ,2020,Vanderbilt,736.0
+915,Mario Zabala,FIU,16,6-2,195,R/R,"San Juan, PR",None,None,Ibahs Knights,Big all around tools that really stood out at PG National. Outstanding at PG World where he ran a 6.28 60 yard dash.  Very good at PG Underclass AA Games. Outstanding in Jupiter,2020,FIU,231.0
+916,Carson Montgomery,Florida St.,17,6-2,208,R/R,"Windermere, FL",None,None,Power Baseball,"Up to 94 mph at Junior National with very good slider, Up to 96 mph at WWBA. Mid 90s and pitched well at PG National ",2020,Florida St.,234.0
+917,Daxton Fulton,Oklahoma,18,6-6,220,L/L,"Oklahoma City, OK",Rd 2 by Marlins (2020),None,MVP-Seng,Lights out performance at PG National and followed that up by striking out the side at PG All American Game. Up to 93 mph and can really pitch. ,2020,Oklahoma,522.0
+918,Coby Mayo,Florida,19,6-4,215,R/R,"Coral Springs, FL",Rd 4 by Orioles (2020),None,Elite Squad National,Big power in his bat and it plays in games. Very good showing at PG National ,2020,Florida,235.0
+919,Jared Jones,Texas,20,6-2,175,R/R,"Whittier, CA",Rd 2 by Pirates (2020),None,BPA,Up to 96 mph at PG National and also threw 100 mph from the OF,2020,Texas,703.0
+920,Kyle Harrison,UCLA,21,6-2,200,R/L,"Danville, CA",Rd 3 by Giants (2020),None,Danville Hoots,Electric performance at PG National running his FB up to 93 mph in two dominant innings. ,2020,UCLA,110.0
+921,Drew Romo,LSU,22,6-1,210,S/R,"The Woodlands, TX",Rd 1 Comp by Rockies (2020),None,Banditos Scout Team,Elite defensive skills and has the hitting tools to go with it. Very good a PG National and at PG Junior National in 2018,2020,LSU,365.0
+922,Slade Wilks,Southern Miss.,23,6-2,215,L/R,"Columbia, MS",None,None,EC Sox,Big power at PG Underclass All American Games including a game HR. Very good at PG National ,2020,Southern Miss.,664.0
+923,Alejandro Rosario,Miami (FL),24,6-1,165,R/R,"Miami, FL",None,None,Elite Squad,New to 2020 class and showed mid to better 90s this HS season,2020,Miami (FL),415.0
+924,Cayden Wallace,Arkansas,25,6-1,205,R/R,"Greenbrier, AR",None,None,Arkansas Prospects Menard,Big power potential in his bat. Very good at PG National. Also big prospect on the mound up to 91 at Junior National. Ran a 6.69 60. Mashed at WWBA with multiple 100+ exit velos ,2020,Arkansas,31.0
+925,Ryan Hagenow,Kentucky,26,6-5,208,R/R,"Knoxville, TN",None,None,eXposure Baseball,6 up 6 down at PG National striking out all 6 batters. FB up to 92 and really projects. ,2020,Kentucky,334.0
+926,Cade Horton,Oklahoma,27,6-2,190,R/R,"Norman, OK",None,None,MVP-Seng,Interesting two way prospect at PG National. Looked great in the IF with plenty of juice in his bat and up to 95 mph on the mound. ,2020,Oklahoma,522.0
+927,Ty Floyd,LSU,28,6-2,190,R/R,"Rockmart, GA",None,None,643 DP Cougars/Pralgo,Up to 95 mph and misses barrels ,2020,LSU,365.0
+928,Carter Baumler,TCU,29,6-2,195,R/R,"Grimes, IA",Rd 5 by Orioles (2020),None,HS Team,Dominant performance at PG National running his fastball up to 93 mph with a dominant breaking ball ,2020,TCU,698.0
+929,Kevin Parada,Georgia Tech,30,6-0,192,R/R,"Pasadena, CA",None,None,GBG Marucci Navy 2020,Outstanding in Jupiter and PG National. Always hits ,2020,Georgia Tech,255.0
+930,Brandon Fields,South Carolina,31,6-0,200,R/R,"Orlando, FL",None,None,FTB Scout Team,Bat showed big potential at PG National. Has impressed at many WWBA and BCS Tournaments,2020,South Carolina,648.0
+931,Yohandy Morales,Miami (FL),32,6-4,195,R/R,"Miami, FL",None,None,MVP Banditos,Big potential with bat. Very good both in Fort Myers and Jupiter this fall,2020,Miami (FL),415.0
+932,Jace Bohrofen,Oklahoma,33,6-2,195,L/R,"Oklahoma City, OK",None,None,MVP-Seng,Always hits. Big performance at PG National ,2020,Oklahoma,522.0
+933,Victor Mederos,Miami (FL),34,6-3,210,R/R,"Miami, FL",None,None,MVP Banditos,Outstanding at PG Junior National. Easy low 90s up to 94 and can pitch. Huge ceiling. Up to 90 at PG Select 14u and projects very well. ,2020,Miami (FL),415.0
+934,Jack Bulger,Vanderbilt,35,6-0,205,R/R,"Bowie, MD",None,None,Team Elite Prime,Big power potential in his bat. Ball is loud off his barrel ,2020,Vanderbilt,736.0
+935,Jake DeLeo,Georgia Tech,36,6-2,200,R/R,"Norwalk, CT",None,None,Dirtbags Skrap Pak,Showed big tools at PG National ,2020,Georgia Tech,255.0
+936,Ryan Bruno,Stanford,37,6-3,200,L/L,"Wellington, FL",None,None,East Coast Sox,Up to 94 mph at PG National and 96 at PG All American and WWBA,2020,Stanford,674.0
+937,Maxwell Carlson,North Carolina,38,6-1,175,R/R,"Savage, MN",None,None,Minnesota Blizzard,Low 90s RHP and was very good at PG National. Absolutely dominated in 2019,2020,North Carolina,457.0
+938,Drew Bowser,Stanford,39,6-3,205,R/R,"Encino, CA",None,None,Pacific Baseball Academy,"Took home all the hardware at PG All American Game. MVP, HR Challenge Champion and raised the most money for Rady Children's hospital. Bat really projects",2020,Stanford,674.0
+939,Ben Hernandez,UIC,40,6-2,205,R/R,"Chicago, IL",Rd 2 by Royals (2020),None,Top Tier American,Up to 93 mph at PG National and can really pitch ,2020,UIC,302.0
+940,Michael Brown,Washington,41,6-5,230,L/L,"Vacaville, CA",None,None,Show California,Showed huge power at PG Underclass AA Games in BP and then hit a long HR in Games in 2018 and followed that up with a no doubt bomb at 2019 PG National. Elite power that plays in games ,2020,Washington,756.0
+941,AJ Vukovich,Louisville,42,6-5,210,R/R,"Mukwonago, WI",Rd 4 by Diamondbacks (2020),None,Hitters 2020,Big power in his bat and it plays in games. Very good at PG National ,2020,Louisville,367.0
+942,Isaiah Greene,Missouri,43,6-1,180,L/L,"Eastvale, CA",Rd 2 Comp by Mets (2020),None,PFA- CAV,None,2020,Missouri,434.0
+943,Nate Wohlgemuth,Arkansas,44,5-11,195,R/R,"Owasso, OK",None,None,Oklahoma Fuel,"97 mph at WWBA and dominant, Up to 93 mph at PG Junior National. Big time arm already low 90's on the mound and threw 97 mph from OF at Midwest Top. No hitter in Jupiter ",2020,Arkansas,31.0
+944,Milan Tolentino,UCLA,45,6-1,180,L/R,"Mission Viejo, CA",Rd 4 by Indians (2020),None,Saddleback Cowboys,Easy actions in the infield and big potential with the bat. Very good at PG National,2020,UCLA,110.0
+945,Ethan Long,Arizona St.,46,6-2,215,R/R,"Gilbert, AZ",None,None,Team Elite Prime 16u,"Has been up to 97 on the mound, 97 from OF, 96 across the IF and big juice in his bat",2020,Arizona St.,28.0
+946,Kemp Alderman,Ole Miss,47,6-4,240,R/R,"Decatur, MS",None,None,Yalobusha Giants,Big juice in his bat,2020,Ole Miss,433.0
+947,Justin Lange,DBU,48,6-4,190,R/R,"Llano, TX",Rd 1 Comp by Padres (2020),None,GPS Texas 17U Puffer,None,2020,DBU,1045.0
+948,Jackson Miller,Wake Forest,49,6-1,210,L/R,"Trinity, FL",Rd 2 Comp by Reds (2020),None,Top Tier Roos Baseball,Really swings the bat well. ,2020,Wake Forest,749.0
+949,Cam Brown,TCU,50,6-3,200,R/R,"Flower Mound, TX",None,None,DBAT Elite-Tompkins,Very interesting RHP who projects well. Mid 90s with very good breaking ball ,2020,TCU,698.0
+950,Brady House,Tennessee,1,6-3,210,R/R,"Winder, GA",Rd 1 by Nationals (2021),None,Team Elite Prime,"Physically impressive with smooth actions & a good arm across; strong RH swing & can hit for average & power. Up to 96 mph on the bump, too. Exceptional at the PGHS Showdown showing power, speed and a refined defensive approach.",2021,Tennessee,694.0
+951,Marcelo Mayer,Southern California,2,6-3,190,L/R,"Chula Vista, CA",Rd 1 by Red Sox (2021),None,San Diego Show,Smooth lefthanded stroke with fluidity through zone; sound actions up the middle; lots of projection and one to follow closely,2021,Southern California,657.0
+952,Jordan Lawlar,Vanderbilt,3,6-2,185,R/R,"Irving, TX",Rd 1 by Diamondbacks (2021),None,Dallas Tigers,"High level athlete up the middle; above average run tool; short, repeatable RH swing with lots of barrel and jump coming off; stood out at 16u WWBA. A PG National standout with excellent defensive actions and the body and swing that project big, but already showing in game production.",2021,Vanderbilt,736.0
+953,Jackson Jobe,Ole Miss,4,6-2,190,R/R,"Oklahoma City, OK",Rd 1 by Tigers (2021),None,Thrive Baseball,Excellent over athlete and put up great overall numbers at the PG National. Ran his fastball up to 96 and his slider has an exceptionally high spin rate. ,2021,Ole Miss,433.0
+954,Kahlil Watson,NC State,5,5-11,168,L/R,"Wake Forest, NC",Rd 1 by Marlins (2021),None,Dirtbags Haynes,"Explosive tools across the board; continued ascent throughout summer & into fall; fast hands offensively, present juice w/ excellent barrel skills; stands out defensively, big arm across. ",2021,NC State,490.0
+955,James Wood,Mississippi St.,6,6-6,240,L/R,"Olney, MD",Rd 2 by Padres (2021),None,Dirtbags 2021,"Ultra-projectable 6-6 frame; easy power with big jump and backspin to all fields; moves well & shows a strong arm. Easy to see the power potential at the PG National, the overall skill set continues to trend upward in a big way. ",2021,Mississippi St.,430.0
+956,Joshua Baez,Vanderbilt,7,6-3,220,R/R,"Boston, MA",Rd 2 by Cardinals (2021),None,Beast Mode Prime 2021,"Physical build with standout tools; big present power & more to come; big performance at WWBA Underclass with the bat; up to 92 mph as well. The Elite tools were on displays at the PG National and pretty polished in the box too. Big raw velocity on the mound, as well, peaking at 96. ",2021,Vanderbilt,736.0
+957,Benny Montgomery,Virginia,8,6-4,200,R/R,"Lewisberry, PA",Rd 1 by Rockies (2021),None,Team Elite,"Put on an absolute show at National Underclass Main Event establishing himself as one of the top prospects in the class. 6.42 60, 97 from OF, 103 mph exit velo, 84.80 Max Barrel Speed and absolutely mashed in games including a no doubt HR. The loudest overall set of tools at the PG National. Very few have the type of power/speed combo he possesses. ",2021,Virginia,746.0
+958,Chase Petty,Florida,9,6-1,185,R/R,"Somers Point, NJ",Rd 1 by Twins (2021),None,BPC Oilers,"Up to 94 at PG Underclass All American Games; electric arm speed from tough slot, generates big life to FB; slider bites hard & late in low-80s. Up to 97 at the PG National and 98 a the PG Elite. He may have the best arm speed in the class. Very good athlete too. ",2021,Florida,235.0
+959,Andrew Painter,Florida,10,6-7,230,R/R,"Pompano Beach, FL",Rd 1 by Phillies (2021),None,Elite Squad 17u National,"Up to 94 mph at PG Junior National, controls delivery well & fills the zone; fastball jumps and more to come, feel for CB & SL. Up to 96 at the PG National with a 4-pitch mix and still has projection to go along with his current polish.",2021,Florida,235.0
+960,Harry Ford,Georgia Tech,11,5-10,200,R/R,"Kennesaw, GA",Rd 1 by Mariners (2021),None,East Cobb Astros,"Good athlete with big arm strength behind the plate; fast-twitch, ran a 6.50 at PG National with 85 mph down to second, big raw strength too",2021,Georgia Tech,255.0
+961,Alex Mooney,Duke,12,6-1,175,R/R,"Rochester Hills, MI",None,None,Canes National 17u,"Bat really projects & solid skills up the middle; impressed at Great Lakes Indoor, 6.8 speed & highly intriguing tools that played all summer. The PG National proved the massive overall toolset. Fluid, graceful and loads of upside remain even though he is already a consistent performer. ",2021,Duke,193.0
+962,Bubba Chandler,Clemson,13,6-3,201,S/R,"Bogart, GA",Rd 3 by Pirates (2021),None,East Cobb Yankees,Easy upper 80s and can really pitch ,2021,Clemson,147.0
+963,Ian Moller,LSU,14,6-1,207,R/R,"Dubuque, IA",Rd 4 by Rangers (2021),None,MLB Breakthrough Series,Advanced catch & throws skills and talented receiver; physical build with home run power right now; handles the barrel well; loud fall season. One of the best position workouts at the PG National and loud contact during games to follow. Elite in drills and games.,2021,LSU,365.0
+964,Joe Mack,Clemson,15,6-1,203,L/R,"Williamsville, NY",Rd 1 Comp by Marlins (2021),None,East Cobb Astros 17U,Big LH bat to follow closely; impressed with bat speed and juice at Underclass & Jupiter; good athlete with big arm strength behind dish. Continues to hit at every stop and the PG National just added to his offensive resume. ,2021,Clemson,147.0
+965,Daylen Lile,Louisville,16,6-0,195,L/R,"Louisville, KY",Rd 2 by Nationals (2021),None,17U Canes National,"Natural feel for the barrel from the left side; strength continues to come in every look; top of order type tools; MVP of Spring Kickoff, 6.80 at PG National",2021,Louisville,367.0
+966,Chase Burns,Tennessee,17,6-4,215,R/R,"Gallatin, TN",Rd 20 by Padres (2021),None,Cane's National 17u,"Up to 92 mph at 17u WWBA, big downhill angle with natural cut; late biting curveball in low-80s. Up to 99 at the PG National with feel for 4-pitches and a clean operation. Absolutely firm present stuff.",2021,Tennessee,694.0
+967,Tommy White,NC State,18,6-1,220,R/R,"St. Pete Beach, FL",None,None,Florida Burn Platinum 2021,"Huge power to all fields as shown at the Underclass AA Games, plays a high level third base.  True middle of the order potential shown in Jupiter. Showed massive power at the PG National, with good recognition skills and an accurate barrel. ",2021,NC State,490.0
+968,Shane Panzini,Virginia,19,6-3,220,R/R,"Spring Lake, NJ",Rd 4 by Royals (2021),None,9ers,Very good at the PG Underclass All American Games.  Exceptional outing at the Underclass World Championship and up to 93 in Jupiter.  Big promise here. Up to 95 at the PG National with a 4-pitch mix and matching release. Low effort and makings real command. ,2021,Virginia,746.0
+969,Jay Allen,Florida,20,6-3,190,R/R,"Fort Pierce, FL",Rd 1 Comp by Reds (2021),None,FTB San Francisco Giants scout,Super Athletic with a CF profile.  Huge potential with the bat and the power is starting to show up.  Big time 2-sport prospect. Really athletic actions at the PG National with middle of the field and middle of the lineup potential.  ,2021,Florida,235.0
+970,Wes Kath,Arizona St.,21,6-3,200,L/R,"Scottsdale, AZ",Rd 2 by White Sox (2021),None,Arizona Sandlot,"Loose left-handed stroke with present barrel skills, still shows room to project more power as he continues to fill out his large lean build with the ability to continue to impact the ball at a high rate.",2021,Arizona St.,28.0
+971,Will Taylor,Clemson,22,6-0,175,R/R,"Irmo, SC",Rd 19 by Rangers (2021),None,Diamond Devils 17U,"High end athlete with the ability to change the game using his speed, showed well at the plate all summer with some jump off the barrel to all fields.",2021,Clemson,147.0
+972,Braden Montgomery,Stanford,23,6-2,201,S/R,"Madison, MS",None,None,East Coast Sox,"Big time two-way ability; switch-hitter with repeatable stroke & handle for barrel; smooth & effortless mechanics on mound, up to 91 mph. 97 mph from OF at National Underclass West. Elite defensive workout at the PG National with the left-handed swing looking clean. Up to 93 on the mound too.  ",2021,Stanford,674.0
+973,Carter Holton,Vanderbilt,24,5-11,195,L/L,"Guyton, GA",Rd 19 by Brewers (2021),None,Team Elite American,Up to 94 and absolutely dominant in 2019. 3 swing and miss pitches that he commands well; touched 96 early in summer of 2020,2021,Vanderbilt,736.0
+974,Josh Hartle,Wake Forest,25,6-5,195,L/L,"King, NC",None,None,Team Elite,"MVPitcher at WWBA Freshmen World Championship; extremely projectable; pounds zone with big angle & clean arm. Also can really hit. Can just really pitch and that was on display at the PG National, easy innings and 3-pitch tunneling ability.  ",2021,Wake Forest,749.0
+975,Malakhi Knight,UCLA,26,6-3,187,R/R,"Marysville, WA",None,None,Rijo Showcase,Really good athlete with huge projection on both sides of the ball.  Big helium late in the summer. The massive athleticism was on display at the PG National. Lock down centerfield profile with developing power in the bat.  ,2021,UCLA,110.0
+976,Ben Kudrna,LSU,27,6-3,195,R/R,"Overland Park, KS",Rd 2 by Royals (2021),None,Building Champions,Showed plus arm speed at WWBA while running the FB up to 94 mph finishing off a strong 2020 showing.,2021,LSU,365.0
+977,Anthony Solometo,North Carolina,28,6-5,215,L/L,"Sicklerville, NJ",Rd 2 by Pirates (2021),None,Zoom Baseball Academy,Up to 91 mph this summer from the left side; very uncomfortable at-bat and fills the zone; comfort landing slider for strikes,2021,North Carolina,457.0
+978,Irving Carter,Miami (FL),29,6-4,200,R/R,"Boynton Beach, FL",Rd 5 by Blue Jays (2021),None,Elite Squad National  17U,"Advanced pitchability and feel on the bump; fastball up to 93 mph; late diving CH and solid CB keep hitters off balance, competes",2021,Miami (FL),415.0
+979,Brody Brecht,Iowa,30,6-4,185,R/R,"Ankeny, IA",None,None,Ankeny Warhawks,None,2021,Iowa,312.0
+980,Rene Lastres,Florida,31,6-3,205,R/R,"Hialeah Gardens, FL",None,None,Canes National,"Outstanding defensive catcher, high level catch & throw skills, extremely polished skills at PG National; strong build with big power in his bat, loose & extended stroke",2021,Florida,235.0
+981,Max Debiec,Washington,32,6-7,202,R/R,"Seattle, WA",None,None,Walla Walla Sweets,"Enormous upside in the body and ran his fastball up to 97 at the PG National. Very good athleticism and confidence in his 4-pitch mix. Has bat to balls skills offensively, as well.",2021,Washington,756.0
+982,Jac Caglianone,Florida,33,6-5,210,L/L,"Tampa, FL",None,None,FTB SF Giants Scout Team,"Huge projection in the left-handed bat and showed in game power at the WWBA, Underclass, and Jupiter.  Up to 90 mph on the bump as well. Power bat/Power arm on display at the PG National. Very good offensively and swing and miss on the hill at the PG Elite. up to 94 now. ",2021,Florida,235.0
+983,Edwin Arroyo,Florida St.,34,6-0,175,S/B,"Arecibo, PR",Rd 2 by Mariners (2021),None,FTB SF Giant Scout Team,"Really stood out all summer in all facets; fast-twitch athlete & fluid defender, excellent offensive tools from both sides. Big overall tools shown at the PG National. Great actions at shortstop and obvious switch-hitting ability. ",2021,Florida St.,234.0
+984,Izaac Pacheco,Texas A&M,35,6-4,220,L/R,"Friendswood, TX",Rd 2 by Tigers (2021),None,Team Elite,"Strong lefthanded bat with big power to pull side and bat speed; smooth defensive actions with athleticism; big power at 16u WWBA & stood out in Jupiter. Showed his normal power potential at the PG National, the body and defense continue to improve rapidly. Highest level run producing profile.",2021,Texas A&M,697.0
+985,Thatcher Hurd,UCLA,36,6-4,205,R/R,"Manhattan Beach, CA",None,None,None,"The body, athleticism and arm action give him all the ingredients to be a big riser. Low-90s on the bump and real feel for his off speed. Jumped on the scene at the PG National.   ",2021,UCLA,110.0
+986,Jackson Baumeister,Florida St.,37,6-3,215,R/R,"Jacksonville, FL",None,None,5 Star National,"Shows big two-way potential; athletic defender with strong arm behind the plate; lows 90s on mound with more in tank, feel for spin; clean mechanics",2021,Florida St.,234.0
+987,Camden Hayslip,Alabama,38,6-3,205,L/L,"Lebanon, TN",None,None,Rawling Southeast MAD Mavericks,The body and swing project huge for a hit plus power profile. Simply a loud PG National showcase in all phases. ,2021,Alabama,8.0
+988,Colson Montgomery,Indiana,39,6-4,190,L/R,"Holland, IN",Rd 1 by White Sox (2021),None,Nashville Knights,"Long & athletic frame, moves well on feet & controls body, quick transfer/release; intriguing LH power, fluid path w/ jump off the barrel",2021,Indiana,306.0
+989,Brock Selvidge,LSU,40,6-3,205,R/L,"Chandler, AZ",Rd 3 by Yankees (2021),None,CBA Marucci National,Fastball up to 90 mph and projects very well; big velocity jump last season & will only continue to gain. Outstanding at WWBA and PG Underclass AA Games. Big time stuff at the Perfect Game National with his fastball bumping 94 and a swing a miss type slider. Great 3-pitch mix.,2021,LSU,365.0
+990,Casey Saucke II,Virginia,41,6-3,190,R/R,"Rochester, NY",None,None,Diamond Pro/Dirtbags Baseball,"Outstanding two way prospect; moves well on feet defensively, showed power during PG National w/ loose swing; up to 92 mph on the mound too",2021,Virginia,746.0
+991,Mason Albright,Virginia Tech,42,6-0,190,L/L,"Thurmont, MD",Rd 12 by Angels (2021),None,Midatlantic Red Sox,"Great body control and unreal deception throughout his outing at the PG National. up to 94 and held velocity and command throughout, SL/CU play well off the FB. ",2021,Virginia Tech,742.0
+992,Cody Schrier,UCLA,43,6-1,190,R/R,"San Clemente, CA",None,None,TB Socal,Excellent feel for the game with carrying tools.  Heavy hands at the plate and shows the ability to hit good pitching.  Good performance at the PG Underclass AA Games. Really good overall skillset at the PG National. Dominant performance at PG Elite on both sides of the ball. Longterm shortstop and power potential in the bat.,2021,UCLA,110.0
+993,Lonnie White,Penn St.,44,6-3,205,R/R,"Coatesville, PA",Rd 2 Comp by Pirates (2021),None,Canes American 17U,Great athlete with a very high ceiling ,2021,Penn St.,539.0
+994,Gage Jump,UCLA,45,5-11,170,L/L,"Aliso, CA",Rd 18 by Padres (2021),None,Canes,"Up to 93 mph and electric in Jupiter.  Very polished lefty with a lightning quick arm and great track record, good feel for secondaries ",2021,UCLA,110.0
+995,Maddux Bruns,Mississippi St.,46,6-2,210,L/L,"Saraland, AL",Rd 1 by Dodgers (2021),None,East Coast Sox,"Huge statement at the PG National, running his fastball up to 97 with swing and miss secondary.  One of the highest ceilings in the class. ",2021,Mississippi St.,430.0
+996,Peyton Stovall,Arkansas,47,6-0,185,L/R,"Haughton, LA",None,None,5 Star Performance (Moran),None,2021,Arkansas,31.0
+997,Maxwell Muncy,Arkansas,48,6-1,170,R/R,"Camarillo, CA",Rd 1 by Athletics (2021),None,PBA,Really impressed at 16u WWBA; high level tools; bat speed stands out & can impact to all fields; versatile and twitchy defender,2021,Arkansas,31.0
+998,Noah Miller,Alabama,49,6-0,190,S/R,"Fredonia, WI",Rd 1 Comp by Twins (2021),None,Hitters Baseball U17,"Switch-hitter with big time offensive tools, fluidity to path from both sides w/ present bat speed; very sound defensively, soft hands w/ strong arm",2021,Alabama,8.0
+999,Pierce Coppola,Florida,50,6-8,215,L/L,"Verona, NJ",None,None,Orlando Scorpions 2021 Founder's Club,Exceptional potential at the PG National with a loud outing and a swing and miss 3-pitch mix. Even better the next week at the PG Elite when he reached 94. ,2021,Florida,235.0

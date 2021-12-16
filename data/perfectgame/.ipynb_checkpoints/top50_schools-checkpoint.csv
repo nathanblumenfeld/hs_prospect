@@ -1,0 +1,488 @@
+"","college","n","conference","school_id","year","division","conference_id"
+"1","Abilene Christian",1,"Southland",2,2021,1,914
+"2","Abilene Christian",1,"Southland",2,2018,1,914
+"3","Abilene Christian",1,"Southland",2,2020,1,914
+"4","Abilene Christian",1,"Southland",2,2019,1,914
+"5","Abilene Christian",1,"Southland",2,2016,1,914
+"6","Abilene Christian",1,"Lone Star",2,2013,2,868
+"7","Abilene Christian",1,"Southland",2,2017,1,914
+"8","Abilene Christian",1,"Southland",2,2015,1,914
+"9","Abilene Christian",1,"Southland",2,2014,1,914
+"10","Alabama",7,"SEC",8,2021,1,911
+"11","Alabama",7,"SEC",8,2020,1,911
+"12","Alabama",7,"SEC",8,2014,1,911
+"13","Alabama",7,"SEC",8,2017,1,911
+"14","Alabama",7,"SEC",8,2016,1,911
+"15","Alabama",7,"SEC",8,2018,1,911
+"16","Alabama",7,"SEC",8,2013,1,911
+"17","Alabama",7,"SEC",8,2019,1,911
+"18","Alabama",7,"SEC",8,2015,1,911
+"19","Arizona",8,"Pac-12",29,2019,1,905
+"20","Arizona",8,"Pac-12",29,2015,1,905
+"21","Arizona",8,"Pac-12",29,2013,1,905
+"22","Arizona",8,"Pac-12",29,2018,1,905
+"23","Arizona",8,"Pac-12",29,2017,1,905
+"24","Arizona",8,"Pac-12",29,2020,1,905
+"25","Arizona",8,"Pac-12",29,2021,1,905
+"26","Arizona",8,"Pac-12",29,2014,1,905
+"27","Arizona",8,"Pac-12",29,2016,1,905
+"28","Arizona State",11,NA,NA,NA,NA,NA
+"29","Arkansas",11,"SEC",31,2015,1,911
+"30","Arkansas",11,"SEC",31,2020,1,911
+"31","Arkansas",11,"SEC",31,2016,1,911
+"32","Arkansas",11,"SEC",31,2014,1,911
+"33","Arkansas",11,"SEC",31,2021,1,911
+"34","Arkansas",11,"SEC",31,2019,1,911
+"35","Arkansas",11,"SEC",31,2017,1,911
+"36","Arkansas",11,"SEC",31,2018,1,911
+"37","Arkansas",11,"SEC",31,2013,1,911
+"38","Auburn",6,"SEC",37,2017,1,911
+"39","Auburn",6,"SEC",37,2021,1,911
+"40","Auburn",6,"SEC",37,2018,1,911
+"41","Auburn",6,"SEC",37,2020,1,911
+"42","Auburn",6,"SEC",37,2016,1,911
+"43","Auburn",6,"SEC",37,2014,1,911
+"44","Auburn",6,"SEC",37,2019,1,911
+"45","Auburn",6,"SEC",37,2015,1,911
+"46","Auburn",6,"SEC",37,2013,1,911
+"47","Baylor",1,"Big 12",51,2021,1,25354
+"48","Baylor",1,"Big 12",51,2016,1,25354
+"49","Baylor",1,"Big 12",51,2015,1,25354
+"50","Baylor",1,"Big 12",51,2020,1,25354
+"51","Baylor",1,"Big 12",51,2017,1,25354
+"52","Baylor",1,"Big 12",51,2018,1,25354
+"53","Baylor",1,"Big 12",51,2013,1,25354
+"54","Baylor",1,"Big 12",51,2019,1,25354
+"55","Baylor",1,"Big 12",51,2014,1,25354
+"56","Brigham Young",1,NA,NA,NA,NA,NA
+"57","Cal Poly",1,"Big West",90,2018,1,904
+"58","Cal Poly",1,"Big West",90,2020,1,904
+"59","Cal Poly",1,"Big West",90,2019,1,904
+"60","Cal Poly",1,"Big West",90,2014,1,904
+"61","Cal Poly",1,"Big West",90,2015,1,904
+"62","Cal Poly",1,"Big West",90,2017,1,904
+"63","Cal Poly",1,"Big West",90,2021,1,904
+"64","Cal Poly",1,"Big West",90,2013,1,904
+"65","Cal Poly",1,"Big West",90,2016,1,904
+"66","Cal State Fullerton",2,NA,NA,NA,NA,NA
+"67","California",2,"Pac-12",107,2019,1,905
+"68","California",2,"Pac-12",107,2018,1,905
+"69","California",2,"Pac-12",107,2014,1,905
+"70","California",2,"Pac-12",107,2020,1,905
+"71","California",2,"Pac-12",107,2016,1,905
+"72","California",2,"Pac-12",107,2015,1,905
+"73","California",2,"Pac-12",107,2017,1,905
+"74","California",2,"Pac-12",107,2021,1,905
+"75","California",2,"Pac-12",107,2013,1,905
+"76","Clemson",14,"ACC",147,2014,1,821
+"77","Clemson",14,"ACC",147,2015,1,821
+"78","Clemson",14,"ACC",147,2016,1,821
+"79","Clemson",14,"ACC",147,2019,1,821
+"80","Clemson",14,"ACC",147,2017,1,821
+"81","Clemson",14,"ACC",147,2018,1,821
+"82","Clemson",14,"ACC",147,2013,1,821
+"83","Clemson",14,"ACC",147,2020,1,821
+"84","Clemson",14,"ACC",147,2021,1,821
+"85","Dallas Baptist",2,NA,NA,NA,NA,NA
+"86","Duke",4,"ACC",193,2014,1,821
+"87","Duke",4,"ACC",193,2019,1,821
+"88","Duke",4,"ACC",193,2016,1,821
+"89","Duke",4,"ACC",193,2013,1,821
+"90","Duke",4,"ACC",193,2020,1,821
+"91","Duke",4,"ACC",193,2018,1,821
+"92","Duke",4,"ACC",193,2017,1,821
+"93","Duke",4,"ACC",193,2015,1,821
+"94","Duke",4,"ACC",193,2021,1,821
+"95","East Carolina",1,"AAC",196,2019,1,823
+"96","East Carolina",1,"AAC",196,2016,1,823
+"97","East Carolina",1,"AAC",196,2020,1,823
+"98","East Carolina",1,"AAC",196,2018,1,823
+"99","East Carolina",1,"C-USA",196,2014,1,24312
+"100","East Carolina",1,"AAC",196,2015,1,823
+"101","East Carolina",1,"AAC",196,2021,1,823
+"102","East Carolina",1,"C-USA",196,2013,1,24312
+"103","East Carolina",1,"AAC",196,2017,1,823
+"104","Florida",29,"SEC",235,2019,1,911
+"105","Florida",29,"SEC",235,2015,1,911
+"106","Florida",29,"SEC",235,2013,1,911
+"107","Florida",29,"SEC",235,2014,1,911
+"108","Florida",29,"SEC",235,2018,1,911
+"109","Florida",29,"SEC",235,2016,1,911
+"110","Florida",29,"SEC",235,2021,1,911
+"111","Florida",29,"SEC",235,2020,1,911
+"112","Florida",29,"SEC",235,2017,1,911
+"113","Florida Atlantic",2,NA,NA,NA,NA,NA
+"114","Florida International",5,NA,NA,NA,NA,NA
+"115","Florida State",19,NA,NA,NA,NA,NA
+"116","Fresno State",2,NA,NA,NA,NA,NA
+"117","Georgia",9,"SEC",257,2020,1,911
+"118","Georgia",9,"SEC",257,2019,1,911
+"119","Georgia",9,"SEC",257,2018,1,911
+"120","Georgia",9,"SEC",257,2013,1,911
+"121","Georgia",9,"SEC",257,2016,1,911
+"122","Georgia",9,"SEC",257,2015,1,911
+"123","Georgia",9,"SEC",257,2021,1,911
+"124","Georgia",9,"SEC",257,2014,1,911
+"125","Georgia",9,"SEC",257,2017,1,911
+"126","Georgia Southern",1,NA,NA,NA,NA,NA
+"127","Georgia Tech",9,"ACC",255,2016,1,821
+"128","Georgia Tech",9,"ACC",255,2017,1,821
+"129","Georgia Tech",9,"ACC",255,2013,1,821
+"130","Georgia Tech",9,"ACC",255,2020,1,821
+"131","Georgia Tech",9,"ACC",255,2018,1,821
+"132","Georgia Tech",9,"ACC",255,2021,1,821
+"133","Georgia Tech",9,"ACC",255,2015,1,821
+"134","Georgia Tech",9,"ACC",255,2019,1,821
+"135","Georgia Tech",9,"ACC",255,2014,1,821
+"136","Hawaii",1,"Big West",277,2016,1,904
+"137","Hawaii",1,"Big West",277,2021,1,904
+"138","Hawaii",1,"Big West",277,2015,1,904
+"139","Hawaii",1,"Big West",277,2018,1,904
+"140","Hawaii",1,"Big West",277,2013,1,904
+"141","Hawaii",1,"Big West",277,2019,1,904
+"142","Hawaii",1,"Big West",277,2017,1,904
+"143","Hawaii",1,"Big West",277,2014,1,904
+"144","Hawaii",1,"Big West",277,2020,1,904
+"145","Houston",1,"AAC",288,2014,1,823
+"146","Houston",1,"AAC",288,2020,1,823
+"147","Houston",1,"AAC",288,2019,1,823
+"148","Houston",1,"AAC",288,2018,1,823
+"149","Houston",1,"AAC",288,2015,1,823
+"150","Houston",1,"C-USA",288,2013,1,24312
+"151","Houston",1,"AAC",288,2017,1,823
+"152","Houston",1,"AAC",288,2021,1,823
+"153","Houston",1,"AAC",288,2016,1,823
+"154","Illinois-Chicago",1,NA,NA,NA,NA,NA
+"155","Indiana",1,"Big Ten",306,2020,1,827
+"156","Indiana",1,"Big Ten",306,2018,1,827
+"157","Indiana",1,"Big Ten",306,2013,1,827
+"158","Indiana",1,"Big Ten",306,2017,1,827
+"159","Indiana",1,"Big Ten",306,2014,1,827
+"160","Indiana",1,"Big Ten",306,2016,1,827
+"161","Indiana",1,"Big Ten",306,2019,1,827
+"162","Indiana",1,"Big Ten",306,2015,1,827
+"163","Indiana",1,"Big Ten",306,2021,1,827
+"164","Iowa",1,"Big Ten",312,2014,1,827
+"165","Iowa",1,"Big Ten",312,2017,1,827
+"166","Iowa",1,"Big Ten",312,2016,1,827
+"167","Iowa",1,"Big Ten",312,2013,1,827
+"168","Iowa",1,"Big Ten",312,2021,1,827
+"169","Iowa",1,"Big Ten",312,2015,1,827
+"170","Iowa",1,"Big Ten",312,2019,1,827
+"171","Iowa",1,"Big Ten",312,2020,1,827
+"172","Iowa",1,"Big Ten",312,2018,1,827
+"173","Jacksonville",1,"ASUN",316,2013,1,920
+"174","Jacksonville",1,"ASUN",316,2016,1,920
+"175","Jacksonville",1,"ASUN",316,2015,1,920
+"176","Jacksonville",1,"ASUN",316,2017,1,920
+"177","Jacksonville",1,"ASUN",316,2020,1,920
+"178","Jacksonville",1,"ASUN",316,2018,1,920
+"179","Jacksonville",1,"ASUN",316,2019,1,920
+"180","Jacksonville",1,"ASUN",316,2021,1,920
+"181","Jacksonville",1,"ASUN",316,2014,1,920
+"182","Kansas",2,"Big 12",328,2013,1,25354
+"183","Kansas",2,"Big 12",328,2016,1,25354
+"184","Kansas",2,"Big 12",328,2014,1,25354
+"185","Kansas",2,"Big 12",328,2020,1,25354
+"186","Kansas",2,"Big 12",328,2021,1,25354
+"187","Kansas",2,"Big 12",328,2015,1,25354
+"188","Kansas",2,"Big 12",328,2019,1,25354
+"189","Kansas",2,"Big 12",328,2017,1,25354
+"190","Kansas",2,"Big 12",328,2018,1,25354
+"191","Kennesaw State",1,NA,NA,NA,NA,NA
+"192","Kentucky",6,"SEC",334,2020,1,911
+"193","Kentucky",6,"SEC",334,2018,1,911
+"194","Kentucky",6,"SEC",334,2015,1,911
+"195","Kentucky",6,"SEC",334,2017,1,911
+"196","Kentucky",6,"SEC",334,2021,1,911
+"197","Kentucky",6,"SEC",334,2016,1,911
+"198","Kentucky",6,"SEC",334,2019,1,911
+"199","Kentucky",6,"SEC",334,2013,1,911
+"200","Kentucky",6,"SEC",334,2014,1,911
+"201","Liberty",2,"Big South",355,2015,1,826
+"202","Liberty",2,"ASUN",355,2020,1,920
+"203","Liberty",2,"Big South",355,2013,1,826
+"204","Liberty",2,"Big South",355,2018,1,826
+"205","Liberty",2,"ASUN",355,2019,1,920
+"206","Liberty",2,"ASUN",355,2021,1,920
+"207","Liberty",2,"Big South",355,2017,1,826
+"208","Liberty",2,"Big South",355,2014,1,826
+"209","Liberty",2,"Big South",355,2016,1,826
+"210","Louisiana State",21,NA,NA,NA,NA,NA
+"211","Louisville",7,"ACC",367,2018,1,821
+"212","Louisville",7,"ACC",367,2015,1,821
+"213","Louisville",7,"AAC",367,2014,1,823
+"214","Louisville",7,"ACC",367,2019,1,821
+"215","Louisville",7,"ACC",367,2020,1,821
+"216","Louisville",7,"ACC",367,2016,1,821
+"217","Louisville",7,"AAC",367,2013,1,823
+"218","Louisville",7,"ACC",367,2021,1,821
+"219","Louisville",7,"ACC",367,2017,1,821
+"220","Loyola Marymount",2,NA,NA,NA,NA,NA
+"221","Maryland",2,"Big Ten",392,2019,1,827
+"222","Maryland",2,"Big Ten",392,2020,1,827
+"223","Maryland",2,"ACC",392,2014,1,821
+"224","Maryland",2,"Big Ten",392,2018,1,827
+"225","Maryland",2,"ACC",392,2013,1,821
+"226","Maryland",2,"Big Ten",392,2015,1,827
+"227","Maryland",2,"Big Ten",392,2017,1,827
+"228","Maryland",2,"Big Ten",392,2016,1,827
+"229","Maryland",2,"Big Ten",392,2021,1,827
+"230","Miami",20,NA,NA,NA,NA,NA
+"231","Mississippi",16,NA,NA,NA,NA,NA
+"232","Mississippi State",12,NA,NA,NA,NA,NA
+"233","Missouri",5,"SEC",434,2018,1,911
+"234","Missouri",5,"SEC",434,2015,1,911
+"235","Missouri",5,"SEC",434,2014,1,911
+"236","Missouri",5,"SEC",434,2013,1,911
+"237","Missouri",5,"SEC",434,2016,1,911
+"238","Missouri",5,"SEC",434,2021,1,911
+"239","Missouri",5,"SEC",434,2020,1,911
+"240","Missouri",5,"SEC",434,2019,1,911
+"241","Missouri",5,"SEC",434,2017,1,911
+"242","Nebraska",3,"Big Ten",463,2013,1,827
+"243","Nebraska",3,"Big Ten",463,2014,1,827
+"244","Nebraska",3,"Big Ten",463,2016,1,827
+"245","Nebraska",3,"Big Ten",463,2015,1,827
+"246","Nebraska",3,"Big Ten",463,2020,1,827
+"247","Nebraska",3,"Big Ten",463,2017,1,827
+"248","Nebraska",3,"Big Ten",463,2018,1,827
+"249","Nebraska",3,"Big Ten",463,2019,1,827
+"250","Nebraska",3,"Big Ten",463,2021,1,827
+"251","None",15,NA,NA,NA,NA,NA
+"252","North Carolina",18,"ACC",457,2013,1,821
+"253","North Carolina",18,"ACC",457,2015,1,821
+"254","North Carolina",18,"ACC",457,2021,1,821
+"255","North Carolina",18,"ACC",457,2020,1,821
+"256","North Carolina",18,"ACC",457,2014,1,821
+"257","North Carolina",18,"ACC",457,2019,1,821
+"258","North Carolina",18,"ACC",457,2016,1,821
+"259","North Carolina",18,"ACC",457,2018,1,821
+"260","North Carolina",18,"ACC",457,2017,1,821
+"261","North Carolina State",4,NA,NA,NA,NA,NA
+"262","Notre Dame",1,"ACC",513,2017,1,821
+"263","Notre Dame",1,"ACC",513,2020,1,821
+"264","Notre Dame",1,"ACC",513,2019,1,821
+"265","Notre Dame",1,"ACC",513,2016,1,821
+"266","Notre Dame",1,"ACC",513,2014,1,821
+"267","Notre Dame",1,"ACC",513,2015,1,821
+"268","Notre Dame",1,"ACC",513,2018,1,821
+"269","Notre Dame",1,"AAC",513,2013,1,823
+"270","Notre Dame",1,"ACC",513,2021,1,821
+"271","Ohio State",1,NA,NA,NA,NA,NA
+"272","Oklahoma",5,"Big 12",522,2016,1,25354
+"273","Oklahoma",5,"Big 12",522,2017,1,25354
+"274","Oklahoma",5,"Big 12",522,2018,1,25354
+"275","Oklahoma",5,"Big 12",522,2021,1,25354
+"276","Oklahoma",5,"Big 12",522,2015,1,25354
+"277","Oklahoma",5,"Big 12",522,2013,1,25354
+"278","Oklahoma",5,"Big 12",522,2019,1,25354
+"279","Oklahoma",5,"Big 12",522,2020,1,25354
+"280","Oklahoma",5,"Big 12",522,2014,1,25354
+"281","Oklahoma State",6,NA,NA,NA,NA,NA
+"282","Oregon",6,"Pac-12",529,2013,1,905
+"283","Oregon",6,"Pac-12",529,2020,1,905
+"284","Oregon",6,"Pac-12",529,2018,1,905
+"285","Oregon",6,"Pac-12",529,2019,1,905
+"286","Oregon",6,"Pac-12",529,2016,1,905
+"287","Oregon",6,"Pac-12",529,2014,1,905
+"288","Oregon",6,"Pac-12",529,2021,1,905
+"289","Oregon",6,"Pac-12",529,2015,1,905
+"290","Oregon",6,"Pac-12",529,2017,1,905
+"291","Oregon State",2,NA,NA,NA,NA,NA
+"292","Penn State",1,NA,NA,NA,NA,NA
+"293","Pepperdine",2,"WCC",541,2021,1,922
+"294","Pepperdine",2,"WCC",541,2020,1,922
+"295","Pepperdine",2,"WCC",541,2015,1,922
+"296","Pepperdine",2,"WCC",541,2017,1,922
+"297","Pepperdine",2,"WCC",541,2019,1,922
+"298","Pepperdine",2,"WCC",541,2018,1,922
+"299","Pepperdine",2,"WCC",541,2016,1,922
+"300","Pepperdine",2,"WCC",541,2014,1,922
+"301","Pepperdine",2,"WCC",541,2013,1,922
+"302","Pittsburgh",1,"ACC",545,2021,1,821
+"303","Pittsburgh",1,"ACC",545,2014,1,821
+"304","Pittsburgh",1,"AAC",545,2013,1,823
+"305","Pittsburgh",1,"ACC",545,2020,1,821
+"306","Pittsburgh",1,"ACC",545,2017,1,821
+"307","Pittsburgh",1,"ACC",545,2018,1,821
+"308","Pittsburgh",1,"ACC",545,2019,1,821
+"309","Pittsburgh",1,"ACC",545,2016,1,821
+"310","Pittsburgh",1,"ACC",545,2015,1,821
+"311","Rice",3,"C-USA",574,2013,1,24312
+"312","Rice",3,"C-USA",574,2020,1,24312
+"313","Rice",3,"C-USA",574,2014,1,24312
+"314","Rice",3,"C-USA",574,2016,1,24312
+"315","Rice",3,"C-USA",574,2017,1,24312
+"316","Rice",3,"C-USA",574,2021,1,24312
+"317","Rice",3,"C-USA",574,2019,1,24312
+"318","Rice",3,"C-USA",574,2015,1,24312
+"319","Rice",3,"C-USA",574,2018,1,24312
+"320","San Diego",5,"WCC",627,2019,1,922
+"321","San Diego",5,"WCC",627,2020,1,922
+"322","San Diego",5,"WCC",627,2014,1,922
+"323","San Diego",5,"WCC",627,2015,1,922
+"324","San Diego",5,"WCC",627,2013,1,922
+"325","San Diego",5,"WCC",627,2018,1,922
+"326","San Diego",5,"WCC",627,2017,1,922
+"327","San Diego",5,"WCC",627,2021,1,922
+"328","San Diego",5,"WCC",627,2016,1,922
+"329","San Diego State",3,NA,NA,NA,NA,NA
+"330","South Alabama",1,"Sun Belt",646,2021,1,818
+"331","South Alabama",1,"Sun Belt",646,2016,1,818
+"332","South Alabama",1,"Sun Belt",646,2020,1,818
+"333","South Alabama",1,"Sun Belt",646,2013,1,818
+"334","South Alabama",1,"Sun Belt",646,2019,1,818
+"335","South Alabama",1,"Sun Belt",646,2014,1,818
+"336","South Alabama",1,"Sun Belt",646,2018,1,818
+"337","South Alabama",1,"Sun Belt",646,2015,1,818
+"338","South Alabama",1,"Sun Belt",646,2017,1,818
+"339","South Carolina",11,"SEC",648,2015,1,911
+"340","South Carolina",11,"SEC",648,2016,1,911
+"341","South Carolina",11,"SEC",648,2019,1,911
+"342","South Carolina",11,"SEC",648,2014,1,911
+"343","South Carolina",11,"SEC",648,2021,1,911
+"344","South Carolina",11,"SEC",648,2020,1,911
+"345","South Carolina",11,"SEC",648,2018,1,911
+"346","South Carolina",11,"SEC",648,2017,1,911
+"347","South Carolina",11,"SEC",648,2013,1,911
+"348","South Florida",1,NA,NA,NA,NA,NA
+"349","Southern California",14,"Pac-12",657,2017,1,905
+"350","Southern California",14,"Pac-12",657,2015,1,905
+"351","Southern California",14,"Pac-12",657,2019,1,905
+"352","Southern California",14,"Pac-12",657,2018,1,905
+"353","Southern California",14,"Pac-12",657,2016,1,905
+"354","Southern California",14,"Pac-12",657,2021,1,905
+"355","Southern California",14,"Pac-12",657,2014,1,905
+"356","Southern California",14,"Pac-12",657,2020,1,905
+"357","Southern California",14,"Pac-12",657,2013,1,905
+"358","Southern Miss",1,NA,NA,NA,NA,NA
+"359","St. John's",3,NA,NA,NA,NA,NA
+"360","Stanford",6,"Pac-12",674,2014,1,905
+"361","Stanford",6,"Pac-12",674,2016,1,905
+"362","Stanford",6,"Pac-12",674,2015,1,905
+"363","Stanford",6,"Pac-12",674,2013,1,905
+"364","Stanford",6,"Pac-12",674,2021,1,905
+"365","Stanford",6,"Pac-12",674,2017,1,905
+"366","Stanford",6,"Pac-12",674,2020,1,905
+"367","Stanford",6,"Pac-12",674,2019,1,905
+"368","Stanford",6,"Pac-12",674,2018,1,905
+"369","TCU",16,"Big 12",698,2013,1,25354
+"370","TCU",16,"Big 12",698,2018,1,25354
+"371","TCU",16,"Big 12",698,2017,1,25354
+"372","TCU",16,"Big 12",698,2016,1,25354
+"373","TCU",16,"Big 12",698,2015,1,25354
+"374","TCU",16,"Big 12",698,2014,1,25354
+"375","TCU",16,"Big 12",698,2020,1,25354
+"376","TCU",16,"Big 12",698,2019,1,25354
+"377","TCU",16,"Big 12",698,2021,1,25354
+"378","Tennessee",5,"SEC",694,2018,1,911
+"379","Tennessee",5,"SEC",694,2016,1,911
+"380","Tennessee",5,"SEC",694,2013,1,911
+"381","Tennessee",5,"SEC",694,2014,1,911
+"382","Tennessee",5,"SEC",694,2019,1,911
+"383","Tennessee",5,"SEC",694,2015,1,911
+"384","Tennessee",5,"SEC",694,2020,1,911
+"385","Tennessee",5,"SEC",694,2021,1,911
+"386","Tennessee",5,"SEC",694,2017,1,911
+"387","Texas",11,"Big 12",703,2018,1,25354
+"388","Texas",11,"Big 12",703,2020,1,25354
+"389","Texas",11,"Big 12",703,2015,1,25354
+"390","Texas",11,"Big 12",703,2014,1,25354
+"391","Texas",11,"Big 12",703,2019,1,25354
+"392","Texas",11,"Big 12",703,2013,1,25354
+"393","Texas",11,"Big 12",703,2016,1,25354
+"394","Texas",11,"Big 12",703,2021,1,25354
+"395","Texas",11,"Big 12",703,2017,1,25354
+"396","Texas A&M",13,"SEC",697,2021,1,911
+"397","Texas A&M",13,"SEC",697,2020,1,911
+"398","Texas A&M",13,"SEC",697,2014,1,911
+"399","Texas A&M",13,"SEC",697,2016,1,911
+"400","Texas A&M",13,"SEC",697,2015,1,911
+"401","Texas A&M",13,"SEC",697,2017,1,911
+"402","Texas A&M",13,"SEC",697,2013,1,911
+"403","Texas A&M",13,"SEC",697,2018,1,911
+"404","Texas A&M",13,"SEC",697,2019,1,911
+"405","Texas Tech",4,"Big 12",700,2019,1,25354
+"406","Texas Tech",4,"Big 12",700,2015,1,25354
+"407","Texas Tech",4,"Big 12",700,2016,1,25354
+"408","Texas Tech",4,"Big 12",700,2013,1,25354
+"409","Texas Tech",4,"Big 12",700,2021,1,25354
+"410","Texas Tech",4,"Big 12",700,2017,1,25354
+"411","Texas Tech",4,"Big 12",700,2018,1,25354
+"412","Texas Tech",4,"Big 12",700,2014,1,25354
+"413","Texas Tech",4,"Big 12",700,2020,1,25354
+"414","UC Irvine",1,"Big West",109,2014,1,904
+"415","UC Irvine",1,"Big West",109,2013,1,904
+"416","UC Irvine",1,"Big West",109,2018,1,904
+"417","UC Irvine",1,"Big West",109,2015,1,904
+"418","UC Irvine",1,"Big West",109,2021,1,904
+"419","UC Irvine",1,"Big West",109,2017,1,904
+"420","UC Irvine",1,"Big West",109,2019,1,904
+"421","UC Irvine",1,"Big West",109,2016,1,904
+"422","UC Irvine",1,"Big West",109,2020,1,904
+"423","UCF",5,"AAC",128,2020,1,823
+"424","UCF",5,"AAC",128,2018,1,823
+"425","UCF",5,"C-USA",128,2013,1,24312
+"426","UCF",5,"AAC",128,2019,1,823
+"427","UCF",5,"AAC",128,2016,1,823
+"428","UCF",5,"AAC",128,2014,1,823
+"429","UCF",5,"AAC",128,2017,1,823
+"430","UCF",5,"AAC",128,2015,1,823
+"431","UCF",5,"AAC",128,2021,1,823
+"432","UCLA",28,"Pac-12",110,2020,1,905
+"433","UCLA",28,"Pac-12",110,2017,1,905
+"434","UCLA",28,"Pac-12",110,2016,1,905
+"435","UCLA",28,"Pac-12",110,2013,1,905
+"436","UCLA",28,"Pac-12",110,2021,1,905
+"437","UCLA",28,"Pac-12",110,2018,1,905
+"438","UCLA",28,"Pac-12",110,2014,1,905
+"439","UCLA",28,"Pac-12",110,2015,1,905
+"440","UCLA",28,"Pac-12",110,2019,1,905
+"441","UNC-Wilmington",3,NA,NA,NA,NA,NA
+"442","University of Connecticut",1,NA,NA,NA,NA,NA
+"443","Vanderbilt",30,"SEC",736,2019,1,911
+"444","Vanderbilt",30,"SEC",736,2018,1,911
+"445","Vanderbilt",30,"SEC",736,2020,1,911
+"446","Vanderbilt",30,"SEC",736,2016,1,911
+"447","Vanderbilt",30,"SEC",736,2021,1,911
+"448","Vanderbilt",30,"SEC",736,2014,1,911
+"449","Vanderbilt",30,"SEC",736,2013,1,911
+"450","Vanderbilt",30,"SEC",736,2017,1,911
+"451","Vanderbilt",30,"SEC",736,2015,1,911
+"452","Virginia",12,"ACC",746,2021,1,821
+"453","Virginia",12,"ACC",746,2018,1,821
+"454","Virginia",12,"ACC",746,2013,1,821
+"455","Virginia",12,"ACC",746,2019,1,821
+"456","Virginia",12,"ACC",746,2014,1,821
+"457","Virginia",12,"ACC",746,2015,1,821
+"458","Virginia",12,"ACC",746,2020,1,821
+"459","Virginia",12,"ACC",746,2017,1,821
+"460","Virginia",12,"ACC",746,2016,1,821
+"461","Virginia Tech",1,"ACC",742,2021,1,821
+"462","Virginia Tech",1,"ACC",742,2014,1,821
+"463","Virginia Tech",1,"ACC",742,2015,1,821
+"464","Virginia Tech",1,"ACC",742,2016,1,821
+"465","Virginia Tech",1,"ACC",742,2013,1,821
+"466","Virginia Tech",1,"ACC",742,2018,1,821
+"467","Virginia Tech",1,"ACC",742,2019,1,821
+"468","Virginia Tech",1,"ACC",742,2020,1,821
+"469","Virginia Tech",1,"ACC",742,2017,1,821
+"470","Wake Forest",4,"ACC",749,2018,1,821
+"471","Wake Forest",4,"ACC",749,2017,1,821
+"472","Wake Forest",4,"ACC",749,2015,1,821
+"473","Wake Forest",4,"ACC",749,2020,1,821
+"474","Wake Forest",4,"ACC",749,2016,1,821
+"475","Wake Forest",4,"ACC",749,2021,1,821
+"476","Wake Forest",4,"ACC",749,2019,1,821
+"477","Wake Forest",4,"ACC",749,2014,1,821
+"478","Wake Forest",4,"ACC",749,2013,1,821
+"479","Washington",3,"Pac-12",756,2016,1,905
+"480","Washington",3,"Pac-12",756,2017,1,905
+"481","Washington",3,"Pac-12",756,2019,1,905
+"482","Washington",3,"Pac-12",756,2020,1,905
+"483","Washington",3,"Pac-12",756,2018,1,905
+"484","Washington",3,"Pac-12",756,2013,1,905
+"485","Washington",3,"Pac-12",756,2015,1,905
+"486","Washington",3,"Pac-12",756,2021,1,905
+"487","Washington",3,"Pac-12",756,2014,1,905
